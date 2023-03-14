@@ -1,0 +1,951 @@
+Avg: 57.662099422305495
+'Elizabeth made no answer.'	1.0583794730710565
+'So much the better.'	1.0689742700215656
+'No, nothing at all.'	1.0699774394149197
+'Darcy made no answer.'	1.0860030736277315
+'He made no answer.'	1.0860030736277315
+'Not at all.'	1.186286965340131
+'I am so happy.'	1.225897262170575
+'But however he did not.'	1.4094524109938695
+'She shook her head.'	1.4096072823026615
+'Jane shook her head.'	1.4096072823026615
+'This cannot be!'	1.415000269982396
+'But you--How are you?'	1.6077998296085845
+'What am I to do?'	1.6562903498444528
+'Of what are you talking?'	1.7126468498899259
+'It was lady Catherine de Bourgh.'	1.7467114433108004
+'Mr Bennet made no answer.'	1.7840033347604323
+'Complied with!'	1.9859247580825923
+'good or bad?'	1.9960403148862147
+'I cannot believe it.'	2.0268783059809543
+'Not yet,  replied Jane.'	2.220482212759574
+'Elizabeth replied that it was.'	2.2871253038010533
+'And they  must  marry!'	2.305046701307491
+'I see no occasion for that.'	2.5516846824436303
+'cried Elizabeth.'	2.5774297027402744
+'cried he, turning towards her.'	2.590616405868643
+'We now come to the point.'	2.6097773800021815
+'Did you see it?'	2.7102030209439425
+'She\nstudied every sentence:'	2.763525937549666
+'You mistake me, my dear.'	2.884277775838471
+'You know nothing of the matter.'	3.0713135931575843
+'said Elizabeth.'	3.10108163157065
+'Nor I, I am sure,  said Miss Bingley.'	3.2257191069220856
+'Is he married or single?'	3.563311454630304
+'What will become of me.'	3.6844648636134862
+'Lady Catherine seemed pleased.'	3.7811545591932063
+'cried Elizabeth, with the greatest satisfaction.'	3.9945091153288423
+'cried Bingley.'	4.107836954339129
+'Mr Annesley is with her.'	4.315423750366185
+'Perhaps we might be deceived.'	4.347953205575142
+'I am trying to make it out.'	4.36581021289034
+'Dear Lizzy!'	4.495257536043704
+'You forget that I have made no\nanswer.'	4.496919556968002
+'Lady Catherine, I have nothing farther to say.'	4.552870679227345
+'I congratulate her.'	4.68292661831452
+'The girls stared at their father.'	4.853544675404399
+'Very much.'	5.198651883876052
+'This was invitation enough.'	5.212336901409415
+'What think you of books?'	5.2558163583064985
+'Did not you?'	5.344578350531544
+'He heard her with astonishment.'	5.508643608106706
+'His character was decided.'	5.523702696483236
+'This letter is from Mr Collins.'	5.5387929238760725
+'Miss Bingley I am sure cannot.'	5.5918680476084734
+'A VICARAGE HOUSE. \n\n\n\n\nPRIDE AND PREJUDICE:'	5.784497069594714
+'Elizabeth looked surprised.'	5.918139873649997
+'They\nfollowed her into the dining-parlour.'	5.99429962927504
+'Thank Heaven!'	5.998041361080922
+'single, my dear, to be sure!'	6.076346928841936
+'What will Wickham say?'	6.151046175637891
+'EDW. GARDINER. \n\n Is it possible!'	6.1615299164111
+'With my mother up stairs.'	6.166983403420162
+'Jane looked at her doubtingly.'	6.175609671656081
+'I\ndid not expect such a compliment.'	6.27830135521077
+'I am\nafraid you will be angry.'	6.27983680265529
+'They must all go to Brighton.'	6.340103487966233
+'She was ashamed to think how\nmuch.'	6.355476008542573
+'We seem to have been designed for each\nother.'	6.383139604120706
+'Of Mr Collins and Lizzy.'	6.465232911760794
+'You have done all this!'	6.52101958940893
+'What will you think of my vanity?'	6.588183057498786
+'This will not do,  said Elizabeth.'	6.775774342683112
+'I am very glad\nyou liked her.'	6.837026736694763
+'I am sure you must feel it\nso.'	6.965583997312878
+'Very\nnonsensical to come at all!'	7.0205378825862
+'Elizabeth\ndared not lift up her eyes.'	7.182473805630491
+'Mr\nCollins then returned to Elizabeth.'	7.327931237773719
+'She could think only of her letter.'	7.4529061031030235
+'I am so\npleased--so happy.'	7.5304186412169525
+'Her father lifted up his eyes.'	7.594611454742381
+'No, she would go home.'	7.59961372524418
+'In the hall they parted.'	7.620760010169929
+'thought Elizabeth.'	7.683852873249066
+'Yes--if Darcy does not put it off again.'	7.718253282382693
+'I have, Sir.'	7.766622815017756
+'I am so\ngrieved for him.'	7.926024292374538
+'You had much better\ndance.'	7.972537297366524
+'The loo table, however, did not appear.'	8.006824059827414
+'Elizabeth was delighted.'	8.022491180023007
+'But so we all do.'	8.048945321603213
+'Its completion depended on others.'	8.233839448368087
+'Can you come to-morrow?'	8.290437932326514
+'All young ladies accomplished!'	8.290437932326514
+'This is my advice.'	8.290437932326514
+'But the\nclothes, the wedding clothes!'	8.330540852943699
+'But I suppose you had no opportunity.'	8.333929593525303
+'that he should have been in love with her for\nso many months!'	8.40198646701534
+'When I am in company with him, I will not be wishing.'	8.40843406082487
+'I desire you will do no such thing.'	8.411991172771346
+'Is not it so, Mr Bennet?'	8.58685483946126
+'On Saturday he came again.'	8.590041275543761
+'He now wished it more than ever.'	8.703655692173175
+'Mr Bennet made no answer, and each of them, deep in thought, continued\nsilent till they reached the house.'	8.72756741795225
+'Wickham so\nvery bad!'	8.766070830979663
+'She now lost every expectation of pleasure.'	8.890879511987016
+'But Mr\nBennet, was not so well pleased with it.'	8.904995449904474
+'That is exactly what I should have supposed of you,  said Elizabeth.'	8.981984085353684
+'We want none of them;\ndo we?'	9.146720155719725
+'said he,\nwith a look of doubt.'	9.308807470442451
+'Lydia,\nmy love, ring the bell.'	9.355190615640108
+'See\nparagraph 1.C below.'	9.419756135206157
+'Let me mend it for you.'	9.477603242598745
+'She is\nnot such a simpleton.'	9.544722869036661
+'Are they indeed?'	9.623757544794586
+'He was\nangry.'	9.732053287683573
+'You blamed me for coming?'	9.91945158427696
+'It will pass away soon enough.'	10.099714919195144
+'You tear them to pieces.'	10.124782183564912
+'Come as soon as you can on the receipt of\n     this.'	10.293080166868979
+'Oh, Lizzy!'	10.323752109567861
+'You have a house in town, I conclude?'	10.32536927158804
+'Oh, lord!'	10.384263367466499
+'I depend on you for that.'	10.42414739677254
+'She did indeed, Louisa.'	10.42467380281883
+'Colonel Fitzwilliam was no\nlonger an object.'	10.522188077402399
+'It was then disclosed in the following\nmanner.'	10.53284980728869
+'said she, as she looked in\nher face.'	10.727836987857112
+'Mr Wickham began the subject himself.'	10.765870137585539
+'But not before they went to Brighton?'	10.870065554057241
+'Or in other words, you are determined to have him.'	10.916030695196708
+'I enquired after their brother, of course.'	10.943159751527126
+'No, I should have turned in a moment.'	11.703578461551942
+'Both sisters were uncomfortable\nenough.'	11.827924639479015
+'To his\ntacit engagement with Miss De Bourgh?'	11.841609130810872
+'Not one.'	11.938390973515101
+'Mary and Kitty, thank\nHeaven!'	11.94114995776301
+'Now I have got some news for you,  said Lydia, as they sat down to\ntable.'	12.08701081905318
+'There\nis nothing he would not do for her.'	12.092481698855604
+'are\nsufficiently known.'	12.202407204213905
+'That is the place to get\nhusbands.'	12.3061578337975
+'If  she  does not object to it,\nwhy should  we ?'	12.516703846277654
+'Mr Bennet could not have chosen\nbetter.'	12.565761771948125
+'Wickham is safe.'	12.600360420636372
+'You  want to tell me, and I have no objection to hearing it.'	12.83332278069406
+'A great deal of good management, depend upon it.'	12.947503201404551
+'My\nfather, however, is partial to Mr Wickham.'	13.002785121233957
+'I shall be glad to have the\nlibrary to myself as soon as may be.'	13.043851779762196
+'Elizabeth was now to see Mr Wickham for the last time.'	13.04760032399744
+'forgive the question--are you quite certain that you can be\nhappy with him?'	13.40418054260081
+'But it is of small importance.'	13.43957456270113
+'But I\ncannot find out that Jane saw any thing of him in London.'	13.551094650799676
+'If this be the case, he deserves you.'	13.622253831099068
+'I have not  that  pain.'	13.740608375511504
+"Never mind Miss\nLizzy's hair."	13.750014449582016
+'Perhaps preparing for his marriage with Miss de Bourgh,  said\nElizabeth.'	13.82292204853284
+'Are you quite sure that you feel what you ought\nto do?'	13.896806695979084
+'In\nunderstanding Darcy was the superior.'	13.988126594939686
+'I shall see her in January.'	14.187605202313051
+'You have no compassion on my poor nerves.'	14.250405646217962
+'Your\nreproof, so well applied, I shall never forget:'	14.324013599132911
+'VOL. I.\n\n\n\n\n\n\n\nLondon:'	14.345971666480908
+'This account then is what he has received from Mr Darcy.'	14.566194149069586
+'It cannot be concealed from any one.'	14.607219648242722
+'Dear me!'	14.634258148928968
+'where is your sash my dear?'	14.690294060689606
+'But slyness seems the fashion.'	14.70554130529076
+'She is a\nvery great favourite with some ladies of my acquaintance, Mr Hurst and\nMiss Bingley.'	14.728728687087463
+'I was never more surprised than by his behaviour to us.'	14.77043666684978
+'My father and mother believe the worst,\n     but I cannot think so ill of him.'	14.869526079335749
+'Have you never\nhappened to see her there?'	14.96426256742353
+'How strange must it appear to him!'	14.990803892203301
+'is not this an agreeable surprise?'	14.99485012033802
+'Obstinate, headstrong girl!'	14.998941724280389
+'Such a disappointment!'	14.998941724280389
+'Her\nheart did whisper, that he had done it for her.'	15.174097682329485
+'It was really a very\nhandsome thought.'	15.225030310356766
+'But\nnothing can be done; I know very well that nothing can be done.'	15.235608653063261
+'She directly replied,\n\n You need not be frightened.'	15.294703754170081
+'CHAPTER X.\n\n\nElizabeth had the satisfaction of receiving an answer to her letter, as\nsoon as she possibly could.'	15.319952585814917
+'I see the imprudence\nof it.--Oh!'	15.617335541446204
+"'had you behaved in a\nmore gentleman-like manner.' Those were your words."	15.84247878809125
+'Could he have Colonel Fitzwilliam in his thoughts?'	15.977716912872005
+'And this is your real opinion!'	16.020234303174067
+'Well, well, I only hope it\nwill last.'	16.373332730940298
+'She is a great deal too ill to be\nmoved.'	16.44193407111615
+'But that is not the\ncase  here .'	16.49708728779215
+'That is very true,  said Elizabeth;  though it had not occurred to me\nbefore.'	16.522677466274043
+"She would be in nobody's way, you know, in that\npart of the house."	16.61410539051185
+'I will not be in a hurry to believe myself his first\nobject.'	16.76213536748976
+'I speak\nfeelingly.'	16.77915024987575
+'I am not romantic you know.'	16.879638992135934
+'What are you telling Miss Bennet?'	16.911855307233488
+'They seemed each of them to have the happiest memories in the\nworld.'	17.061137720161295
+'What is Mr Darcy to me, pray, that I should be afraid of him?'	17.216678424964897
+'And then when we came away it was such fun!'	17.299661331794482
+'He looked serious as usual; and\nshe thought, more as he had been used to look in Hertfordshire, than as\nshe had seen him at Pemberley.'	17.31760437707372
+'That  is all to be forgot.'	17.55087136872372
+'I have faults enough,\nbut they are not, I hope, of understanding.'	17.60833373564617
+'Is this,  thought Elizabeth,  meant for me?'	17.63338289337263
+'But when you have had time to think it all over, I hope you\nwill be satisfied with what I have done.'	17.708776490522993
+'Lizzy,  said he,  what are you doing?'	17.768356985122573
+'Her reflections were\nin general satisfactory.'	17.93096762451619
+'They are wanted in the farm much oftener than I can get them.'	18.213933291392667
+'I do not get on at all.'	18.23592356482748
+'and having to relate such a thing of\nhis sister!'	18.237486533855243
+'It is  not  Mr Bingley,  said her husband;  it is a person whom I\nnever saw in the whole course of my life.'	18.26690074296628
+'There was also a legacy of one thousand pounds.'	18.273311477439176
+'Mr Bennet, how can you abuse your own children in such a way?'	18.284193065745807
+'so much the man of fashion!'	18.327360626828963
+'In short,\nI will do my best.'	18.3652894059716
+'My sister, I am\nsure, will not hear of her removal.'	18.384259317893495
+"No, indeed, I did not.--I knew nothing at all of Lady Catherine's\nconnections."	18.44774725554155
+'And do you really know all this?'	18.574103256662557
+'An excellent consolation in its way,  said Elizabeth,  but it will not\ndo for  us .'	18.666346144913145
+'You  know him too well to doubt the rest.'	18.8998079281973
+'No more have I,  said Mr Bennet;  and I am glad to find that you do\nnot depend on her serving you.'	18.95739086063377
+'Pray go to see them, with Sir William and Maria.'	19.034090757527935
+'One seems so forlorn without them.'	19.07947651142926
+'In future, I hope we shall be always of one\nmind.'	19.253767859674788
+'Not as you represent it.'	19.29704214929735
+'I never heard any harm of her; and I dare\nsay she is one of the most tractable creatures in the world.'	19.32463677152418
+'I assure you there is quite as much of  that \ngoing on in the country as in town.'	19.423154777642793
+"Your's sincerely, &c."	19.8938823929386
+"Your's, &c."	20.030647485574278
+'His misfortunes!'	20.05599434820552
+'Did he know of\ntheir intending to go off?'	20.251671387367946
+'The moral will be perfectly fair.'	20.3367634298161
+'I should infinitely prefer a book.'	20.478266216577527
+'I have been most highly gratified indeed, my dear Sir.'	20.54028541788665
+'Their father then went to the\nlibrary to write, and the girls walked into the breakfast-room.'	20.60940103655306
+'I thought\nwe never should have got into the coach.'	20.93271089977386
+'When I last saw her, she was not very promising.'	20.99209510537942
+'He still loves me, and we are\nengaged.'	21.113247239107306
+'Her ladyship was highly incensed.'	21.167396889372274
+'I could hardly help laughing aloud sometimes.'	21.25935930944264
+'There was no help\nfor it however.'	21.43993026231223
+'But you are always giving  her  the\npreference.'	21.509356597026077
+'But, Lizzy!'	21.641689945142986
+'He then sat down by her, and talked scarcely to any one else.'	21.699844471742573
+'It is not quite a week since they left Brighton.'	21.730740859440562
+'In essentials, I believe, he is very much\nwhat he ever was.'	21.78447142584845
+'By this time she is\nactually with them!'	21.988222404233245
+"They were interrupted by Miss Bennet, who came to fetch her mother's\ntea."	22.15703705883694
+'Good girl!'	22.214589719032862
+'Elizabeth could not but be pleased,\ncould not but triumph.'	22.319163398423836
+'It is because he will not give himself the trouble.'	22.597765845617932
+'But depend upon it, Mr Collins,  she added,  that Lizzy shall be\nbrought to reason.'	22.619389768660326
+'March was to take\nElizabeth to Hunsford.'	22.674835632232572
+'I told Mr Collins so before you came.'	23.015118006655356
+"This accounted to Elizabeth for Mr Wickham's being among them."	23.132241140152647
+'No indeed; I felt nothing but surprise.'	23.201394216058798
+'Elizabeth could not but look surprised.'	23.288337068071353
+'Vain,\nignorant, idle, and absolutely uncontrouled!'	23.398955109100513
+'Indeed, Eliza, you will be\nas welcome to me as either of them.'	23.465247667938833
+'It is evident that you belong to the\nfirst circles.'	23.522191212461394
+'They have some of the finest woods in the\ncountry.'	23.663198774151326
+'Bingley replied that he did, and made his congratulations.'	24.02374504976371
+'You must learn some\nof my philosophy.'	24.15882612815205
+'and it is such a\ngood joke, too, that you should have gone this morning, and never said\na word about it till now.'	24.295028906345262
+"Is  her  husband, is the son of\nhis late father's steward, to be his brother?"	24.30424177138171
+'Mr Bennet was really in a most pitiable state.'	24.31810543728337
+'The picture gallery, and two or three of the principal bed-rooms, were\nall that remained to be shewn.'	24.41163544303256
+'But with such\na father and mother, and such low connections, I am afraid there is no\nchance of it.'	24.466085687131542
+'Shall we ask your cousin the reason of this?'	24.50333498560584
+'The death\n     of your daughter would have been a blessing in comparison of this.'	24.73901353167334
+'You supposed more than\n     really existed.'	24.745550010592474
+'His consenting to marry\nher is a proof, I will believe, that he is come to a right way of\nthinking.'	24.883501631857776
+'Are you lost to every feeling of\npropriety and delicacy?'	25.04184167370918
+'CHAPTER XII.\n\n\nIn consequence of an agreement between the sisters, Elizabeth wrote the\nnext morning to her mother, to beg that the carriage might be sent for\nthem in the course of the day.'	25.142799570989926
+'How could I ever think her like her nephew?'	25.29413071006541
+'Come here, child,  cried her father as she appeared.'	25.329100717758966
+'Elizabeth was disgusted, and even Miss Bennet was\nshocked.'	25.38256931280975
+'They were forced to conclude, that he had no pleasing intelligence to\nsend, but even of  that  they would have been glad to be certain.'	25.45427376293149
+'She would not\neven wish for any renewal of his attentions.'	25.49709926538477
+'But really, and upon my\nhonour, I will try to do what I think to be wisest; and now, I hope you\nare satisfied.'	25.50334912830123
+'Very true; and if I had my will, we should.'	25.57464957094135
+'Nothing so easy, if you have but the inclination,  said Elizabeth.'	25.628030523908066
+'The path just admitted three.'	25.727104912441035
+'It was a rational scheme to be sure!'	25.737568735762
+'- You provide a full refund of any money paid by a user who notifies\n     you in writing (or by e-mail) within 30 days of receipt that s/he\n     does not agree to the terms of the full Project Gutenberg-tm\n     License.'	25.822272331717397
+'How strange!'	25.907644818209384
+"For my part, I am inclined to believe it all Mr\nDarcy's, but you shall do as you chuse."	26.05109609458403
+'Well, then, you need not be under any alarm.'	26.071864837367045
+'I certainly  have  had my share of beauty, but\nI do not pretend to be any thing extraordinary now.'	26.079232062414867
+'Yet he knew to the contrary himself.'	26.120920187385874
+'How little did you\ntell me of what passed at Pemberley and Lambton!'	26.225782005565044
+'They  will never be distressed\nfor money.'	26.2867036863573
+'They had frequently been staying with her in town.'	26.53006601098649
+'Wickham passed all his youth there, you\nknow.'	26.539486165258598
+'If you will only tell me what sort of girl Miss King is, I shall know\nwhat to think.'	27.022216307642296
+'And do you\nreally love him quite well enough?'	27.2091843826642
+'You are all to come to Pemberley at Christmas.'	27.349349439554153
+'Let us hope for\nbetter things.'	27.547554968542126
+'Accept my thanks for\nthe compliment you are paying me.'	27.582991334642458
+'But that\ngentleman,  looking at Darcy,  seemed to think the country was nothing\nat all.'	27.770872330651308
+'She is up stairs, and will have great satisfaction in seeing you\nall.'	27.804575493683902
+"Elizabeth loved absurdities, but she had\nknown Sir William's too long."	27.820853778499394
+'There is nothing extravagant in  their \nhousekeeping, I dare say.'	28.099635383122656
+'That you were gone into the army, and she was afraid had--not turned\nout well.'	28.259273205217685
+'But, however, he is very welcome to\ncome to Netherfield, if he likes it.'	28.28371075145452
+'She liked\nhim too little to care for his approbation.'	28.318287774185762
+'As the day of his arrival drew near,\n\n I begin to be sorry that he comes at all,  said Jane to her sister.'	28.56632014518861
+"Well, Lizzy,  said Mr Bennet one day,  what is your opinion  now  of\nthis sad business of Jane's?"	28.596740365477853
+'Elizabeth was eager with her thanks and assurances of happiness.'	28.65056834266419
+'Miss Bingley,  said he,  has given me credit for more than can be.'	28.664195197528272
+'Her father was walking about the room, looking grave and anxious.'	28.730990961780936
+'said he, taking the letter from\nhis pocket;  but perhaps you would like to read it.'	28.898174812167817
+"And this,  said she,  is the end of all his friend's anxious\ncircumspection!"	28.9344394795762
+'I hate such false\nfriends.'	28.93646125266694
+'He was well, but so much\nengaged with Mr Darcy, that they scarcely ever saw him.'	29.006385983481465
+'Then, my dear, you may have the advantage of your friend, and introduce\nMr Bingley to  her .'	29.149235905396633
+'Assistance is impossible; condolence,\ninsufferable.'	29.49333987557434
+'I remember, as soon as ever I saw him, when\nhe first came into Hertfordshire last year, I thought how likely it was\nthat you should come together.'	29.512719704268072
+'Perhaps I am not doing her justice.'	29.581108686786397
+'I do not recollect that we did.'	29.8555833078257
+'CHAPTER X.\n\n\nThe day passed much as the day before had done.'	30.264939896087654
+'So imprudent a\n     match on both sides!--But I am willing to hope the best, and that\n     his character has been misunderstood.'	30.298268698597873
+'But I confess they would have no charms\nfor  me .'	30.420787232734526
+'FULL LICENSE    \n\nTHE FULL PROJECT GUTENBERG LICENSE\nPLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK\n\nTo protect the Project Gutenberg-tm mission of promoting the free\ndistribution of electronic works, by using or distributing this work\n(or any other work associated in any way with the phrase  Project\nGutenberg ), you agree to comply with all the terms of the Full Project\nGutenberg-tm License available with this file or online at\n  www.gutenberg.org/license.'	30.801965196619943
+'Elizabeth blushed\nand blushed again with shame and vexation.'	30.856774643230676
+'I do not believe Mr Long will do any such thing.'	30.863934145175023
+'I do not at all know; but I  heard  nothing of his going away when I\nwas at Netherfield.'	31.049979905113805
+'My dear Charlotte and I have but one mind and one way of\nthinking.'	31.707268597058697
+'Jane was so admired, nothing could be like it.'	31.793801658720394
+'No look appeared\non either side that spoke particular regard.'	31.951428647060794
+'Have you seen any pleasant men?'	32.12825366027955
+'Whatever bears affinity to cunning is\ndespicable.'	32.264464143004915
+'They were ignorant, idle, and vain.'	32.27399825686085
+'My daughter and my\nnephew are formed for each other.'	32.417581567402024
+'my dear Mr Bennet,  as she entered the room,  we have had a most\ndelightful evening, a most excellent ball.'	32.43655215686051
+'She longed to know what at that moment was passing in his mind; in\nwhat manner he thought of her, and whether, in defiance of every thing,\nshe was still dear to him.'	32.45397337021705
+'I told my sister Philips so the other day.'	32.577026354230256
+"Elizabeth could not oppose such a wish; and from this time Mr Bingley's\nname was scarcely ever mentioned between them."	32.70029476323594
+'I shall be back by dinner.'	32.707272689061064
+"Could Colonel Forster repeat the particulars of Lydia's note to his\nwife?"	32.79146222779369
+'He does not\nwant abilities.'	33.03352805898318
+'But while he was mortal,\nthere must be a triumph.'	33.16582841381647
+'When the gentlemen had joined them, and tea was over, the card tables\nwere placed.'	33.248771479302164
+'Yes, and I hope to engage you to be serious likewise.'	33.29478493919804
+'He has given in all his debts; I hope\n     at least he has not deceived us.'	33.34066520393292
+'There was also a postscript to this\neffect.'	33.346546074122855
+'If  he \nwishes to avoid seeing  me , he must go.'	33.37822472818259
+'Now, Kitty, you may cough as much as you chuse,  said Mr Bennet; and,\nas he spoke, he left the room, fatigued with the raptures of his wife.'	33.455573376338926
+'Could he expect that her friends\nwould not step forward?'	33.57700476849176
+'So, Lizzy,  said he one day,\n your sister is crossed in love I find.'	33.87901252509612
+'Well, if they can be easy with an\nestate that is not lawfully their own, so much the better.'	33.939461605585315
+'It must be very agreeable to her to be settled within so easy a\ndistance of her own family and friends.'	33.99574158085202
+'But now that my dear uncle is come, I hope\nevery thing will be well.'	34.205093376840246
+'Jane and Elizabeth looked at each other, and the waiter was told that he\nneed not stay.'	34.38939411209634
+'I think every thing has passed off uncommonly well,\nI assure you.'	34.411353372045205
+'Lizzy,  said he,  I was going to look for you; come into my room.'	34.710087115787125
+'He protested that she should receive from him no mark of\naffection whatever, on the occasion.'	34.71154563723075
+'Mr\nDarcy, you cannot deny the fact.'	34.90131488422338
+'I have no such injuries to resent.'	35.23330364573739
+'Indeed he has no improper pride.'	35.2774143194871
+"I\n should  say, one of her ladyship's carriages, for she has several."	35.39136717918272
+'Do not imagine me ignorant of their\ncondition.'	35.43612609922789
+'She burst into tears as she alluded to it, and for a few minutes could\nnot speak another word.'	35.50122904839729
+'Mr Gardiner added in his letter, that they might expect to see their\nfather at home on the following day, which was Saturday.'	35.66449312375506
+'He had\ndone all this for a girl whom he could neither regard nor esteem.'	35.679814245893276
+'for she only came, I suppose, to tell us the Collinses were well.'	35.83143855982193
+"I confess,  said he,  that I should not have been at all surprised by\nher Ladyship's asking us on Sunday to drink tea and spend the evening at\nRosings."	35.89284200300227
+'They went to the library,\ntherefore, and asked their father, whether he would not wish them to\nmake it known to her.'	35.94191316229737
+"She was now, on being settled at home, at leisure to observe the real\nstate of her sister's spirits."	36.097163552324645
+'It is admirable!'	36.149583367589464
+'It\nwas a long time before she became at all reconciled to the idea of so\nunsuitable a match.'	36.168880566191454
+'She says Lizzy had better have taken Mr\nCollins; but  I  do not think there would have been any fun in it.'	36.18838646043117
+'Though Mr Bennet was not imagined to be very rich,\n     he would have been able to do something for him, and his situation\n     must have been benefited by marriage.'	36.216305007095976
+'Much as I respect them, I believe, I thought\nonly of  you .'	36.22194567200693
+"She entered the room with an air more than usually ungracious, made no\nother reply to Elizabeth's salutation, than a slight inclination of the\nhead, and sat down without saying a word."	36.91634927098832
+'He seldom appeared really\nanimated.'	37.04196012667782
+'His\nreception however was of the most flattering kind.'	37.067200807616864
+'Elizabeth assured him that she could suit herself perfectly with those\nin the room.'	37.185945373734896
+'Your father would depend on  your  resolution and\ngood conduct, I am sure.'	37.19947196044106
+'Their lodgings were not long a secret,\nand at length they began to know the officers themselves.'	37.298838025262235
+'Special rules,\nset forth in the General Terms of Use part of this license, apply to\ncopying and distributing Project Gutenberg-tm electronic works to\nprotect the PROJECT GUTENBERG-tm concept and trademark.'	37.30750796920232
+'She\nlooked at Jane, and smiled, and shook her head by turns.'	37.426730899551195
+'And\nthough he exclaimed at the term, she found that it had been pretty much\nthe case.'	37.4817397874137
+'It was not to be supposed that time would give Lydia that embarrassment,\nfrom which she had been so wholly free at first.'	37.49703878415954
+'Had they no apprehension of any thing before the elopement\ntook place?'	37.63540004747565
+'She finds Miss Pope a treasure.'	37.75174546399704
+'He\nmust know that she was as amiable and unpretending as we have found\nher.'	37.93401432809048
+'They walked on, without knowing in what direction.'	38.01076649199497
+'As for myself, it is many, many years since I first began to think\n     of him in a very different manner.'	38.04384806716672
+'Mr Bennet and Lydia are going in the carriage to\nMeryton.'	38.17307167390419
+'Elizabeth made no objection;--the door was then allowed to be shut, and\nthe carriage drove off.'	38.36790344536265
+'The Gardiners staid only one night at Longbourn, and set off the next\nmorning with Elizabeth in pursuit of novelty and amusement.'	38.58799920104357
+'She could settle it in no way that gave her pleasure.'	38.59303164453792
+'Is this your gratitude\nfor my attentions to you last spring?'	38.59687576734597
+'But she does help him on, as much as her nature will allow.'	38.75089332597872
+'If there is no\nother objection to my marrying your nephew, I shall certainly not be\nkept from it, by knowing that his mother and aunt wished him to marry\nMiss De Bourgh.'	38.78650376228165
+'My dear Eliza he must be in love with you, or he would never have\ncalled on us in this familiar way.'	39.03471108406545
+'At such an assembly as this, it\nwould be insupportable.'	39.08780392022158
+'He is now perhaps sorry for what he has done, and anxious to\nre-establish a character.'	39.26306865120917
+'But on the following morning, every hope of this\nkind was done away.'	39.53150978577123
+'My aunt,  she continued,  is going to-morrow into that part of the\ntown, and I shall take the opportunity of calling in Grosvenor-street.'	39.66755412580278
+'Perhaps you mean what I overheard between him and Mr Robinson; did not\nI mention it to you?'	39.69846842116039
+'If I had been able,  said she,  to carry my point of going to Brighton,\nwith all my family,  this  would not have happened; but poor dear Lydia\nhad nobody to take care of her.'	39.7925383616919
+'Let me write for you,  said Jane,  if you dislike the trouble\nyourself.'	39.81661282100658
+'She has been doing\nevery thing in her power by thinking and talking on the subject, to give\ngreater--what shall I call it?'	40.19944832200122
+'When first\nhe entered the corps, she was ready enough to admire him; but so we all\nwere.'	40.30216654716348
+'If, therefore, an excuse for not keeping his promise, should come to\nhis friend within a few days,  she added,  I shall know how to\nunderstand it.'	40.31700195476992
+'She then proceeded to enquire into the measures which her father had\nintended to pursue, while in town, for the recovery of his daughter.'	40.323380522666994
+'Bingley looked a little silly at this reflection, and said something of\nhis concern, at having been prevented by business.'	40.379184009352656
+'As it happened that Elizabeth had  much  rather not, she endeavoured in\nher answer to put an end to every intreaty and expectation of the kind.'	40.46664829382847
+'But, Lizzy, you can tell\nus whether it is like or not.'	40.56511338493767
+'It would be such a delicious scheme,\nand I dare say would hardly cost any thing at all.'	40.69035861741889
+'You are over scrupulous surely.'	40.69283584188674
+'But no\nsuch recollection befriended her.'	40.75682129160364
+'He then went away, and Miss Bingley was left to all the satisfaction of\nhaving forced him to say what gave no one any pain but herself.'	40.82257605772675
+'I am much obliged to your ladyship for your kind invitation,  replied\nElizabeth,  but it is not in my power to accept it.--I must be in town\nnext Saturday.'	40.898695877942835
+'By you, I was properly humbled.'	41.24153552002423
+'It is the greatest of favours\nwhen Miss De Bourgh comes in.'	41.24764821568069
+'Mr\nBennet had seen her eldest daughter much admired by the Netherfield\nparty.'	41.2921476723204
+'He has been here\nthis half hour, and master has had a letter.'	41.82507423209319
+"But, whatever may be their own wishes, it is very unlikely\nthey should have opposed their brother's."	42.18261617311929
+'He bore it however with admirable calmness.'	42.21317744033469
+'And if not able to please himself in the arrangement, he has at least\ngreat pleasure in the power of choice.'	42.256903516455544
+'Mr Bennet wished\nto understand by it that he thought of paying his addresses to one of\nher younger girls, and Mary might have been prevailed on to accept him.'	42.27076798247744
+'The room in which the ladies sat was backwards.'	42.31844798661187
+'And so, I suppose, they often\ntalk of having Longbourn when your father is dead.'	42.63108954769641
+'I hear such different\naccounts of you as puzzle me exceedingly.'	42.89894909285405
+'My poor mother is really ill\n     and keeps her room.'	42.9412790885
+"to Miss Lydia Bennet,' without there being a\nsyllable said of her father, or the place where she lived, or any thing."	43.33997419426455
+'My kind friends will\n     not hear of my returning home till I am better.'	43.585312945381915
+"Each felt for the other, and of course for themselves; and their\nmother talked on, of her dislike of Mr Darcy, and her resolution to be\ncivil to him only as Mr Bingley's friend, without being heard by either\nof them."	43.598052999629985
+'And their\nmother had the satisfaction of knowing, that she should be able to shew\nher married daughter in the neighbourhood, before she was banished to\nthe North.'	43.755824412624044
+'It distressed her a little, and she was\nquite glad to find herself at the gate in the pales opposite the\nParsonage.'	43.75801378189091
+'It was not\nin her nature, however, to increase her vexations, by dwelling on them.'	43.796995092175464
+'In a softened tone she declared\nherself not at all offended; but he continued to apologise for about a\nquarter of an hour.'	43.86907727748732
+"so much in love as to wish to marry her in spite of all\nthe objections which had made him prevent his friend's marrying her\nsister, and which must appear at least with equal force in his own case,\nwas almost incredible!"	43.94918460891622
+'They were\nall of them warm in their admiration; and at that moment she felt, that\nto be mistress of Pemberley might be something!'	43.98837679943109
+'My dear, dear\nLydia!--How merry we shall be together when we meet!'	44.008863263845555
+'I did not know that you intended to walk,  said Miss Bingley, in some\nconfusion, lest they had been overheard.'	44.03238686774895
+'Their reception from Mr Bennet, to whom they then turned, was not quite\nso cordial.'	44.05984957693113
+'The\nacknowledged lovers talked and laughed, the unacknowledged were silent.'	44.12229091901666
+'My style of writing is very different from yours.'	44.14220796304981
+'When the gentlemen rose to go away, Mr Bennet was mindful of her\nintended civility, and they were invited and engaged to dine at\nLongbourn in a few days time.'	44.21835356577368
+'You shall have it in few words.'	44.35669132534598
+'Oh, sister!'	44.36590282337701
+'Jane was therefore obliged to go on horseback, and her\nmother attended her to the door with many cheerful prognostics of a bad\nday.'	44.41418058249744
+'I was in great hopes that one of you would have got a husband\nbefore you came back.'	44.44016752069633
+'Colonel Forster gives us reason\n     to expect him here soon.'	44.51146386274211
+'Here again I shall give you pain--to what degree you only can tell.'	44.77600117712268
+'Wickham of course wanted more\n     than he could get; but at length was reduced to be reasonable.'	45.06246105022933
+'Her prudent mother, occupied by the same ideas, forbore to\ninvite him to sit by herself.'	45.07674255862743
+'You persist, then, in supposing his sisters influence him.'	45.097300450458164
+'I have known him\ntoo long and too well to be a fair judge.'	45.11359024002422
+'That is an\nuncommon advantage, and uncommon I hope it will continue, for it would\nbe a great loss to  me  to have many such acquaintance.'	45.16622412258609
+'I will go to Meryton,  said she,  as soon as I am dressed, and tell the\ngood, good news to my sister Philips.'	45.23977478546851
+'But no\nletter appeared, and she was completely puzzled.'	45.269186741791735
+'Mr Darcy related the mistake which had occasioned his intruding\non Miss Bennet, and after sitting a few minutes longer without saying\nmuch to any body, went away.'	45.322966982449
+'Miss Bennet paused a little and then replied,  Surely there can be no\noccasion for exposing him so dreadfully.'	45.399945388420804
+'You will\nbe censured, slighted, and despised, by every one connected with him.'	45.432906244648485
+'Mr Bennet was prevented replying by the entrance of the footman with a\nnote for Miss Bennet; it came from Netherfield, and the servant waited\nfor an answer.'	45.51960573828569
+'Who is to fight Wickham,\nand make him marry her, if he comes away?'	45.60958571504167
+"I often think,  said she,  that there is nothing so bad as parting with\none's friends."	45.9171474688535
+'I have not forgot, you see; and I assure\nyou, I was very much disappointed that you did not come back and keep\nyour engagement.'	46.076324046551576
+'The moment of her release from\nhim was ecstacy.'	46.147491212238656
+'The whole family in short\nwere properly overjoyed on the occasion.'	46.443933609919775
+'Not a syllable was uttered by either; and\nElizabeth was on the point of going away again, when Bingley, who as\nwell as the other had sat down, suddenly rose, and whispering a few\nwords to her sister, ran out of the room.'	46.71278705371549
+'Though she dared not depend upon the\nconsequence, she yet received pleasure from observing his behaviour.'	46.82089698378038
+'In a few minutes\nhe approached the table where she was sitting with Kitty; and, while\npretending to admire her work, said in a whisper,  Go to your father, he\nwants you in the library.'	47.5669794838408
+'He was then, he said, on his way to Longbourn on\npurpose to inquire after her.'	47.65417299346522
+'Wickham\nwill soon be gone; and therefore it will not signify to anybody here,\nwhat he really is.'	47.81438559296624
+"You know my mother's ideas as to the\nnecessity of constant company for her friends."	47.84068095050857
+'Jane instantly gave a look at Elizabeth, which spoke her distress at\nsuch premeditation, and her intreaty that  she  would not give into it.'	47.94711048616764
+'This was not very consoling to Mr Bennet, and, therefore, instead of\nmaking any answer, she went on as before,\n\n I cannot bear to think that they should have all this estate.'	48.124986118670044
+'Mr Bennet protested against any\ndescription of finery.'	48.514536128108354
+'Resignation to\ninevitable evils is the duty of us all; the peculiar duty of a young man\nwho has been so fortunate as I have been in early preferment; and I\ntrust I am resigned.'	48.576544254551706
+'The two girls had been whispering to\neach other during the whole visit, and the result of it was, that the\nyoungest should tax Mr Bingley with having promised on his first coming\ninto the country to give a ball at Netherfield.'	48.57922446306852
+'Send back your answer as soon as you can,\n     and be careful to write explicitly.'	48.610062393690626
+'There was no one therefore who could be pointed out,\nas likely to give any news of him.'	48.78254036215212
+'If you\nreceived the work on a physical medium, you must return the medium with\nyour written explanation.'	48.794793983714655
+'There was\nanother reason too for her opposition.'	48.98214526066853
+'Whether he had felt more of pain or of pleasure in seeing\nher, she could not tell, but he certainly had not seen her with\ncomposure.'	49.04476324659455
+'And your assurance of it, I suppose, carried immediate conviction to\nhim.'	49.07896738632958
+'The Lucases are very artful people indeed,\nsister.'	49.21467179120143
+'They owed the restoration of Lydia, her character, every thing\nto him.'	49.31494170617417
+'I have never heard him say so; but it is probable that he may spend\nvery little of his time there in future.'	49.482635575724764
+'Even Elizabeth began to fear--not that Bingley was indifferent--but that\nhis sisters would be successful in keeping him away.'	49.851061252717045
+'You see how continually we are engaged there.'	50.223728989455445
+'Mr Collins welcomed her friend with the liveliest\npleasure, and Elizabeth was more and more satisfied with coming, when\nshe found herself so affectionately received.'	50.261832179652814
+'But Jane was to go home with her, and at\nLongbourn there would be leisure enough for observation.'	50.510655608242686
+'She was no sooner in possession of it, than\nhurrying into the little copse, where she was least likely to be\ninterrupted, she sat down on one of the benches, and prepared to be\nhappy; for the length of the letter convinced her that it did not\ncontain a denial.'	50.59544710318915
+"Every day added something to their knowledge of the\nofficers' names and connections."	50.67846375799277
+'A long dispute followed this declaration; but Mr Bennet was firm:'	50.86391099322163
+'I shall\npull it to pieces as soon as I get home, and see if I can make it up any\nbetter.'	50.89000334693721
+'While Mary is adjusting her ideas,  he continued,  let us return to Mr\nBingley.'	51.22490434562478
+'Is that his design in settling here?'	51.394403927623344
+'It\ngave her all the animation that her spirits could boast; for she was in\nno cheerful humour.'	51.399546121788475
+'I do not like to boast\nof my own child, but to be sure, Jane--one does not often see any body\nbetter looking.'	51.407969315362756
+'He walked away again\nimmediately, and she was left to fret over her own want of presence of\nmind; Charlotte tried to console her.'	51.46681588317418
+'But perhaps Mr Bingley did\nnot take the house so much for the convenience of the neighbourhood as\nfor his own, and we must expect him to keep or quit it on the same\nprinciple.'	51.503931206784586
+'They were confined for the evening at different tables, and she had\nnothing to hope, but that his eyes were so often turned towards her side\nof the room, as to make him play as unsuccessfully as herself.'	51.62284547184072
+'He made her an offer in this very room,\nand she refused him.'	51.78857222775108
+'FITZWILLIAM DARCY. \n\n\n\n\nCHAPTER XIII.\n\n\nIf Elizabeth, when Mr Darcy gave her the letter, did not expect it to\ncontain a renewal of his offers, she had formed no expectation at all of\nits contents.'	51.89774414169201
+'Wickham is not so undeserving, then, as we have thought him;  said her\nsister.'	51.98328901397582
+'You and papa, and my sisters, must come down and see us.'	52.11024966374661
+'She likes to have the distinction of rank\npreserved.'	52.32032225402305
+'He could be still amiable, still pleasing, to my uncle and aunt, when\nhe was in town; and why not to me?'	52.50332791990508
+'That is not very likely; our authority was too good.'	52.566432570497355
+'Mr\nGardiner did not attempt to conceal these particulars from the Longbourn\nfamily; Jane heard them with horror.'	52.66977612644419
+"As for\ntheir mother, Mr Collins's letter had done away much of her ill-will,\nand she was preparing to see him with a degree of composure, which\nastonished her husband and daughters."	52.80095690364417
+'Thank you, Sir, but a less agreeable man would satisfy me.'	52.863101122973646
+'He will be forgot, and we shall\nall be as we were before.'	52.95880452812874
+'Lady Catherine has been of infinite use, which ought to make her happy,\nfor she loves to be of use.'	53.00964413111237
+'Since her\nbeing at Lambton, she had heard that Miss Darcy was exceedingly proud;\nbut the observation of a very few minutes convinced her, that she was\nonly exceedingly shy.'	53.523122971674134
+'Forgive\nme; and if you persist in indifference, do not make  me  your\nconfidante.'	54.135675143070564
+'There  is  something a little stately in him to be sure,  replied her\naunt,  but it is confined to his air, and is not unbecoming.'	54.28348420592726
+'CHAPTER IV.\n\n\nWhen Jane and Elizabeth were alone, the former, who had been cautious in\nher praise of Mr Bingley before, expressed to her sister how very much\nshe admired him.'	54.407044926558804
+"It was owing to him, to his\n     reserve, and want of proper consideration, that Wickham's character\n     had been so misunderstood, and consequently that he had been\n     received and noticed as he was."	54.47132094302668
+'After this period, every\n     appearance of acquaintance was dropt.'	54.55940732292064
+'There are few people\nwhom I really love, and still fewer of whom I think well.'	54.878449881563924
+'In\na fortnight they were to go, and once gone, she hoped there could be\nnothing more to plague her on his account.'	54.88848841544389
+'You  wish to think all the\nworld respectable, and are hurt if I speak ill of any body.'	54.9891093215762
+'If you, my dear\nfather, will not take the trouble of checking her exuberant spirits, and\nof teaching her that her present pursuits are not to be the business of\nher life, she will soon be beyond the reach of amendment.'	55.190523813891815
+'I shall offer to pay him to-morrow; he will rant and storm about\nhis love for you, and there will be an end of the matter.'	55.334434924856
+'Why could not he keep on quarrelling with you, as his father\ndid before him?'	55.351695570798455
+"But my dear Lydia, I don't\nat all like your going such a way off."	55.465573748764996
+"And it was settled that we should all be there by eleven\no'clock."	55.55488828831883
+'She looked at Jane, to see how she bore it; but Jane was very composedly\ntalking to Bingley.'	55.80203743649588
+'Charlotte had hardly time to answer, before they were joined by Kitty,\nwho came to tell the same news, and no sooner had they entered the\nbreakfast-room, where Mr Bennet was alone, than she likewise began on\nthe subject, calling on Miss Lucas for her compassion, and entreating\nher to persuade her friend Lizzy to comply with the wishes of all her\nfamily.'	55.8363737964197
+'To Rosings he then\nhastened to console Lady Catherine, and her daughter; and on his return,\nbrought back, with great satisfaction, a message from her Ladyship,\nimporting that she felt herself so dull as to make her very desirous of\nhaving them all to dine with her.'	55.877800386957915
+'I talked to her repeatedly in the most serious manner,\n     representing to her all the wickedness of what she had done, and\n     all the unhappiness she had brought on her family.'	55.92234506494071
+'CHAPTER XI.\n\n\nWhen they were gone, Elizabeth, as if intending to exasperate herself as\nmuch as possible against Mr Darcy, chose for her employment the\nexamination of all the letters which Jane had written to her since her\nbeing in Kent.'	56.053640962397395
+'I shall walk to Meryton to-morrow to hear more\nabout it, and to ask when Mr Denny comes back from town.'	56.23768203910959
+'The\ngentlemen did approach; and when Mr Wickham walked into the room,\nElizabeth felt that she had neither been seeing him before, nor thinking\nof him since, with the smallest degree of unreasonable admiration.'	56.57396567105682
+'There will not be the smallest occasion for your coming\n     to town again; therefore, stay quietly at Longbourn, and depend on\n     my diligence and care.'	56.68112152820594
+'The recollection of what I\nthen said, of my conduct, my manners, my expressions during the whole of\nit, is now, and has been many months, inexpressibly painful to me.'	56.72549878913277
+'They saw much to\ninterest, but nothing to justify enquiry.'	56.869456832741236
+"I am sure,  said she,  I cried for two days together when Colonel\nMillar's regiment went away."	56.87329880736682
+'Eliza Bennet,  said Miss Bingley, when the door was closed on her,  is\none of those young ladies who seek to recommend themselves to the other\nsex, by undervaluing their own; and with many men, I dare say, it\nsucceeds.'	57.13473741703401
+'Nothing but concern for Elizabeth could enable Bingley to keep his\ncountenance.'	57.42395447377152
+'The wedding took place; the bride and bridegroom set off for Kent from\nthe church door, and every body had as much to say or to hear on the\nsubject as usual.'	57.54547772858413
+'With great energy;--but it is a subject which always makes a lady\nenergetic.'	57.55309593127167
+'When she is secure of him, there will be leisure for falling\nin love as much as she chuses.'	57.57300778090999
+'I did not think Caroline in spirits,  were her words,  but she was very\nglad to see me, and reproached me for giving her no notice of my coming\nto London.'	57.88126668810616
+'The reason of this sudden\nremoval was soon evident.'	58.15771302485743
+'He begged to know farther particulars of what he\nwas indebted to his brother; but was too angry with Lydia, to send any\nmessage to her.'	58.19622165646473
+"Her ladyship's carriage is regularly ordered for us."	58.26952375327062
+'And now do, when you get to town, find them out,\nwherever they may be; and if they are not married already,  make  them\nmarry.'	58.34848459124205
+'Pray forgive\n     me, if I have been very presuming, or at least do not punish me so\n     far, as to exclude me from P. I shall never be quite happy till I\n     have been all round the park.'	58.3976982952392
+'But  your  arts and allurements may, in a moment of infatuation,\nhave made him forget what he owes to himself and to all his family.'	58.44667115527058
+'You  began the evening well, Charlotte,  said Mr Bennet with civil\nself-command to Miss Lucas.'	58.60314384858565
+'I am\nsure we owe him no such particular civility as to be obliged to say\nnothing  he  may not like to hear.'	58.67188759092685
+'The families who had been in town for the winter came\nback again, and summer finery and summer engagements arose.'	58.84494957494436
+'My mind was more\nagreeably engaged.'	58.90053414859652
+'If your\nfeelings are still what they were last April, tell me so at once.'	59.134176017401394
+"It is such a spur to one's genius, such an\nopening for wit to have a dislike of that kind."	59.298575608644896
+'I have an excessive regard for Jane Bennet, she is really a very sweet\ngirl, and I wish with all my heart she were well settled.'	59.41995739836324
+'You  go to Brighton!--I would not trust you so near it as East Bourne\nfor fifty pounds!'	59.4309303099547
+'Mr Gardiner was surprised and concerned; but as they were now\napproaching the scene of her former pleasures, every idea gave way to\nthe charm of recollection; and she was too much engaged in pointing out\nto her husband all the interesting spots in its environs, to think of\nany thing else.'	59.453103329581964
+'Her mother\nwould talk of her views in the same intelligible tone.'	59.5628895735075
+"Miss Bennet's pleasing manners grew on the\ngood will of Mr Hurst and Miss Bingley; and though the mother was\nfound to be intolerable and the younger sisters not worth speaking to, a\nwish of being better acquainted with  them , was expressed towards the\ntwo eldest."	59.56993609723661
+'I am going\nto open the instrument, Eliza, and you know what follows.'	59.602613642677994
+'I dare say he often hears worse\nthings said than I am going to say.'	59.615956736819186
+'You are not going to be  Missish , I\nhope, and pretend to be affronted at an idle report.'	59.86735217565161
+'Lady Catherine hesitated for a moment, and then replied,\n\n The engagement between them is of a peculiar kind.'	60.081551429089465
+'She had never heard of him before his\nentrance into the ----shire Militia, in which he had engaged at the\npersuasion of the young man, who, on meeting him accidentally in town,\nhad there renewed a slight acquaintance.'	60.22211246927902
+'Mr Bennet said only,  Nonsense,\nnonsense!'	60.2676833322009
+'Do not involve\nyourself, or endeavour to involve him in an affection which the want of\nfortune would make so very imprudent.'	60.292645359514985
+'Put them next to your great uncle\nthe judge.'	60.3329746046196
+"Much as I abominate\nwriting, I would not give up Mr Collins's correspondence for any\nconsideration."	60.483518272289096
+'Why, indeed, he does seem to have had some filial scruples on that\nhead, as you will hear.'	60.77498517914584
+'But I make no doubt, they\noften talk of it between themselves.'	60.798316820135604
+'I deserve neither such praise nor such censure,  cried Elizabeth;  I am\n not  a great reader, and I have pleasure in many things.'	60.88234745255809
+'Yes, she will remain there till Christmas.'	61.03326932110186
+"They were now almost at the door of the house, for she had walked fast\nto get rid of him; and unwilling for her sister's sake, to provoke him,\nshe only said in reply, with a good-humoured smile,\n\n Come, Mr Wickham, we are brother and sister, you know."	61.2310531746315
+'It was acknowledged,\nhowever, that he was a liberal man, and did much good among the poor.'	61.41869428218851
+'I could not have parted with\nyou, my Lizzy, to any one less worthy.'	61.608444981131804
+'I told him of\nall that had occurred to make my former interference in his affairs,\nabsurd and impertinent.'	61.65342029323887
+'Young ladies have great penetration in such matters\nas these; but I think I may defy even  your  sagacity, to discover the\nname of your admirer.'	61.687949293469856
+'Lady Catherine approached, and, after listening for a few minutes, said\nto Darcy,\n\n Miss Bennet would not play at all amiss, if she practised more, and\ncould have the advantage of a London master.'	61.74495851127129
+'My\nyoungest sister has left all her friends--has eloped;--has thrown\nherself into the power of--of Mr Wickham.'	61.88416583340002
+'I must think your language too strong in speaking of both,  replied\nJane,  and I hope you will be convinced of it, by seeing them happy\ntogether.'	62.297680392871875
+'Though I\nshall always say that he used my daughter extremely ill; and if I was\nher, I would not have put up with it.'	62.37417918309469
+'--and when she had\ngone through the whole letter, though scarcely knowing any thing of the\nlast page or two, put it hastily away, protesting that she would not\nregard it, that she would never look in it again.'	62.479862020600095
+'She coloured as she spoke; but neither that, nor any thing\nelse, awakened a suspicion of the truth.'	62.66560769420536
+'She had not herself forgotten to feel that the marriage of her\nsister must bring them more frequently together.'	62.815898309879955
+'He had entertained hopes of being\nadmitted to a sight of the young ladies, of whose beauty he had heard\nmuch; but he saw only the father.'	62.92307840372609
+'He spoke of it as a certain event,\n     of which the time alone could be undecided.'	63.07045120515389
+'About ten or a dozen years ago,\nbefore her marriage, she had spent a considerable time in that very part\nof Derbyshire, to which he belonged.'	63.091622352966354
+'She was of great use and comfort to us all, and lady\nLucas has been very kind; she walked here on Wednesday morning to\ncondole with us, and offered her services, or any of her daughters, if\nthey could be of use to us.'	63.22871418629471
+'if that is all, I have a very poor opinion of young men who live in\nDerbyshire; and their intimate friends who live in Hertfordshire are not\nmuch better.'	63.32440984941049
+'But he is, beyond all comparison,\nthe most agreeable man I ever saw--and if he becomes really attached to\nme--I believe it will be better that he should not.'	63.3903259062072
+"She was received, however, very politely by them;\nand in their brother's manners there was something better than\npoliteness; there was good humour and kindness.--Mr Darcy said very\nlittle, and Mr Hurst nothing at all."	63.47144599479026
+'The five weeks which she had now passed in Kent, had\nmade a great difference in the country, and every day was adding to the\nverdure of the early trees.'	63.473704397153604
+'Imprudence or thoughtlessness in money matters, would be\nunpardonable in  me .'	63.74701134565412
+'But do not deceive yourself into a belief that I\nwill ever recede.'	64.06277805885692
+'You may depend on it,  replied the other,  for Mr Nicholls was in\nMeryton last night; I saw her passing by, and went out myself on purpose\nto know the truth of it; and she told me that it was certain true.'	64.27296855209862
+'The dinner was as well dressed as any I ever saw.'	64.29710132022065
+'Miss\nBennet had slept ill, and though up, was very feverish and not well\nenough to leave her room.'	64.36281222874395
+'You will not think of quitting it in a hurry I\nhope, though you have but a short lease.'	64.391208354185
+'We all know him to be a proud, unpleasant sort of man; but\nthis would be nothing if you really liked him.'	64.44421271344781
+'I am glad it occurred to me to mention\nit; for it would really be discreditable to  you  to let them go alone.'	64.89873821023791
+'So far each recital confirmed the other:'	65.01150712964338
+'She had always spoken to him as she would to any other gentleman; she\nmade not the smallest objection to his joining in the society of the\nneighbourhood, nor to his leaving his parish occasionally for a week or\ntwo, to visit his relations.'	65.17151820996041
+'CHAPTER VI.\n\n\nThe ladies of Longbourn soon waited on those of Netherfield.'	65.55514187054548
+'CHAPTER III.\n\n\nNot all that Mr Bennet, however, with the assistance of her five\ndaughters, could ask on the subject was sufficient to draw from her\nhusband any satisfactory description of Mr Bingley.'	65.70313814321662
+"Seriously, however, she felt tolerably\npersuaded that all this must have taken place with that gentleman's\nconcurrence."	65.81593942557916
+'My father and mother knew nothing of that, they only felt how\nimprudent a match it must be.'	65.96005245504956
+"From herself to Jane--from Jane to Bingley, her thoughts were in a line\nwhich soon brought to her recollection that Mr Darcy's explanation\n there , had appeared very insufficient; and she read it again."	66.00762249973627
+'The manner in which they spoke of the Meryton assembly was sufficiently\ncharacteristic.'	66.00877554163255
+'There is also one other person in the party,  he continued after a\npause,  who more particularly wishes to be known to you,--Will you allow\nme, or do I ask too much, to introduce my sister to your acquaintance\nduring your stay at Lambton?'	66.14887076317673
+'The one missent must be first attended to; it had been\nwritten five days ago.'	66.1763732920102
+'Yes--the late Mr Darcy bequeathed me the next presentation of the best\nliving in his gift.'	66.30504042748704
+'If  I  can\nperceive her regard for him, he must be a simpleton indeed not to\ndiscover it too.'	66.38134972615059
+'But I can guess how it was;\nevery body says that he is ate up with pride, and I dare say he had\nheard somehow that Mr Long does not keep a carriage, and had come to\nthe ball in a hack chaise.'	66.4339890508059
+'There\nare undoubtedly many who could not say the same, but thanks to Lady\nCatherine de Bourgh, I am removed far beyond the necessity of regarding\nlittle matters.'	66.53207400485522
+'But\nmy dearest love, tell me what dish Mr Darcy is particularly fond of,\nthat I may have it to-morrow.'	66.60127887007087
+'In the gallery there were many family portraits, but they could have\nlittle to fix the attention of a stranger.'	66.60497598768593
+'I am by no means of opinion, I assure you,  said he,  that a ball of\nthis kind, given by a young man of character, to respectable people, can\nhave any evil tendency; and I am so far from objecting to dancing myself\nthat I shall hope to be honoured with the hands of all my fair cousins\nin the course of the evening, and I take this opportunity of soliciting\nyours, Miss Elizabeth, for the two first dances especially,--a\npreference which I trust my cousin Jane will attribute to the right\ncause, and not to any disrespect for her.'	66.7347407738325
+'Her cousin prefaced his speech with\na solemn bow, and though she could not hear a word of it, she felt as if\nhearing it all, and saw in the motion of his lips the words  apology, \n Hunsford,  and  Lady Catherine de Bourgh.'	66.82972604268735
+'We have not met since the 26th of November, when\nwe were all dancing together at Netherfield.'	66.90235212729522
+"Elizabeth's spirits were so high on the occasion, that though she did\nnot often speak unnecessarily to Mr Collins, she could not help asking\nhim whether he intended to accept Mr Bingley's invitation, and if he\ndid, whether he would think it proper to join in the evening's\namusement; and she was rather surprised to find that he entertained no\nscruple whatever on that head, and was very far from dreading a rebuke\neither from the Archbishop, or Lady Catherine de Bourgh, by venturing to\ndance."	67.31915229529412
+'Two offences of a very different nature, and by no means of equal\n     magnitude, you last night laid to my charge.'	67.33213233279876
+'If\nhe no longer cares for me, why silent?'	67.48710961713397
+'In the first place, she persisted in disbelieving\nthe whole of the matter; secondly, she was very sure that Mr Collins\nhad been taken in; thirdly, she trusted that they would never be happy\ntogether; and fourthly, that the match might be broken off.'	67.6577522022335
+'Only think of its being three months,  she cried,  since I went away;\nit seems but a fortnight I declare; and yet there have been things\nenough happened in the time.'	67.66522102357669
+'Project\nGutenberg is a registered trademark, and may not be used if you\ncharge for the eBooks, unless you receive specific permission.'	67.69561711677463
+'Mary petitioned for the use of the library at Netherfield; and Kitty\nbegged very hard for a few balls there every winter.'	67.7698435069503
+'Her\nmother only scolded her for being nonsensical.'	67.92395426915091
+'She had dressed with more than\nusual care, and prepared in the highest spirits for the conquest of all\nthat remained unsubdued of his heart, trusting that it was not more than\nmight be won in the course of the evening.'	68.15859676594161
+'I always thought they were very unfit to have\nthe charge of her; but I was over-ruled, as I always am.'	68.31075586221503
+'It is only that he has better means of having it than\nmany others, because he is rich, and many others are poor.'	68.59723446948608
+'I\nam sure my sisters must all envy me.'	68.67856369247184
+'Good heavens!'	68.73136110975832
+'Easter was approaching, and the week preceding it, was to bring an\naddition to the family at Rosings, which in so small a circle must be\nimportant.'	68.82527353391283
+'I shall not sport with your impatience, by reading what he says\non that point.'	68.86123925733946
+'I was told, that not only your\nsister was on the point of being most advantageously married, but that\n you , that Miss Elizabeth Bennet, would, in all likelihood, be soon\nafterwards united to my nephew, my own nephew, Mr Darcy.'	68.89826099466825
+'The note was immediately dispatched, and\nits contents as quickly complied with.'	69.34585718913567
+"Miss Bennet accepted her aunt's invitation with pleasure; and the\nBingleys were no otherwise in her thoughts at the time, than as she\nhoped that, by Caroline's not living in the same house with her brother,\nshe might occasionally spend a morning with her, without any danger of\nseeing him."	69.51301599725757
+'Where does discretion end,\nand avarice begin?'	69.8951258183512
+'Sir William and Lady Lucas were speedily applied to for their consent;\nand it was bestowed with a most joyful alacrity.'	70.133076652473
+'When the card tables were placed, he had an opportunity of obliging her\nin return, by sitting down to whist.'	70.31718085054813
+'Aye, no doubt; but that is what a governess will prevent, and if I had\nknown your mother, I should have advised her most strenuously to engage\none.'	70.384235714773
+'Colonel Fitzwilliam entered into conversation directly with the\nreadiness and ease of a well-bred man, and talked very pleasantly; but\nhis cousin, after having addressed a slight observation on the house and\ngarden to Mr Collins, sat for some time without speaking to any body.'	70.39618737888584
+'--A\nshort pause followed this speech, and Mr Hurst began again.'	70.76565258948855
+"She represented to him all the improprieties of Lydia's general\nbehaviour, the little advantage she could derive from the friendship of\nsuch a woman as Mr Forster, and the probability of her being yet more\nimprudent with such a companion at Brighton, where the temptations must\nbe greater than at home."	70.86853541093458
+'Our plain\nmanner of living, our small rooms, and few domestics, and the little we\nsee of the world, must make Hunsford extremely dull to a young lady like\nyourself; but I hope you will believe us grateful for the condescension,\nand that we have done every thing in our power to prevent your spending\nyour time unpleasantly.'	70.95670252384345
+'I hope I never ridicule what is wise or good.'	70.95920858326105
+'Mr Gardiner and the children were to remain in Hertfordshire a few\ndays longer, as the former thought her presence might be serviceable to\nher nieces.'	71.07820542578456
+'The fishing scheme had been\nrenewed the day before, and a positive engagement made of his meeting\nsome of the gentlemen at Pemberley by noon.'	71.09897504442912
+'Can you possibly guess, Lizzy, who is meant by this?'	71.15411497101853
+'Mr Bennet assured her that they never sat there after dinner; and then\nadded,\n\n May I take the liberty of asking your ladyship whether you left Mr and\nMr Collins well.'	71.72670059955337
+'Till I have your disposition, your goodness, I never can have your\nhappiness.'	71.7808511438586
+'Her nose wants\ncharacter; there is nothing marked in its lines.'	71.82342716981809
+'When she came to that part of the letter in which her family were\nmentioned, in terms of such mortifying, yet merited reproach, her sense\nof shame was severe.'	71.89178211136326
+'When they repaired to the\ndining-room, Elizabeth eagerly watched to see whether Bingley would take\nthe place, which, in all their former parties, had belonged to him, by\nher sister.'	71.92521808552452
+'After amusing himself some time with their curiosity, he thus explained.'	71.93792779922147
+'Pride relates more to our opinion of\nourselves, vanity to what we would have others think of us.'	72.0414142269099
+'If you  will  thank me,  he replied,  let it be for yourself alone.'	72.06817202130759
+"From that moment I\n     observed my friend's behaviour attentively; and I could then\n     perceive that his partiality for Miss Bennet was beyond what I had\n     ever witnessed in him."	72.07324392554007
+'You know how I detest it, unless I am\nparticularly acquainted with my partner.'	72.12307386750732
+'He is the kind\nof man, indeed, to whom I should never dare refuse any thing, which he\ncondescended to ask.'	72.45791886335158
+'While\nthere was an officer in Meryton, they would flirt with him; and while\nMeryton was within a walk of Longbourn, they would be going there for\never.'	72.46341971783978
+'What a charming amusement for young people this is, Mr Darcy!--There\nis nothing like dancing after all.--I consider it as one of the first\nrefinements of polished societies.'	72.50803445792165
+"Elizabeth looked at Darcy to see how cordially he assented to his\ncousin's praise; but neither at that moment nor at any other could she\ndiscern any symptom of love; and from the whole of his behaviour to Miss\nDe Bourgh she derived this comfort for Miss Bingley, that he might have\nbeen just as likely to marry  her , had she been his relation."	72.60848352111823
+'They are going to be encamped near Brighton; and I do so want papa to\ntake us all there for the summer!'	72.72697266007427
+'He then asked her to walk into the house--but she declared herself not\ntired, and they stood together on the lawn.'	72.93821275681144
+'What made you so shy of me, when you first\ncalled, and afterwards dined here?'	73.06815649648823
+'They were within twenty yards of each other, and so abrupt was his\nappearance, that it was impossible to avoid his sight.'	73.1476852907478
+'There is so much of gratitude or vanity in almost every\nattachment, that it is not safe to leave any to itself.'	73.19772366138733
+'1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the  Right\nof Replacement or Refund  described in paragraph 1.F.3, the Project\nGutenberg Literary Archive Foundation, the owner of the Project\nGutenberg-tm trademark, and any other party distributing a Project\nGutenberg-tm electronic work under this agreement, disclaim all\nliability to you for damages, costs and expenses, including legal\nfees.'	73.23770405654268
+'If he is satisfied with only regretting me, when he might\nhave obtained my affections and hand, I shall soon cease to regret him\nat all.'	73.23978785997029
+'Observing his second daughter employed in trimming a hat, he\nsuddenly addressed her with,\n\n I hope Mr Bingley will like it Lizzy.'	73.57184095947363
+'I can comprehend your going on charmingly, when\nyou had once made a beginning; but what could set you off in the first\nplace?'	73.64320382085911
+'If it were merely a fine house\nrichly furnished,  said she,  I should not care about it myself; but the\ngrounds are delightful.'	73.89095462570629
+'On his quitting the room, she sat down, unable to support herself, and\nlooking so miserably ill, that it was impossible for Darcy to leave her,\nor to refrain from saying, in a tone of gentleness and commiseration,\n Let me call your maid.'	74.1758649268966
+'On their being joined by Mr Bingley himself, Elizabeth withdrew\nto Miss Lucas; to whose inquiry after the pleasantness of her last\npartner she had scarcely replied, before Mr Collins came up to them and\ntold her with great exultation that he had just been so fortunate as to\nmake a most important discovery.'	74.20482667137308
+'Mr Bennet missed his second daughter exceedingly; his affection for her\ndrew him oftener from home than any thing else could do.'	74.30303068473776
+'There were two nephews of Lady Catherine to require them, for\nMr Darcy had brought with him a Colonel Fitzwilliam, the younger son of\nhis uncle, Lord ---- and to the great surprise of all the party, when\nMr Collins returned the gentlemen accompanied him.'	74.514674786362
+"Mr Reynolds's respect for Elizabeth seemed to increase on this\nintimation of her knowing her master."	74.5408601524788
+'His principal object must be, to discover the\nnumber of the hackney coach which took them from Clapham.'	74.60239026615707
+'It cannot be done too much; and when I next write\nto her, I shall charge her not to neglect it on any account.'	74.63429449814684
+'She accounted for it, however, by supposing that\nher last letter to her friend from Longbourn, had by some accident been\nlost.'	74.93749915910989
+'It was a journey of only twenty-four miles, and they began it so early\nas to be in Gracechurch-street by noon.'	75.18122267478638
+'said Elizabeth to herself.-- You are much mistaken if\nyou expect to influence me by such a paltry attack as this.'	75.23427695535787
+"Mary's powers were by no means fitted for such a display;\nher voice was weak, and her manner affected.--Elizabeth was in agonies."	75.3604565863111
+'He is the best landlord, and the best master,  said she,  that ever\nlived.'	75.4239395980793
+"The day of his and Lydia's departure soon came, and Mr Bennet was\nforced to submit to a separation, which, as her husband by no means\nentered into her scheme of their all going to Newcastle, was likely to\ncontinue at least a twelvemonth."	75.5113176360418
+"But the gloom of Lydia's prospect was shortly cleared away; for she\nreceived an invitation from Mr Forster, the wife of the Colonel of the\nregiment, to accompany her to Brighton."	75.59224679985365
+'As for my fair cousins,\nthough my absence may not be long enough to render it necessary, I shall\nnow take the liberty of wishing them health and happiness, not excepting\nmy cousin Elizabeth.'	75.71371768837366
+'Poor Kitty has anger for having concealed\n     their attachment; but as it was a matter of confidence one cannot\n     wonder.'	75.94514879350665
+"Mr Philips was quite awed by such an excess of good\nbreeding; but her contemplation of one stranger was soon put an end to\nby exclamations and inquiries about the other, of whom, however, she\ncould only tell her nieces what they already knew, that Mr Denny had\nbrought him from London, and that he was to have a lieutenant's\ncommission in the ----shire."	76.04071542001078
+'The vicious propensities--the\n     want of principle which he was careful to guard from the knowledge\n     of his best friend, could not escape the observation of a young man\n     of nearly the same age with himself, and who had opportunities of\n     seeing him in unguarded moments, which Mr Darcy could not have.'	76.23306976988185
+'Elizabeth, with a triumphant sensation, looked towards his friend.'	76.89231715689708
+"And so, Darcy did every thing;\nmade up the match, gave the money, paid the fellow's debts, and got him\nhis commission!"	76.93717911025388
+'They were\nrather handsome, had been educated in one of the first private\nseminaries in town, had a fortune of twenty thousand pounds, were in the\nhabit of spending more than they ought, and of associating with people\nof rank; and were therefore in every respect entitled to think well of\nthemselves, and meanly of others.'	77.09897239033185
+'Far be it from me,  he presently continued in a voice that marked his\ndispleasure,  to resent the behaviour of your daughter.'	77.13076488011436
+'He had been some days in town, before he was able to\n     discover them; but he had something to direct his search, which was\n     more than  we  had; and the consciousness of this, was another\n     reason for his resolving to follow us.'	77.18264880352594
+'In the afternoon Lydia was urgent with the rest of the girls to walk to\nMeryton and see how every body went on; but Elizabeth steadily opposed\nthe scheme.'	77.1967284326537
+'Elizabeth was at no loss to understand from whence this deference for\nher authority proceeded; but it was not in her power to give any\ninformation of so satisfactory a nature, as the compliment deserved.'	77.20558207359423
+'My\nwatchfulness has been effectual; and though I should certainly be a more\ninteresting object to all my acquaintance, were I distractedly in love\nwith him, I cannot say that I regret my comparative insignificance.'	77.24182985288549
+'In the intervals of her discourse with\nMr Collins, she addressed a variety of questions to Maria and\nElizabeth, but especially to the latter, of whose connections she knew\nthe least, and who she observed to Mr Collins, was a very genteel,\npretty kind of girl.'	77.2718280522049
+'Kitty, who took all these threats in a serious light, began to cry.'	77.53064089320664
+'cried Mr Bennet, as she stood at a window the next\nmorning,  if that disagreeable Mr Darcy is not coming here again with\nour dear Bingley!'	77.59303345987882
+'It will save me a world of trouble\nand economy.'	77.61594032583245
+'That they should marry, small as is their chance of happiness,\nand wretched as is his character, we are forced to rejoice!'	77.6748797119594
+'Her daughters were eagerly called to partake of her joy.'	77.82988263253534
+'Elizabeth coloured and laughed as she replied,  Yes, you know enough of\nmy  frankness  to believe me capable of  that .'	77.88949782723029
+'The whole party before\nthem, indeed, excited a lively attention.'	78.0528814401689
+'I am sure  I  know none so handsome; but in the gallery up stairs you\nwill see a finer, larger picture of him than this.'	78.67989394555445
+"Twice has she condescended to give me her opinion (unasked too!) on this\nsubject; and it was but the very Saturday night before I left\nHunsford--between our pools at quadrille, while Mr Jenkinson was\narranging Miss de Bourgh's foot-stool, that she said, 'Mr Collins, you\nmust marry."	78.80725947906276
+"the story which followed of his designs on Miss Darcy,\nreceived some confirmation from what had passed between Colonel\nFitzwilliam and herself only the morning before; and at last she was\nreferred for the truth of every particular to Colonel Fitzwilliam\nhimself--from whom she had previously received the information of his\nnear concern in all his cousin's affairs, and whose character she had no\nreason to question."	78.97780043302693
+'To oblige you, I would try to believe almost any thing, but no one else\ncould be benefited by such a belief as this; for were I persuaded that\nCharlotte had any regard for him, I should only think worse of her\nunderstanding, than I now do of her heart.'	79.14903842518164
+'He is perfectly well behaved, polite, and unassuming,  said her uncle.'	79.4144544557218
+"But in spite of the certainty in which Elizabeth affected to place this\npoint, as well as the still more interesting one of Bingley's being\nwithheld from seeing Jane, she felt a solicitude on the subject which\nconvinced her, on examination, that she did not consider it entirely\nhopeless."	79.49387671227038
+'Jane went to him instantly, kissed him, and thanked him for his\ngoodness.'	79.52594178730591
+'Your lively talents would place you in the\ngreatest danger in an unequal marriage.'	79.67256609494288
+'It only shews her being\ndeficient in something herself--sense or feeling.'	79.73150722643312
+'There\ncould not exist in the world  two  men, over whom Mr Darcy could have\nsuch boundless influence.'	79.88813715246607
+'I feel as if I had never done you justice, or loved you as you\ndeserve.'	79.9325319377608
+'To be sure, you knew no actual good of me--but nobody thinks\nof  that  when they fall in love.'	80.05333235481659
+'Elizabeth, having rather expected to affront him, was amazed at his\ngallantry; but there was a mixture of sweetness and archness in her\nmanner which made it difficult for her to affront anybody; and Darcy had\nnever been so bewitched by any woman as he was by her.'	80.20995208571459
+'As a\nchild I was taught what was  right , but I was not taught to correct my\ntemper.'	80.29876966714671
+'He spoke well, but there were feelings besides\nthose of the heart to be detailed, and he was not more eloquent on the\nsubject of tenderness than of pride.'	80.84659179562027
+'His  eyes had been soon and repeatedly turned\ntowards them with a look of curiosity; and that her ladyship after a\nwhile shared the feeling, was more openly acknowledged, for she did not\nscruple to call out,\n\n What is that you are saying, Fitzwilliam?'	81.14101092709562
+'Mr Wickham is the son of a very\n     respectable man, who had for many years the management of all the\n     Pemberley estates; and whose good conduct in the discharge of his\n     trust, naturally inclined my father to be of service to him, and on\n     George Wickham, who was his god-son, his kindness was therefore\n     liberally bestowed.'	81.28173141011916
+'Did you, on reading it, give any credit to its\ncontents?'	81.57701790345413
+'At length, quite exhausted by the attempt to be\namused with her own book, which she had only chosen because it was the\nsecond volume of his, she gave a great yawn and said,  How pleasant it\nis to spend an evening in this way!'	81.96062429232948
+'And now nothing\nremains for me but to assure you in the most animated language of the\nviolence of my affection.'	82.13850901343743
+"By Jane this attention was received with the greatest\npleasure; but Elizabeth still saw superciliousness in their treatment of\nevery body, hardly excepting even her sister, and could not like them;\nthough their kindness to Jane, such as it was, had a value as arising in\nall probability from the influence of their brother's admiration."	82.26805260903627
+'The least agreeable\ncircumstance in the business, was the surprise it must occasion to\nElizabeth Bennet, whose friendship she valued beyond that of any other\nperson.'	83.02460879589414
+'She expressed her gratitude again, but it was too painful a subject to\neach, to be dwelt on farther.'	83.26440755931124
+"When the engagement was for home, some of the officers always\nmade part of it, of which officers Mr Wickham was sure to be one; and\non these occasions, Mr Gardiner, rendered suspicious by Elizabeth's\nwarm commendation of him, narrowly observed them both."	83.54504594872844
+"Jane met her with a smile of\nsuch sweet complacency, a glow of such happy expression, as sufficiently\nmarked how well she was satisfied with the occurrences of the\nevening.--Elizabeth instantly read her feelings, and at that moment\nsolicitude for Wickham, resentment against his enemies, and every thing\nelse gave way before the hope of Jane's being in the fairest way for\nhappiness."	83.6580000376759
+'On his approaching them soon afterwards, though without seeming to have\nany intention of speaking, Miss Lucas defied her friend to mention such\na subject to him, which immediately provoking Elizabeth to do it, she\nturned to him and said,\n\n Did not you think, Mr Darcy, that I expressed myself uncommonly well\njust now, when I was teazing Colonel Forster to give us a ball at\nMeryton?'	83.70984019241689
+"CHAPTER XXI.\n\n\nThe discussion of Mr Collins's offer was now nearly at an end, and\nElizabeth had only to suffer from the uncomfortable feelings necessarily\nattending it, and occasionally from some peevish allusion of her mother."	83.94594492466331
+'He had certainly formed such a plan, and without\nmeaning that it should affect his endeavour to separate him from Miss\nBennet, it is probable that it might add something to his lively concern\nfor the welfare of his friend.'	84.18109928162221
+'And so would Anne, if her health\nhad allowed her to apply.'	84.59750154086329
+'As he was to begin his journey too early on the morrow to see any of the\nfamily, the ceremony of leave-taking was performed when the ladies moved\nfor the night; and Mr Bennet with great politeness and cordiality said\nhow happy they should be to see him at Longbourn again, whenever his\nother engagements might allow him to visit them.'	84.68555017265084
+'He seems to be a most\nconscientious and polite young man, upon my word; and I doubt not will\nprove a valuable acquaintance, especially if Lady Catherine should be so\nindulgent as to let him come to us again.'	85.01325389416469
+'And are they upon such terms as for her to disclose the real\ntruth!'	85.23661871006745
+'Very\nfrequently were they reproached for this insensibility by Kitty and\nLydia, whose own misery was extreme, and who could not comprehend such\nhard-heartedness in any of the family.'	85.24271711790088
+"She was engaged one day as she walked, in re-perusing Jane's last\nletter, and dwelling on some passages which proved that Jane had not\nwritten in spirits, when, instead of being again surprised by Mr Darcy,\nshe saw on looking up that Colonel Fitzwilliam was meeting her."	85.51962645554008
+'They proceeded in silence along the gravel walk\nthat led to the copse; Elizabeth was determined to make no effort for\nconversation with a woman, who was now more than usually insolent and\ndisagreeable.'	85.6914224366214
+'CHAPTER XVIII.\n\n\nTill Elizabeth entered the drawing-room at Netherfield and looked in\nvain for Mr Wickham among the cluster of red coats there assembled, a\ndoubt of his being present had never occurred to her.'	85.89852957902879
+'I do not pretend to possess equal frankness with your ladyship.'	85.96334485458392
+"Mama,  cried Lydia,  my aunt says that Colonel Forster and Captain\nCarter do not go so often to Miss Watson's as they did when they first\ncame; she sees them now very often standing in Clarke's library."	86.00811264513233
+'Besides, it will not much signify what\none wears this summer, after the ----shire have left Meryton, and they\nare going in a fortnight.'	87.08399710799958
+'It was a fortnight since Mr Bennet had been down stairs, but on this\nhappy day, she again took her seat at the head of her table, and in\nspirits oppressively high.'	87.25542542366638
+"Miss Bingley's attention was quite as much engaged in watching Mr\nDarcy's progress through  his  book, as in reading her own; and she was\nperpetually either making some inquiry, or looking at his page."	87.53777479017437
+'He now seated himself by her, and\ntalked so agreeably of Kent and Hertfordshire, of travelling and staying\nat home, of new books and music, that Elizabeth had never been half so\nwell entertained in that room before; and they conversed with so much\nspirit and flow, as to draw the attention of Lady Catherine herself, as\nwell as of Mr Darcy.'	87.64693940485897
+'The\nworld is blinded by his fortune and consequence, or frightened by his\nhigh and imposing manners, and sees him only as he chuses to be seen.'	87.95310721830371
+'Young ladies of her age, are sometimes a\nlittle difficult to manage, and if she has the true Darcy spirit, she\nmay like to have her own way.'	88.0176650207059
+'Sometimes she could fancy, that he talked less than on\nformer occasions, and once or twice pleased herself with the notion that\nas he looked at her, he was trying to trace a resemblance.'	88.07465418526894
+"CHAPTER III.\n\n\nConvinced as Elizabeth now was that Miss Bingley's dislike of her had\noriginated in jealousy, she could not help feeling how very unwelcome\nher appearance at Pemberley must be to her, and was curious to know with\nhow much civility on that lady's side, the acquaintance would now be\nrenewed."	88.0975429848072
+'To complete the favourable impression, she then told him what Mr Darcy\nhad voluntarily done for Lydia.'	88.39599500276188
+'To interrupt\na silence which might make him fancy her affected with what had passed,\nshe soon afterwards said,\n\n I imagine your cousin brought you down with him chiefly for the sake of\nhaving somebody at his disposal.'	88.91511968797393
+'Mr Collins had a compliment, and an allusion to throw in here, which\nwere kindly smiled on by the mother and daughter.'	89.04874880182504
+'And taking her hand, he would have given it to Mr Darcy, who, though\nextremely surprised, was not unwilling to receive it, when she instantly\ndrew back, and said with some discomposure to Sir William,\n\n Indeed, Sir, I have not the least intention of dancing.--I entreat you\nnot to suppose that I moved this way in order to beg for a partner.'	89.47583313012565
+'Has it not been\nindustriously circulated by yourselves?'	89.51060407045928
+"The former was divided between\nadmiration of the brilliancy which exercise had given to her complexion,\nand doubt as to the occasion's justifying her coming so far alone."	89.67906874944536
+'He has been accused of many\n     faults at different times; but  this  is the true one.'	90.11357741845119
+"Had the late Mr Darcy liked me\nless, his son might have borne with me better; but his father's uncommon\nattachment to me, irritated him I believe very early in life."	90.11589296317793
+'Mr\nBennet was diffuse in her good wishes for the felicity of her daughter,\nand impressive in her injunctions that she would not miss the\nopportunity of enjoying herself as much as possible; advice, which there\nwas every reason to believe would be attended to; and in the clamorous\nhappiness of Lydia herself in bidding farewell, the more gentle adieus\nof her sisters were uttered without being heard.'	90.61088505746142
+"Her favourite walk, and where\nshe frequently went while the others were calling on Lady Catherine, was\nalong the open grove which edged that side of the park, where there was\na nice sheltered path, which no one seemed to value but herself, and\nwhere she felt beyond the reach of Lady Catherine's curiosity."	91.08903067817467
+'Lady Catherine will not think the worse of you for\nbeing simply dressed.'	91.11307659197446
+'The prospect of such\ndelights was very cheering, and they parted in mutual good spirits.'	91.30574766438052
+'But, in my opinion, it is a paltry device, a very mean art.'	91.61165490354388
+'Since writing the above, dearest Lizzy, something has occurred of\n     a most unexpected and serious nature; but I am afraid of alarming\n     you--be assured that we are all well.'	91.61622775921512
+'Darcy,\nas well as Elizabeth, really loved them; and they were both ever\nsensible of the warmest gratitude towards the persons who, by bringing\nher into Derbyshire, had been the means of uniting them.'	91.76950936761654
+'He has many friends, and he is\nat a time of life when friends and engagements are continually\nincreasing.'	92.23086900420255
+"When he was gone, they were certain at least of receiving constant\ninformation of what was going on, and their uncle promised, at parting,\nto prevail on Mr Bennet to return to Longbourn, as soon as he could, to\nthe great consolation of his sister, who considered it as the only\nsecurity for her husband's not being killed in a duel."	92.58449277285169
+"Our\nimportance, our respectability in the world, must be affected by the\nwild volatility, the assurance and disdain of all restraint which mark\nLydia's character."	92.700729325539
+"We\ndressed up Chamberlayne in woman's clothes, on purpose to pass for a\nlady,--only think what fun!"	92.76110522676318
+'Sir William Lucas, and his daughter Maria, a good\nhumoured girl, but as empty-headed as himself, had nothing to say that\ncould be worth hearing, and were listened to with about as much delight\nas the rattle of the chaise.'	92.99652282819687
+"And I think you will agree with me,\n     in considering a removal from that corps as highly advisable, both\n     on his account and my niece's."	93.11219497990466
+'I was given good principles, but left to follow them in pride\nand conceit.'	93.14465533698751
+'Beyond a doubt, they  do  wish him to chuse Miss Darcy,  replied Jane;\n but this may be from better feelings than you are supposing.'	93.44800066214397
+"His belief of her sister's\ninsensibility, she instantly resolved to be false, and his account of\nthe real, the worst objections to the match, made her too angry to have\nany wish of doing him justice."	93.55530544290434
+'But whatever may be the sentiments which Mr Wickham has created, a\n     suspicion of their nature shall not prevent me from unfolding his\n     real character.'	93.80720467495868
+'But there\nare two things that I want very much to know:--one is, how much money\nyour uncle has laid down, to bring it about; and the other, how I am\never to pay him.'	93.9046085261516
+"They had not long separated when Miss Bingley came towards her, and with\nan expression of civil disdain thus accosted her,\n\n So, Miss Eliza, I hear you are quite delighted with George\nWickham!--Your sister has been talking to me about him, and asking me a\nthousand questions; and I find that the young man forgot to tell you,\namong his other communications, that he was the son of old Wickham, the\nlate Mr Darcy's steward."	95.00440238791036
+'Her manners were\npronounced to be very bad indeed, a mixture of pride and impertinence;\nshe had no conversation, no style, no taste, no beauty.'	95.08446224809023
+'I should like balls infinitely better,  she replied,  if they were\ncarried on in a different manner; but there is something insufferably\ntedious in the usual process of such a meeting.'	95.29017599541461
+'You shewed me how insufficient were all my\npretensions to please a woman worthy of being pleased.'	95.34273546122631
+'Your great men often are; and therefore I shall not take him\nat his word about fishing, as he might change his mind another day, and\nwarn me off his grounds.'	95.8921521479099
+'I am glad I bought my\nbonnet, if it is only for the fun of having another bandbox!'	95.94444615222312
+'Your picture may be very exact, Louisa,  said Bingley;  but this was\nall lost upon me.'	95.97418286684714
+'that my dear mother had more command over herself; she can have no\nidea of the pain she gives me by her continual reflections on him.'	96.70186403567654
+"It originated in\nMr Gardiner, who, fatigued by the exercise of the morning, found\nElizabeth's arm inadequate to her support, and consequently preferred\nher husband's."	96.70807512107591
+"He addressed\nhimself directly to Miss Bennet, with a polite congratulation; Mr Hurst\nalso made her a slight bow, and said he was  very glad;  but diffuseness\nand warmth remained for Bingley's salutation."	97.98981190984952
+'I will not spend  my  hours in\nrunning after my neighbours every time they go away, and come back\nagain.'	98.39207842098398
+'Miss Darcy and her brother appeared, and this formidable introduction\ntook place.'	98.45159468219738
+'I am the less surprised at what has happened,  replied Sir William,\n from that knowledge of what the manners of the great really are, which\nmy situation in life has allowed me to acquire.'	98.68007460942427
+'She had instinctively turned away; but, stopping on his approach,\nreceived his compliments with an embarrassment impossible to be\novercome.'	98.69563660305454
+'At length Darcy spoke, and in a\nconstrained manner said,\n\n Mr Wickham is blessed with such happy manners as may ensure his\n making  friends--whether he may be equally capable of  retaining  them,\nis less certain.'	98.84174818811898
+'She read, with an eagerness which\nhardly left her power of comprehension, and from impatience of knowing\nwhat the next sentence might bring, was incapable of attending to the\nsense of the one before her eyes.'	98.85512049829816
+"CHAPTER XVI.\n\n\nIt was the second week in May, in which the three young ladies set out\ntogether from Gracechurch-street, for the town of ---- in Hertfordshire;\nand, as they drew near the appointed inn where Mr Bennet's carriage was\nto meet them, they quickly perceived, in token of the coachman's\npunctuality, both Kitty and Lydia looking out of a dining-room up\nstairs."	99.02856527018348
+'And yet I meant to be uncommonly clever in taking so decided a dislike\nto him, without any reason.'	99.85173884008312
+'Pardon me for interrupting you, Madam,  cried Mr Collins;  but if she\nis really headstrong and foolish, I know not whether she would\naltogether be a very desirable wife to a man in my situation, who\nnaturally looks for happiness in the marriage state.'	100.01815162054152
+'It certainly is a most iniquitous affair,  said Mr Bennet,  and\nnothing can clear Mr Collins from the guilt of inheriting Longbourn.'	100.32172331443725
+"You\nwould have been less amiable in my eyes had there  not  been this little\nunwillingness; but allow me to assure you that I have your respected\nmother's permission for this address."	100.45717871146704
+'Miss Bingley was\nthen sorry that she had proposed the delay, for her jealousy and dislike\nof one sister much exceeded her affection for the other.'	100.62188893786771
+"She had better have stayed at home,  cried Elizabeth;  perhaps she\n meant  well, but, under such a misfortune as this, one cannot see too\nlittle of one's neighbours."	100.95029486716386
+"Let me recommend you, however, as a friend,\nnot to give implicit confidence to all his assertions; for as to Mr\nDarcy's using him ill, it is perfectly false; for, on the contrary, he\nhas been always remarkably kind to him, though George Wickham has\ntreated Mr Darcy in a most infamous manner."	101.9712690412684
+'She knew not the exact degree of his affection for his\naunt, or his dependence on her judgment, but it was natural to suppose\nthat he thought much higher of her ladyship than  she  could do; and it\nwas certain, that in enumerating the miseries of a marriage with  one ,\nwhose immediate connections were so unequal to his own, his aunt would\naddress him on his weakest side.'	101.99036665527261
+'The whist party soon afterwards breaking up, the players gathered round\nthe other table, and Mr Collins took his station between his cousin\nElizabeth and Mr Philips.--The usual inquiries as to his success were\nmade by the latter.'	102.35546798004023
+"The village of Longbourn was only one mile from Meryton; a most\nconvenient distance for the young ladies, who were usually tempted\nthither three or four times a week, to pay their duty to their aunt and\nto a milliner's shop just over the way."	102.4830620764855
+'He expressed no regret for what he had\ndone which satisfied her; his style was not penitent, but haughty.'	102.52234806798282
+'Mr Darcy, who was leaning against the mantle-piece with his eyes fixed\non her face, seemed to catch her words with no less resentment than\nsurprise.'	103.10037431709847
+'She highly approved his forbearance, and they had leisure for a full\ndiscussion of it, and for all the commendation which they civilly\nbestowed on each other, as Wickham and another officer walked back with\nthem to Longbourn, and during the walk, he particularly attended to her.'	103.1747337157001
+'The colour which had been driven from her face, returned for half a\nminute with an additional glow, and a smile of delight added lustre to\nher eyes, as she thought for that space of time, that his affection and\nwishes must still be unshaken.'	103.2034228344533
+'It was an earnest, steadfast gaze, but she often\ndoubted whether there were much admiration in it, and sometimes it\nseemed nothing but absence of mind.'	103.73060212857224
+'Elizabeth looked\nexpressively at Lydia; but she, who never heard nor saw any thing of\nwhich she chose to be insensible, gaily continued,  Oh!'	103.88491664014914
+'When you told Mr\nBennet this morning that if you ever resolved on quitting Netherfield\nyou should be gone in five minutes, you meant it to be a sort of\npanegyric, of compliment to yourself--and yet what is there so very\nlaudable in a precipitance which must leave very necessary business\nundone, and can be of no real advantage to yourself or any one else?'	105.01002884014842
+'Allow me to say, Lady Catherine, that the arguments with\nwhich you have supported this extraordinary application, have been as\nfrivolous as the application was ill-judged.'	105.127337054489
+'Much had been done, and much\nhad been said in the regiment since the preceding Wednesday; several of\nthe officers had dined lately with their uncle, a private had been\nflogged, and it had actually been hinted that Colonel Forster was going\nto be married.'	105.3403113204627
+'They had now entered a beautiful walk by the side of the water, and\nevery step was bringing forward a nobler fall of ground, or a finer\nreach of the woods to which they were approaching; but it was some time\nbefore Elizabeth was sensible of any of it; and, though she answered\nmechanically to the repeated appeals of her uncle and aunt, and seemed\nto direct her eyes to such objects as they pointed out, she\ndistinguished no part of the scene.'	105.58168125761918
+"When they ascended the steps to the hall, Maria's alarm was every\nmoment increasing, and even Sir William did not look perfectly\ncalm.--Elizabeth's courage did not fail her."	105.73468165417603
+'We will settle with your father about the money\nafterwards; but the things should be ordered immediately.'	105.89839347880775
+'Lydia laughed, and said,\n\n Aye, that is just like your formality and discretion.'	107.17272196870323
+'Your ladyship wants Mr Darcy to marry\nyour daughter; but would my giving you the wished-for promise, make\n their  marriage at all more probable?'	108.18709108202283
+"It was all\n     over before I arrived; so my curiosity was not so dreadfully racked\n     as  your's  seems to have been."	108.38752069811176
+'Day after\nday passed away without bringing any other tidings of him than the\nreport which shortly prevailed in Meryton of his coming no more to\nNetherfield the whole winter; a report which highly incensed Mr\nBennet, and which she never failed to contradict as a most scandalous\nfalsehood.'	108.68744023771029
+"To be fond of\ndancing was a certain step towards falling in love; and very lively\nhopes of Mr Bingley's heart were entertained."	108.69582737084367
+'He was\ndirectly invited to join their party, but he declined it, observing,\nthat he could imagine but two motives for their chusing to walk up and\ndown the room together, with either of which motives his joining them\nwould interfere.'	109.27886805453545
+'it\nsoon led to another; and Mr Bennet found, with amazement and horror,\nthat her husband would not advance a guinea to buy clothes for his\ndaughter.'	109.47206231386532
+'But,  he added,  you will of course wish to have your humble respects\ndelivered to them, with your grateful thanks for their kindness to you\nwhile you have been here.'	109.61357554887395
+"Mr Collins, however, was not\ndiscouraged from speaking again, and Mr Darcy's contempt seemed\nabundantly increasing with the length of his second speech, and at the\nend of it he only made him a slight bow, and moved another way."	110.0804336911242
+'Of what he has  particularly  accused me I am ignorant; but\n     of the truth of what I shall relate, I can summon more than one\n     witness of undoubted veracity.'	110.24584478386706
+"Nor was Darcy's vindication, though\ngrateful to her feelings, capable of consoling her for such discovery."	110.5022435684268
+'Yes; these four evenings have enabled them to ascertain that they both\nlike Vingt-un better than Commerce; but with respect to any other\nleading characteristic, I do not imagine that much has been unfolded.'	110.82155185831536
+'They have not the same\nforce or rapidity, and do not produce the same expression.'	111.33060865694542
+"With such kind of histories of their parties and good jokes, did Lydia,\nassisted by Kitty's hints and additions, endeavour to amuse her\ncompanions all the way to Longbourn."	111.90849300633367
+"I can much more easily believe Mr Bingley's being imposed on, than\nthat Mr Wickham should invent such a history of himself as he gave me\nlast night; names, facts, every thing mentioned without ceremony.--If it\nbe not so, let Mr Darcy contradict it."	112.32514285218011
+"My father supported him at school, and\n     afterwards at Cambridge;--most important assistance, as his own\n     father, always poor from the extravagance of his wife, would have\n     been unable to give him a gentleman's education."	112.44368766708305
+"As soon as Jane had read Mr Gardiner's hope of Lydia's\nbeing soon married, her joy burst forth, and every following sentence\nadded to its exuberance."	112.70575430563063
+"It was Mr Collins's picture of Hunsford and\nRosings rationally softened; and Elizabeth perceived that she must wait\nfor her own visit there, to know the rest."	113.25220766048156
+'She was now in an irritation as violent from\ndelight, as she had ever been fidgetty from alarm and vexation.'	113.34410150264685
+"For heaven's sake, madam, speak lower.--What advantage can it be to you\nto offend Mr Darcy?--You will never recommend yourself to his friend by\nso doing."	113.79832623419529
+'She was a little revived, however, by his bringing back his coffee cup\nhimself; and she seized the opportunity of saying,\n\n Is your sister at Pemberley still?'	114.30736975871217
+'The\nofficers of the ----shire were in general a very creditable,\ngentleman-like set, and the best of them were of the present party; but\nMr Wickham was as far beyond them all in person, countenance, air, and\nwalk, as  they  were superior to the broad-faced stuffy uncle Philips,\nbreathing port wine, who followed them into the room.'	114.58674979133522
+'After joining in general lamentations over the dreadful sequel\nof this event, which Elizabeth considered as all but certain, and Miss\nBennet could not assert to be wholly impossible; the former continued\nthe subject, by saying,  But tell me all and every thing about it, which\nI have not already heard.'	115.41697206386873
+"Lady\nCatherine's unjustifiable endeavours to separate us, were the means of\nremoving all my doubts."	115.43598283321403
+'Had Elizabeth been at leisure\nto be idle, she would have remained certain that all employment was\nimpossible to one so wretched as herself; but she had her share of\nbusiness as well as her aunt, and amongst the rest there were notes to\nbe written to all their friends in Lambton, with false excuses for their\nsudden departure.'	115.69164514138942
+'The power of doing any thing with\nquickness is always much prized by the possessor, and often without any\nattention to the imperfection of the performance.'	115.97102269381297
+"Jane's temper was not desponding, and she was gradually led to hope,\nthough the diffidence of affection sometimes overcame the hope, that\nBingley would return to Netherfield and answer every wish of her heart."	116.65437542374005
+"Our situation\nwith regard to Lady Catherine's family is indeed the sort of\nextraordinary advantage and blessing which few can boast."	117.31491776439634
+'Mr Bingley was good looking and gentleman-like; he had a pleasant\ncountenance, and easy, unaffected manners.'	117.47998100952184
+'They travelled as expeditiously as possible; and sleeping one night on\nthe road, reached Longbourn by dinner-time the next day.'	118.52312176015717
+'Elizabeth listened in silence, but was not convinced; their behaviour at\nthe assembly had not been calculated to please in general; and with more\nquickness of observation and less pliancy of temper than her sister, and\nwith a judgment too unassailed by any attention to herself, she was very\nlittle disposed to approve them.'	118.94804179934353
+'Neither duty, nor honour, nor gratitude,  replied Elizabeth,  have any\npossible claim on me, in the present instance.'	119.27890611957264
+'What sister would think\nherself at liberty to do it, unless there were something very\nobjectionable?'	119.73673425112
+"A lady's\nimagination is very rapid; it jumps from admiration to love, from love\nto matrimony in a moment."	120.36473181510235
+"Since her\nfather's death, her home has been London, where a lady lives with her,\nand superintends her education."	120.70227829058818
+"Colonel Forster did own that he had often suspected some partiality,\nespecially on Lydia's side, but nothing to give him any alarm."	121.01401288674548
+'The dinner too in its turn was highly admired; and\nhe begged to know to which of his fair cousins, the excellence of its\ncookery was owing.'	121.32886745442414
+"They shook hands with\ngreat cordiality; and then till her sister came down, she had to listen\nto all he had to say, of his own happiness, and of Jane's perfections;\nand in spite of his being a lover, Elizabeth really believed all his\nexpectations of felicity, to be rationally founded, because they had for\nbasis the excellent understanding, and super-excellent disposition of\nJane, and a general similarity of feeling and taste between her and\nhimself."	121.41912751360279
+'It is particularly incumbent on those who never change their opinion,\nto be secure of judging properly at first.'	122.26381815836699
+'In short, my dear aunt, I\nshould be very sorry to be the means of making any of you unhappy; but\nsince we see every day that where there is affection, young people are\nseldom withheld by immediate want of fortune, from entering into\nengagements with each other, how can I promise to be wiser than so many\nof my fellow creatures if I am tempted, or how am I even to know that it\nwould be wisdom to resist?'	123.49622584603242
+'Persuaded as Miss Bingley was that Darcy admired Elizabeth, this was not\nthe best method of recommending herself; but angry people are not always\nwise; and in seeing him at last look somewhat nettled, she had all the\nsuccess she expected.'	124.24334694983231
+'Bingley, from this time, was of course a daily visitor at Longbourn;\ncoming frequently before breakfast, and always remaining till after\nsupper; unless when some barbarous neighbour, who could not be enough\ndetested, had given him an invitation to dinner, which he thought\nhimself obliged to accept.'	124.54134175065592
+"Elizabeth's mind was too full for conversation, but she saw and admired\nevery remarkable spot and point of view."	125.30136546835452
+'I know that you could be neither happy nor\nrespectable, unless you truly esteemed your husband; unless you looked\nup to him as a superior.'	126.0951485054672
+'Amazed at the\nalteration in his manner since they last parted, every sentence that he\nuttered was increasing her embarrassment; and every idea of the\nimpropriety of her being found there, recurring to her mind, the few\nminutes in which they continued together, were some of the most\nuncomfortable of her life.'	126.13330628145651
+'Within doors there\nwas Lady Catherine, books, and a billiard table, but gentlemen cannot be\nalways within doors; and in the nearness of the Parsonage, or the\npleasantness of the walk to it, or of the people who lived in it, the\ntwo cousins found a temptation from this period of walking thither\nalmost every day.'	126.64794665074862
+'Their society can afford no pleasure,\nthat will atone for such wretchedness as this!'	126.67775107292493
+'Mr Gardiner, whose manners were easy and pleasant, encouraged her\ncommunicativeness by his questions and remarks; Mr Reynolds, either\nfrom pride or attachment, had evidently great pleasure in talking of her\nmaster and his sister.'	126.96083067875819
+"That is not an unnatural surmise,  said Fitzwilliam,  but it is\nlessening the honour of my cousin's triumph very sadly."	127.42524355525053
+'In spite of this amendment, however, she requested to have a\nnote sent to Longbourn, desiring her mother to visit Jane, and form her\nown judgment of her situation.'	127.45668580915726
+'I cannot forget the follies and vices of\nothers so soon as I ought, nor their offences against myself.'	127.74804276339832
+'I shall send for my\n     clothes when I get to Longbourn; but I wish you would tell Sally\n     to mend a great slit in my worked muslin gown, before they are\n     packed up.'	127.990610630504
+'With proper civilities the ladies then withdrew; all of them equally\nsurprised to find that he meditated a quick return.'	128.48200652024428
+'Her figure was elegant, and she walked well;--but Darcy, at\nwhom it was all aimed, was still inflexibly studious.'	129.12597815738042
+'The sisters, on hearing\nthis, repeated three or four times how much they were grieved, how\nshocking it was to have a bad cold, and how excessively they disliked\nbeing ill themselves; and then thought no more of the matter:'	129.79450092477256
+'DEAR SIR,\n\n     The disagreement subsisting between yourself and my late honoured\n     father, always gave me much uneasiness, and since I have had the\n     misfortune to lose him, I have frequently wished to heal the\n     breach; but for some time I was kept back by my own doubts, fearing\n     lest it might seem disrespectful to his memory for me to be on good\n     terms with any one, with whom it had always pleased him to be at\n     variance.-- There, Mr Bennet.'	130.25670927539957
+'Their first subject was her\nsister; and she was more grieved than astonished to hear, in reply to\nher minute enquiries, that though Jane always struggled to support her\nspirits, there were periods of dejection.'	130.53000167602357
+"The\neldest of them, a sensible, intelligent young woman, about twenty-seven,\nwas Elizabeth's intimate friend."	131.45689979032966
+'One may be continually\nabusive without saying any thing just; but one cannot be always laughing\nat a man without now and then stumbling on something witty.'	131.99745987915242
+'After a song\nor two, and before she could reply to the entreaties of several that she\nwould sing again, she was eagerly succeeded at the instrument by her\nsister Mary, who having, in consequence of being the only plain one in\nthe family, worked hard for knowledge and accomplishments, was always\nimpatient for display.'	132.76119740976995
+'This idea\nlasted while a turning in the walk concealed him from their view; the\nturning past, he was immediately before them.'	132.87818112145078
+'She then yawned again, threw aside her book, and\ncast her eyes round the room in quest of some amusement; when hearing\nher brother mentioning a ball to Miss Bennet, she turned suddenly\ntowards him and said,\n\n By the bye, Charles, are you really serious in meditating a dance at\nNetherfield?--I would advise you, before you determine on it, to consult\nthe wishes of the present party; I am much mistaken if there are not\nsome among us to whom a ball would be rather a punishment than a\npleasure.'	136.0669733965837
+'Care of him!--Yes, I really believe Darcy  does  take care of him in\nthose points where he most wants care.'	136.0842974079041
+'The respect created by the conviction of his\nvaluable qualities, though at first unwillingly admitted, had for some\ntime ceased to be repugnant to her feelings; and it was now heightened\ninto somewhat of a friendlier nature, by the testimony so highly in his\nfavour, and bringing forward his disposition in so amiable a light,\nwhich yesterday had produced.'	137.05446699819586
+'I certainly have not the talent which some people possess,  said Darcy,\n of conversing easily with those I have never seen before.'	137.72457741916585
+'Elizabeth, who was left by herself, now smiled at the rapidity and ease\nwith which an affair was finally settled, that had given them so many\nprevious months of suspense and vexation.'	138.75085223379057
+"She was not rendered\nformidable by silence; but whatever she said, was spoken in so\nauthoritative a tone, as marked her self-importance, and brought Mr\nWickham immediately to Elizabeth's mind; and from the observation of the\nday altogether, she believed Lady Catherine to be exactly what he had\nrepresented."	138.80583957851692
+'Merely to the illustration of  your  character,  said she, endeavouring\nto shake off her gravity.'	139.1764313219885
+'When Mr\nCollins said any thing of which his wife might reasonably be ashamed,\nwhich certainly was not unseldom, she involuntarily turned her eye on\nCharlotte.'	140.0165538253275
+'Her daughters listened in silence to this effusion, sensible that any\nattempt to reason with or sooth her would only increase the irritation.'	140.21274378021292
+'Her power\nwas sinking; every thing  must  sink under such a proof of family\nweakness, such an assurance of the deepest disgrace.'	140.38356747823886
+'But it was a hope\nshortly checked by other considerations, and she soon felt that even her\nvanity was insufficient, when required to depend on his affection for\nher, for a woman who had already refused him, as able to overcome a\nsentiment so natural as abhorrence against relationship with Wickham.'	141.16717145325575
+"He then told her of Georgiana's delight in her acquaintance, and of her\ndisappointment at its sudden interruption; which naturally leading to\nthe cause of that interruption, she soon learnt that his resolution of\nfollowing her from Derbyshire in quest of her sister, had been formed\nbefore he quitted the inn, and that his gravity and thoughtfulness\nthere, had arisen from no other struggles than what such a purpose must\ncomprehend."	141.18286077167525
+'Her indifferent state of health unhappily prevents her being in town;\nand by that means, as I told Lady Catherine myself one day, has deprived\nthe British court of its brightest ornament.'	141.22570991728423
+'It is excellent news, capital news, and about\na certain person that we all like.'	141.45231184856246
+'The insipidity and yet the noise; the\nnothingness and yet the self-importance of all these people!--What would\nI give to hear your strictures on them!'	141.56045890139671
+'Could he, or the Lucases, have pitched on any man, within\nthe circle of our acquaintance, whose name would have given the lie more\neffectually to what they related?'	141.6091825697357
+'If you mean Darcy,  cried her brother,  he may go to bed, if he chuses,\nbefore it begins--but as for the ball, it is quite a settled thing; and\nas soon as Nicholls has made white soup enough I shall send round my\ncards.'	142.66039356203325
+'How far your nephew might approve of your interference in  his  affairs,\nI cannot tell; but you have certainly no right to concern yourself in\nmine.'	143.0229237962603
+'And\n     will you give yourself the trouble of carrying similar assurances\n     to his creditors in Meryton, of whom I shall subjoin a list,\n     according to his information.'	143.22527411059036
+'A woman must have a thorough knowledge of music, singing, drawing,\ndancing, and the modern languages, to deserve the word; and besides all\nthis, she must possess a certain something in her air and manner of\nwalking, the tone of her voice, her address and expressions, or the word\nwill be but half deserved.'	143.4240121007562
+'You dare not,\nyou cannot deny that you have been the principal, if not the only means\nof dividing them from each other, of exposing one to the censure of the\nworld for caprice and instability, the other to its derision for\ndisappointed hopes, and involving them both in misery of the acutest\nkind.'	143.89211127661605
+'Lady Catherine it\nappeared, had actually taken the trouble of this journey from Rosings,\nfor the sole purpose of breaking off her supposed engagement with Mr\nDarcy.'	146.59131277873615
+'Yes, always,  she replied, without knowing what she said, for her\nthoughts had wandered far from the subject, as soon afterwards appeared\nby her suddenly exclaiming,  I remember hearing you once say, Mr Darcy,\nthat you hardly ever forgave, that your resentment once created was\nunappeasable.'	146.60603984859782
+'Elizabeth at first had rather wondered that Charlotte should not prefer\nthe dining-parlour for common use; it was a better sized room, and had a\npleasanter aspect; but she soon saw that her friend had an excellent\nreason for what she did, for Mr Collins would undoubtedly have been\nmuch less in his own apartment, had they sat in one equally lively; and\nshe gave Charlotte credit for the arrangement.'	146.66655563154612
+'Redistribution is\nsubject to the trademark license, especially commercial\nredistribution.'	146.85260606356255
+'Having never even fancied herself in\nlove before, her regard had all the warmth of first attachment, and from\nher age and disposition, greater steadiness than first attachments often\nboast; and so fervently did she value his remembrance, and prefer him to\nevery other man, that all her good sense, and all her attention to the\nfeelings of her friends, were requisite to check the indulgence of those\nregrets, which must have been injurious to her own health and their\ntranquillity.'	147.24038731301644
+'1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the\ntrademark owner, any agent or employee of the Foundation, anyone\nproviding copies of Project Gutenberg-tm electronic works in accordance\nwith this agreement, and any volunteers associated with the production,\npromotion and distribution of Project Gutenberg-tm electronic works,\nharmless from all liability, costs and expenses, including legal fees,\nthat arise directly or indirectly from any of the following which you do\nor cause to occur:'	147.57085134201168
+'The two ladies were delighted to see\ntheir dear friend again, called it an age since they had met, and\nrepeatedly asked what she had been doing with herself since their\nseparation.'	147.76344315205944
+'I can remember some expressions which might\njustly make you hate me.'	150.18914021266485
+'My reasons for\nbelieving it are briefly these:--It does not appear to me that my hand\nis unworthy your acceptance, or that the establishment I can offer would\nbe any other than highly desirable.'	150.29693996621359
+'Were the same fair prospect to arise at present, as had\nflattered them a year ago, every thing, she was persuaded, would be\nhastening to the same vexatious conclusion.'	151.93946413431564
+'There are few people in England, I suppose, who have more true enjoyment\nof music than myself, or a better natural taste.'	152.10952876538445
+'They may wish many things besides his\nhappiness; they may wish his increase of wealth and consequence; they\nmay wish him to marry a girl who has all the importance of money, great\nconnections, and pride.'	152.90692798096325
+'A report of a most\nalarming nature, reached me two days ago.'	153.01258560238873
+'And this consideration leads me moreover to\n     reflect with augmented satisfaction on a certain event of last\n     November, for had it been otherwise, I must have been involved in\n     all your sorrow and disgrace.'	153.60247076409556
+'That such a\nconsequence as  this  should ensue, you may easily believe was far\nenough from my thoughts.'	154.04360495592215
+'The horses\nwere post; and neither the carriage, nor the livery of the servant who\npreceded it, were familiar to them.'	154.0937576554479
+'They gradually ascended for\nhalf a mile, and then found themselves at the top of a considerable\neminence, where the wood ceased, and the eye was instantly caught by\nPemberley House, situated on the opposite side of a valley, into which\nthe road with some abruptness wound.'	154.1303485940645
+'Her father, contented with laughing at\nthem, would never exert himself to restrain the wild giddiness of his\nyoungest daughters; and her mother, with manners so far from right\nherself, was entirely insensible of the evil.'	154.1531833896889
+'His behaviour to myself has been\nscandalous; but I verily believe I could forgive him any thing and every\nthing, rather than his disappointing the hopes and disgracing the memory\nof his father.'	154.5145871230691
+"My conduct may I fear be objectionable in having accepted my dismission\nfrom your daughter's lips instead of your own."	154.73356483906048
+'Both,  replied Elizabeth archly;  for I have always seen a great\nsimilarity in the turn of our minds.--We are each of an unsocial,\ntaciturn disposition, unwilling to speak, unless we expect to say\nsomething that will amaze the whole room, and be handed down to\nposterity with all the eclat of a proverb.'	155.35692956797942
+'Miss Bennet was the only creature who could suppose there might be any\nextenuating circumstances in the case, unknown to the society of\nHertfordshire; her mild and steady candour always pleaded for\nallowances, and urged the possibility of mistakes--but by everybody else\nMr Darcy was condemned as the worst of men.'	155.57688055484812
+'Such I was, from eight to eight and twenty; and such I might\nstill have been but for you, dearest, loveliest Elizabeth!'	157.85262179564558
+'Though it is difficult,  said Jane,  to guess in what way he can mean\nto make us the atonement he thinks our due, the wish is certainly to his\ncredit.'	160.73613037255416
+'On reaching the house, they were shewn through the hall into the saloon,\nwhose northern aspect rendered it delightful for summer.'	161.6655209903655
+'And we mean to treat you all,  added Lydia;  but you must lend us the\nmoney, for we have just spent ours at the shop out there.'	162.10706607160975
+'It settled the matter; and they pursued the accustomed\ncircuit; which brought them again, after some time, in a descent among\nhanging woods, to the edge of the water, in one of its narrowest parts.'	162.4213154071555
+'His own\n     father did not long survive mine, and within half a year from these\n     events, Mr Wickham wrote to inform me that, having finally\n     resolved against taking orders, he hoped I should not think it\n     unreasonable for him to expect some more immediate pecuniary\n     advantage, in lieu of the preferment, by which he could not be\n     benefited.'	162.45852536956693
+'Not Lydia only, but all were concerned in it; and after\nthe first exclamations of surprise and horror, Mr Gardiner readily\npromised every assistance in his power.--Elizabeth, though expecting no\nless, thanked him with tears of gratitude; and all three being actuated\nby one spirit, every thing relating to their journey was speedily\nsettled.'	162.73471263698278
+'Our habits of expence make us too dependant, and there are not many in\nmy rank of life who can afford to marry without some attention to\nmoney.'	163.9450254918105
+"The evening was spent chiefly in talking over Hertfordshire news, and\ntelling again what had been already written; and when it closed,\nElizabeth in the solitude of her chamber had to meditate upon\nCharlotte's degree of contentment, to understand her address in guiding,\nand composure in bearing with her husband, and to acknowledge that it\nwas all done very well."	164.4509678939335
+'She was not the better pleased with his\ngallantry, from the idea it suggested of something more.--It now first\nstruck her, that  she  was selected from among her sisters as worthy of\nbeing the mistress of Hunsford Parsonage, and of assisting to form a\nquadrille table at Rosings, in the absence of more eligible visitors.'	164.564899996739
+'When\nshe saw him thus seeking the acquaintance, and courting the good opinion\nof people, with whom any intercourse a few months ago would have been a\ndisgrace; when she saw him thus civil, not only to herself, but to the\nvery relations whom he had openly disdained, and recollected their last\nlively scene in Hunsford Parsonage, the difference, the change was so\ngreat, and struck so forcibly on her mind, that she could hardly\nrestrain her astonishment from being visible.'	165.3610526102721
+'But, my\n     dear sister, though the event has proved you right, do not think me\n     obstinate if I still assert, that, considering what her behaviour\n     was, my confidence was as natural as your suspicion.'	166.01877290035034
+'The sanguine hope of good,\nhowever, which the benevolence of her heart suggested, had not yet\ndeserted her; she still expected that it would all end well, and that\nevery morning would bring some letter, either from Lydia or her father,\nto explain their proceedings, and perhaps announce the marriage.'	166.3865842454153
+"To this speech Bingley made no answer; but his sisters gave it their\nhearty assent, and indulged their mirth for some time at the expense of\ntheir dear friend's vulgar relations."	167.25721899791418
+'She told the story\nhowever with great spirit among her friends; for she had a lively,\nplayful disposition, which delighted in any thing ridiculous.'	167.42450944709557
+'The indirect boast;--for you are really proud of your defects in\nwriting, because you consider them as proceeding from a rapidity of\nthought and carelessness of execution, which if not estimable, you think\nat least highly interesting.'	168.07398359173635
+'I admire the activity of your benevolence,  observed Mary,  but every\nimpulse of feeling should be guided by reason; and, in my opinion,\nexertion should always be in proportion to what is required.'	168.14007475245387
+"They were soon gone again, rising from\ntheir seats with an activity which took their brother by surprise, and\nhurrying off as if eager to escape from Mr Bennet's civilities."	168.61626332136575
+"While these\nnewly-born notions were passing in their heads, the perturbation of\nElizabeth's feelings was every moment increasing."	169.27709910700435
+"The two youngest of the family,\nCatherine and Lydia, were particularly frequent in these attentions;\ntheir minds were more vacant than their sisters', and when nothing\nbetter offered, a walk to Meryton was necessary to amuse their morning\nhours and furnish conversation for the evening; and however bare of news\nthe country in general might be, they always contrived to learn some\nfrom their aunt."	172.21263523660903
+'Bingley was sure of\nbeing liked wherever he appeared, Darcy was continually giving offence.'	172.61533723695644
+"It was dated\nfrom Rosings, at eight o'clock in the morning, and was as follows:--\n\n      Be not alarmed, Madam, on receiving this letter, by the\n     apprehension of its containing any repetition of those sentiments,\n     or renewal of those offers, which were last night so disgusting to\n     you."	173.17026133786726
+"Elizabeth, still more affected, was earnest and solemn in her reply;\nand at length, by repeated assurances that Mr Darcy was really the\nobject of her choice, by explaining the gradual change which her\nestimation of him had undergone, relating her absolute certainty that\nhis affection was not the work of a day, but had stood the test of many\nmonths suspense, and enumerating with energy all his good qualities, she\ndid conquer her father's incredulity, and reconcile him to the match."	174.29528080185102
+'We may as well wait, perhaps, till the\ncircumstance occurs, before we discuss the discretion of his behaviour\nthereupon.'	174.87821551074876
+'All that is\n     required of you is, to assure to your daughter, by settlement, her\n     equal share of the five thousand pounds, secured among your\n     children after the decease of yourself and my sister; and,\n     moreover, to enter into an engagement of allowing her, during your\n     life, one hundred pounds per annum.'	175.76192927589346
+'Her many attractions were again dwelt on, and Caroline\nboasted joyfully of their increasing intimacy, and ventured to predict\nthe accomplishment of the wishes which had been unfolded in her former\nletter.'	179.91544716247031
+'And what claims has Lydia, what attractions has she\nbeyond youth, health, and good humour, that could make him for her sake,\nforego every chance of benefiting himself by marrying well?'	182.05314569532828
+'The two first dances, however, brought a return of distress;\nthey were dances of mortification.'	182.28213889286326
+"Mr Wickham's society was of material service in dispelling the gloom,\nwhich the late perverse occurrences had thrown on many of the Longbourn\nfamily."	184.39088717583954
+"Elizabeth's collected behaviour, however, soon quieted his emotion; and\nas Miss Bingley, vexed and disappointed, dared not approach nearer to\nWickham, Georgiana also recovered in time, though not enough to be able\nto speak any more."	185.05925634679156
+'To such perseverance in wilful self-deception Elizabeth would make no\nreply, and immediately and in silence withdrew; determined, if he\npersisted in considering her repeated refusals as flattering\nencouragement, to apply to her father, whose negative might be uttered\nin such a manner as must be decisive, and whose behaviour at least could\nnot be mistaken for the affectation and coquetry of an elegant female.'	185.39084919418852
+'I mean, that no man in his senses, would marry Lydia on so slight a\ntemptation as one hundred a-year during my life, and fifty after I am\ngone.'	189.4204227979071
+'she cried.-- I, who have prided myself on\nmy discernment!--I, who have valued myself on my abilities!'	191.20334602091344

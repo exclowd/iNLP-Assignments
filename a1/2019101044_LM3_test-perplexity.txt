@@ -1,0 +1,951 @@
+Avg: 368.8599506820114
+'........................'	0.0
+'THE HONOURABLE MRS MERVYN TALBOYS:'	1.0612308159016781
+'Do you follow me?'	1.061542118126425
+'Lionel, thou lost one!'	1.0742709795024827
+'All for number one.'	1.0801806092466315
+'thy quarrons\ndainty is .'	1.0837329533373348
+'How do you do?'	1.1406374461308664
+'One and eightpence too much.'	1.1436494721121893
+'My girl’s a Yorkshire girl.'	1.154976873286393
+'To aid\ngentleman in literary.'	1.162522237094966
+'New lease of life.'	1.2279118467881034
+'Wait, I wanted to.'	1.242404991311123
+'asked Blazes Boylan.'	1.2474754677782056
+'If you allow me.'	1.2677482127210054
+'J. J. O’MOLLOY:'	1.281526247162193
+'Evening will find itself.'	1.3033797459010708
+'For England,\nhome and beauty .'	1.3157421173428665
+'Fort Camden and Fort Carlisle.'	1.3510032027329646
+'Yes, MrBloom said.'	1.35909408354166
+'But wait, MrBloom said.'	1.3916418372126425
+'Dislike\nrough and tumble.'	1.4141609021560684
+'Could ask him.'	1.442892353107984
+'O, MrBloom said.'	1.454526629582693
+'MrDedalus said.'	1.4545566127361593
+'Those\ngirls, those lovely.'	1.4574322651542702
+'Peasoup, Maggy said.'	1.4586818861364386
+'Watch him, he said.'	1.4967160351521738
+'Name and address.'	1.5010870188589656
+'Your God was a jew.'	1.5051429390210862
+'Agendath Netaim:'	1.5118363822571188
+'And says he:'	1.5321720087179318
+'Red carpet spread.'	1.5406102801589
+'Well, I must be.'	1.548902872379731
+'Pass, friends, says he.'	1.5597180709913983
+'Staggering\nbob.'	1.5686973246961113
+'Iubilantium te virginum.'	1.5729672931209104
+'Hope she’s over.'	1.576054469133068
+'loud dark iron.'	1.5835656620367426
+'Petticoats for Molly.'	1.587088524398167
+'Show here, she said.'	1.589514012393848
+'The eye, like that.'	1.6170451771178034
+'Martello you call it?'	1.617851406651023
+'It is meet to\nbe here.'	1.6351006821105931
+'I want to\nknow.'	1.6408523693690273
+'Those girls, those girls, those lovely seaside girls.'	1.6502395705250406
+'Ben Dollard said.'	1.6618440567635393
+'But where is he?'	1.7270780655155764
+'Your head it simply swurls.'	1.7590629499914276
+'See it in your eye.'	1.788554107876835
+'He left me on my ownio.'	1.8938687134645342
+'They never come back.'	1.9365748704783223
+'PROFESSOR MACHUGH:'	1.9505892962676157
+'Where is\nhe?'	2.0721250360076366
+'Great card he was.'	2.1098748455157224
+'Shakespeare Bacon’s wild oats.'	2.135475131564099
+'The blood it is.'	2.1642619523578857
+'Something to hand on.'	2.209554083603961
+'For Helen, the runaway wife of\nMenelaus, ten years the Greeks.'	2.2218504631159295
+'Other fellow did it:'	2.2313592472675547
+'Three and a half.'	2.4494408326400245
+'Salt junk all the time.'	2.4563441452106485
+'Ah, to be sure!'	2.5046576207200646
+'Reclaim the whole place.'	2.5871486114248894
+'Think no more about\nthat.'	2.611185413084139
+'Dear Henry\nfled.'	2.653232957523495
+'Nine she had.'	2.6578610859535248
+'Have rows all the same.'	2.692676831229646
+'Bolting to get it over.'	2.7528831397369133
+'Look at his head.'	2.767950465662436
+'Tom Kernan strutted in.'	2.7834101775358877
+'Clank it.'	2.789004815634766
+'Something in the air.'	2.8570773804315763
+'night before last...'	2.86414010530107
+'Where was that?'	2.999069502246349
+'Find the way in.'	3.025218357126091
+'Had enough of\nit.'	3.102929215309111
+'I’m sick of it.'	3.102929215309111
+'First kiss does the trick.'	3.1928749068213134
+'OMINOUS FOR HIM!'	3.19824404251116
+'Or even hear of it.'	3.202599333629731
+'No.\n\nNo, no.'	3.2545003565085358
+'Was MrBoylan looking for me?'	3.3164169741777227
+'Get a spurt on.'	3.3792416035860966
+'Throw flower at his\nfeet.'	3.3860446448603905
+'the editor cried.'	3.4171950727019302
+'World’s biggest\nballoon.'	3.418420538753886
+'Me nantee saltee.'	3.418420538753886
+'Describe them.'	3.434651044074483
+'Slieve Bloom.'	3.443439911041391
+'Wore out his\nwife:'	3.5015070194836806
+'Or so they said.'	3.578312621029468
+'But hard to tell.'	3.6030953384493163
+'Bad times those were.'	3.603662983044065
+'That what’s I mean, says the citizen.'	3.6037751445572916
+'Ten shillings?'	3.6613049297721396
+'Needles in window curtains.'	3.7007682721264943
+'Well, I have.'	3.7321968334015176
+'Sticking them all\nover the place.'	3.7517231637978297
+'Out of it now.'	3.7564827634420808
+'Better\nshift it out of that.'	3.8997281262587298
+'We’ll put force against force, says the citizen.'	3.9066660609869643
+'I call it  A Pisgah Sight of Palestine  or  The\nParable of The Plums.'	3.9911003127994213
+'Poor little Paddy Dignam , he said.'	4.347308166979087
+'E quando vede l’uomo l’attosca .'	4.371098438073034
+'Can you?'	4.676432765177822
+'To dare address me!'	4.6881412303817696
+'Big Ben.'	4.768204112783999
+'That was the first night.'	4.825240544804951
+'SECOND WATCH:'	4.831320710912021
+'SECOND WATCH:'	4.831320710912021
+'she said.'	4.867586629835275
+'Ladies first, gentlemen after.'	4.869551142989977
+'Spurned lover.'	4.897411962573052
+'The sum was done.'	4.903535288550849
+'To the right.'	4.906012371880442
+'Butchers, for instance:'	5.012916893009246
+'Perhaps he was a woman.'	5.058780282037375
+'Compos  your eye!'	5.076947971509658
+'I don’t know if I can.'	5.1217516346348955
+'O, Mairy lost the pin of her drawers.'	5.163648369937958
+'he said again.'	5.194768366709709
+'He drew his watch.'	5.267842094662133
+'No. And do you know why?'	5.299880409955636
+'MOTHER GROGAN:'	5.320307254529141
+'Knobby\nknuckles for the women.'	5.323530856454471
+'Down, up, forward, back.'	5.339030573369126
+'Tastes all different\nfor him.'	5.389840029337407
+'Not a word, says Joe.'	5.423298093189506
+'Hear his voice in the house.'	5.451542274924141
+'He faced about and back again.'	5.464784672672488
+'But this\nis the point.'	5.554347092288306
+'What have we here?'	5.5608937839589965
+'Dublin’s burning!'	5.651790568203092
+'Their syphilisation, you mean, says the citizen.'	5.701142934266358
+'Where do they get the money?'	5.706671594055319
+'(He twists her arm.'	5.737304089649392
+'He was the croppy\nboy.'	5.7460719867451475
+'Set down his\nglass.'	5.760600725587009
+'They struggled up and out:'	5.768207635775145
+'MrBloom said eagerly.'	5.812789253283416
+'I have forgotten for the moment.'	5.872388657115629
+'Yours for the asking.'	5.896777559352725
+'Doing its level best to speak.'	5.904369877826784
+'Who is this she was like?'	5.92292724821702
+'You bad\nman!'	6.166614572387716
+'Flipperty Jippert.'	6.320307869091688
+'The Irishman’s house is his coffin.'	6.420865855247058
+'Another then put in his\nword:'	6.437937261685718
+'For my wife.'	6.512665390055895
+'And he insulted us.'	6.5155380133183405
+'Unclaimed money too.'	6.541208239398041
+'Bold hand.'	6.579410216525554
+'They are still.'	6.653401345819434
+'The simple pleasures of the poor.'	6.722619894959467
+'Never see him again.'	6.743632035655896
+'Wispish hair over her ears.'	6.857044001684164
+'Woodwind like Goodwin’s name.'	6.872880553872867
+'Just C. P. M’Coy will do.'	6.9145169779780655
+'You’ll\nbe soon over it.'	6.925417039516245
+') I’ll miss\nhim.'	6.9430263686455564
+'Walking beside Molly in an Eton suit.'	6.949368428741888
+'Charley, you’re my darling.'	6.953586191235588
+'Over the stones.'	7.060856773057215
+'Lucky no woman.'	7.129790998642816
+'Keyes, you remember?'	7.230468384063498
+'Of what then?'	7.247706275967995
+'Digs up near the Mater.'	7.260230011746383
+'For identification, bucket in my hand.'	7.35042341511426
+'I saw.'	7.364406948250645
+'Monday\nmorning.'	7.455679873550558
+'fretted, forlorn,\ndreamily rose.'	7.476026035309451
+'I’m going to get rid of you.'	7.5462358543265
+'Prescott’s dyeworks\nvan over there.'	7.5780702657341195
+'Pen something.'	7.6676559918679175
+'The visible signs of antesatisfaction?'	7.7859797563461814
+'FIRST WATCH:'	7.787577811139098
+'Full gluey woman’s lips.'	7.904935094469705
+'(Composed, regards her.) Passée.'	7.96080383597065
+'She broke off suddenly.'	8.018704405618447
+'We serve them.'	8.054671224983572
+'We must be quick.'	8.078773804773967
+'softly.)  I treated you white.'	8.121350869043633
+'Val\nDillon was lord mayor.'	8.129002501701592
+'Was he?'	8.149907859744742
+'What is he doing in the Ormond?'	8.15686529096811
+'I know.'	8.378575435199144
+'How many have you for tomorrow?'	8.475047262606308
+'The sugar is in the bag.'	8.516047082779476
+'A sad case, MrBloom said gently.'	8.539786850145402
+'Must be abstemious to sing.'	8.551143488523616
+'Time of the\nplague.'	8.580333168744545
+'Are you going yourself?'	8.659422533710577
+'it’s long after eleven.'	8.659422533710577
+'Piano downstairs.'	8.712981465808555
+'Where old MrRiordan died.'	8.748248745454177
+'Gluttons,\ntall, long legs.'	8.748248745454177
+'Gnashing her teeth in sleep.'	8.788505198611464
+'Wait till I wait.'	8.841826213631578
+'now as then.'	9.04441978032821
+'Not\nannoyed then?'	9.04441978032821
+'Mother dying come home father.'	9.077674322404395
+'MrBloom asked, turning to MrDedalus.'	9.196398613058046
+'Bath\nof course does that.'	9.28390853919918
+'Are you not coming in?'	9.35588215365548
+'Cowley, he stuns himself with it:'	9.376258105687713
+'Bronze gazed far sideways.'	9.40060505797808
+'Hate at first sight.'	9.40060505797808
+'Wonder where he lives.'	9.508636738733928
+'Cat furry black ball.'	9.535900332265122
+'There all the time without you:'	9.564253479675632
+'Cheap no-one would buy.'	9.681528715635158
+'Well, his uncle was a jew, says he.'	9.838829308801115
+'Got a short knock.'	9.839003585227022
+'They kick out\ngrand.'	9.839003585227022
+'The hawklike man.'	9.85203924598102
+'Why pay more?'	9.989847852907115
+'Just went as\nfar as turn back.'	10.019827764582478
+'I. He. Old.'	10.03753281345956
+'all was silent.'	10.108987741745102
+'It ran\nas follows:'	10.197368075525876
+'To drive me mad!'	10.197368075525876
+'Must get.'	10.291047058543478
+'It’s on account of the sounds it is.'	10.31151199069459
+'Liliata\nrutilantium te confessorum turma circumdet:'	10.366253341159826
+'Bloom follows, returns.) \n\nTHE WHORES:'	10.413501176987351
+'Do you know what is the pride of the English?'	10.450970198380968
+'Foundation stone for Parnell.'	10.632264260984353
+'Has that silk hat ever since.'	10.670760117898068
+'Dog of a christian!'	10.740595734823666
+'To\ndonate, please visit:'	10.888647375637387
+'It wasn’t\nher weight.'	10.888647375637387
+'Do they notice\nI’m in mourning?'	10.919193510035178
+'Haines called to them from the\ndoorway:'	10.919957805117335
+'What she?'	10.96156149259099
+'1000 sovs with 3000 in\nspecie.'	10.998860677075374
+'How did he lose it?'	11.028020211326595
+'Penance for their sins.'	11.1792664202781
+'I hate those buggers.'	11.1792664202781
+'He was their rector:'	11.1792664202781
+'Yes, bronze from anearby.'	11.1792664202781
+'Where is\nhis guncase?'	11.1792664202781
+'Drink, man, an udderful!'	11.1792664202781
+'Art thou there, truepenny?'	11.1792664202781
+'And they are\nthrobbing:'	11.1792664202781
+'Full of a dure.'	11.1792664202781
+'Your son and heir.'	11.290125353153888
+'You’re like someone I knew once.'	11.297251189182969
+'The caretaker moved away a few paces and put on his hat.'	11.478972296454295
+'(Undecided.)  All now?'	11.496733891801192
+'When you two begin...'	11.513342832736486
+'Eggs on the bottles.'	11.513342832736486
+'It suits me\nsplendid.'	11.513342832736486
+'The harlot’s cry from street to street\n     Shall weave old England’s windingsheet.'	11.522213518081736
+'When you have lived as long as\nI have.'	11.548266398062625
+'Father Conmee turned the corner and walked along the North Circular\nroad.'	11.560465817109526
+'The Rows of\nCasteele.'	11.575708787504924
+'look, look, look, look, look:'	11.59391006404216
+'Living on\nthe fat of the land.'	11.74881163045708
+'It’s very close, the constable said.'	11.771399214571952
+'James Joyce\n\nRelease Date:'	11.904178313659932
+'Set of dancing masters!'	11.904178313659932
+'The jarvies raised their\nhats.'	11.918510904118001
+'Like sir\nPhilip Crampton’s fountain.'	12.159413276886683
+'Who’s he when he’s at home?'	12.306956333233838
+'I want puce gloves and green\nboots.'	12.323326642663542
+'Coming out of her shell.'	12.327793306702645
+'Crown of thorns and cross.'	12.359543462935132
+'Dead side of the street this.'	12.419984105247504
+') Me. Me see.'	12.430773824198969
+'Those races are on today.'	12.444833048939886
+'Walter squints vainly for a chair.'	12.470617784721146
+'But tomorrow is a new day will be.'	12.68347849708494
+'All souls’ day.'	12.738812358607898
+'I suppose we can\ndo so too.'	12.783994237604434
+'(Laughs.)  What ho!'	12.80956190191077
+'Still he knows his own business best.'	12.837414253279361
+'Excuse me, he said over his shoulder,  the dictates of\ncommon sense.'	12.88369534988714
+'Do as you’re bid.'	12.948856931863688
+'Good hidingplace for treasure.'	12.948856931863688
+'He drew and plucked.'	12.948856931863688
+'Silly Milly’s birthday gift.'	12.948856931863688
+'Dignam\ndead?'	13.112265296073028
+'Hold my stick.'	13.113620492075729
+'One\nmoment.'	13.219635923234241
+'Hey, shitbreeches, are you doing the hat trick?'	13.254808723359282
+'Ay, very like a whale.'	13.490742453045353
+'When will we have our own house of keys?'	13.574385798248173
+'B. Gorman, O. D. C.; the rev.'	13.581476816066509
+'Ben’s contrite beard confessed.'	13.691749214155811
+'Which will?'	13.702572250851977
+'He’s as like it as damn\nit.'	13.745978562015
+'It is very simple, Stephen said as he stood up.'	13.78338729461904
+'And\nthe little mirror in his silk hat.'	13.84740371229462
+'In\nMooney’s  en ville  and in Mooney’s  sur mer.'	13.92245515189171
+'In came Lenehan.'	14.113733412721611
+'For entire\ncolts and fillies.'	14.35174295426816
+'Not yet.'	14.503178906299691
+'Alice will feel the pullpull.'	14.689724742429041
+'That’s why she won’t\nlet me have anything to do with you.'	14.70588644324925
+'He wears a battered silk hat sideways on his\nhead.'	14.712017127016239
+'O, you peerless mummer!'	14.712742019600444
+'(Drawls.)  No, you aren’t.'	14.712742019600444
+'MrBloom pointed quickly.'	14.72813261388197
+'Feast of Our Lady of\nMount Carmel.'	14.785800077301792
+'(Masculinely.)  And done!'	14.88894179033986
+'You what?'	14.903689282297908
+'Go thou and do likewise.'	14.907251227203089
+'Give her your blessing for\nme.'	15.062380602543634
+'Always at home at dinnertime.'	15.175256511566063
+'Even admire themselves.'	15.203558435114765
+'He strode away from them towards the window.'	15.212838286986644
+'A\nlook around.'	15.332408294088927
+'Dear, dear, dear.'	15.603834549670372
+'No. You’re sure?'	15.746996991919193
+'Elijah is com.'	15.825838308193408
+'Did Stephen participate in his dejection?'	15.978325742186103
+'Seasonable weather we are\nhaving this time of year.'	16.24750977543689
+'What ho, she\nbumps!'	16.282325582307003
+'His real name\nwas Childs.'	16.309494387605596
+'her breath:'	16.430570213540175
+'I’m not a\nbeliever myself, that is to say.'	16.533475484002444
+'All honeycombed\nthe ground must be:'	16.552846559012277
+'The door!'	16.626396771173376
+'Are you hurt?'	16.68080865419447
+'And at the same time with such apposite\ntrenchancy.'	16.732002531531418
+'Skeleton horses, Sceptre, Maximum the Second,\nZinfandel, the Duke of Westminster’s Shotover, Repulse, the Duke of\nBeaufort’s Ceylon, prix de Paris.'	16.82364842289851
+'Of John Thomas, her spouse.'	16.907032836640212
+'A gruesome case.'	16.92385304184002
+'Kiss in the dark and never tell.'	17.212706086310195
+'You’re looking rubicund, George Lidwell said.'	17.311410030798502
+'Amongst the clergy present were the very rev.'	17.31996589617434
+'He had no father, says Martin.'	17.335968822294404
+'Women whisper eagerly.) \n\nA MILLIONAIRESS:'	17.37128312315461
+'She whips it off.) \n\nLYNCH:'	17.42685842256823
+'Good day, Jack.'	17.55122614688643
+'I will\nreturn.'	17.782189819292565
+'Must wheedle her way along.'	17.883466216333247
+'MrV. B. Dillon,\nex lord mayor of Dublin.'	17.903729753488133
+'under the bridge.'	18.09457365428722
+'Wimple suited her small head.'	18.129492329093313
+'Let me off this once.'	18.379820791185846
+'’Tis time for her poor soul\n     To get out of heaven.'	18.596709225681174
+'In Grimm too, don’t you know, the fairytales.'	18.659894363576026
+'Bloom walks on with MrBreen.'	18.664132845923056
+'The name.'	18.67066917090514
+'the name.'	18.67066917090514
+'It\nis a kind of music I often thought when she.'	18.905966249444013
+'To the secretary of state for war, Stephen added over his shoulder.'	18.95474688453934
+'Literature, the press.'	19.122107168870297
+'You see he’s incapable.'	19.36305743127031
+'Give me my\nWordsworth.'	19.36305743127031
+'That so?'	19.37303933536609
+'Tell him go to hell, the editor said promptly.'	19.6453680555979
+'You fenians forget some things.'	19.68924262937985
+'She must have been\nthinking of someone else all the time.'	19.812728762809556
+'keep it quiet.'	19.839972982750243
+'He walked southward along Westland row.'	19.938596344138542
+'Don’t want it they throw it at you.'	20.041399415968137
+'Mario the tenor.'	20.07047845992358
+'Lashings of stuff we put up:'	20.118642490327503
+'O, it’s a fine order, Nosey Flynn said.'	20.215829236379726
+'A dog’s spittle as you probably...'	20.358674253808054
+'The youngster will be all right, Martin Cunningham said, as they\npassed out of the Castleyard gate.'	20.40926197002415
+'Only God knew and she and he, her husband’s brother.'	20.52894113255284
+'The priest and the massboy stood up and walked off.'	20.56507723276773
+'Oisin with Patrick.'	20.634403425602798
+'Crumbs adhered\nto the tissue of his lips.'	20.787632691797462
+'person you mentioned.'	21.083117302471035
+'Must get glasses.'	21.083117302471035
+'Having a wet.'	21.43342782620822
+'Milk for the pussens, he said.'	21.54340170683685
+'I was kissed.'	21.57359722235025
+'he asked over the fringe of his\nnewspaper.'	21.974504317767995
+'Women will pay a lot of heed, I don’t think.'	21.999388964182984
+'Bloom looped, unlooped, noded, disnoded.'	22.38073991583286
+'And Madam Bloom, MrO’Madden Burke added.'	22.594896719858355
+'(The house rises.'	22.71109964522751
+'Eternal punishment, Haines said, nodding curtly.'	22.890884295008597
+'Still, she’s a dear girl.'	22.90469192159905
+'Is it French you are talking, sir?'	23.01711506870407
+'Salt in the Ormond damp.'	23.130821735366276
+'Butter and cream?'	23.1524686262373
+'over\nus dead they bend.'	23.223791278072582
+'the editor said in recognition.'	23.228412864454945
+'Policeman a whistle.'	23.42623080472731
+'I’m talking about injustice, says Bloom.'	23.703455936947346
+'Birds too.'	24.10128421529538
+'Coastguards too.'	24.10128421529538
+'The unfair sex.'	24.134144653561176
+'Son of the wild goose, Kevin Egan of Paris.'	24.637862712150387
+'Wife in every port they say.'	24.834422345273534
+'Stephen whirls giddily.'	24.996799590312598
+'A perfect cretic!'	24.996799590312598
+'(He sings.)  Jeru...'	24.996799590312598
+'When for Irelandear.'	24.996799590312598
+'Maeterlinck\nsays:'	25.393327881895097
+'She gazed out towards the distant sea.'	25.496279945724908
+'They saluted him and were saluted.'	25.651381425805035
+'I’ll do that, MrBloom said, moving to get off.'	25.673610122778324
+'THE CITIZEN:'	25.796722807917206
+'Wouldn’t lend each\nother a pinch of salt.'	25.956080210528
+'He wouldn’t surely?'	25.997719227939854
+'(Sadly.)  Rubber goods.'	25.997719227939854
+'Hasn’t the soldier a right to go\nwith his girl?'	26.16511970869283
+'Well, glad to see you looking fit, he said.'	26.347809905902274
+'What is that, a bob here and there, dribs\nand drabs.'	26.554503645500642
+'Stick, no.'	26.71251346531281
+'Eye out for other fellow always.'	26.79181261703134
+'Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell, murmuring,\nglassyeyed, strode past the Kildare street club.'	26.96787946372446
+'Dirt gets rolled up in your navel.'	27.034935563126012
+'Come, Kinch.'	27.066371151746697
+'I was only vamping, man.'	27.217380506765473
+'A poor house and a bare\nlarder, quotha!'	27.250573714405494
+'Flat Dublin voices bawled in his head.'	27.428472879869826
+'My name is absurd too:'	27.707747398372614
+'I begin to like them at that age.'	28.187327930485473
+'He\nwouldn’t take any money either.'	28.225896467205324
+'What will I tell him, Mr\nCrawford?'	28.536403669657314
+'he said sternly.'	28.61419250928212
+'You must have a certain fascination:'	28.65388059682386
+'But suppose now it did happen.'	28.853739450458214
+'Leave\nhim under an obligation:'	28.9353043742608
+'good evening.'	29.536479454959238
+'In the\nporch of Four Courts Richie Goulding with the costbag of Goulding,\nCollis and Ward saw him with surprise.'	29.64314814282634
+'Assumed by any or known to none.'	30.49498157612114
+'You wouldn’t do a less thing.'	30.55461499098523
+'Dignam’s dead and gone below.'	31.289122093831633
+'Bad luck to big Ben Dollard and his John O’Gaunt.'	31.995404187298217
+'That is one pound six and eleven.'	32.0708525256303
+'No. Ought\nto go home and laugh at themselves.'	32.46863852687343
+'That will do, professor MacHugh cried from the window.'	32.55229437710044
+'They say a man who does it is a coward, MrDedalus said.'	32.678299921662635
+'Be a corporal work of mercy if someone would take the life of that\nbloody dog.'	32.690872265962
+'Those lovely\ncurtains.'	32.755073704538106
+'But  Hamlet  is so personal, isn’t it?'	32.88004215876863
+'The machines clanked in threefour time.'	33.166814977136355
+'inevitable\naccidents at sea, in mines and factories:'	33.37266554975774
+'tired\ndrudge get his doze.'	33.58578144505368
+'Nightmare from which you will never awake.'	33.778628466376304
+'The pluterperfect imperturbability of the department of\nagriculture.'	34.005027112313925
+'THE CROWD:'	34.3693839998474
+'lean neck and tangled hair and a stain of ink, a\nsnail’s bed.'	34.444138080513575
+'Here I watched the birds for augury.'	35.042385209672645
+'Up to the present it has done so.'	35.07447236511588
+'He poked MrO’Madden Burke mildly in the spleen.'	35.07628022841018
+'One of them lost two\nquid on the race.'	35.08054270625011
+'The eyes that wish me well.'	35.25121007114732
+'On Newcomen bridge the very reverend John Conmee S. J. of saint Francis\nXavier’s church, upper Gardiner street, stepped on to an outward bound\ntram.'	35.26698037383787
+'Let us hear what you have to say of Richard and Edmund.'	35.31357273498041
+'cyclist\ndoubled up like a cod in a pot.'	35.52841177072228
+'no fish, weedless, sunk deep in the earth.'	35.7628366155949
+'A cloud began to cover the sun slowly, wholly, shadowing the bay in\ndeeper green.'	35.96307434964857
+'Vive le vampire!'	36.05162346818874
+'Might take a trip down there.'	36.214290847345445
+'What composite asymmetrical image in the mirror then attracted his\nattention?'	36.446893646693816
+'What followed this silent action?'	36.621324096938565
+'In the corridor his name was heard, called from the playfield.'	37.16654816832463
+'Conceited fellow with his waxedup moustache.'	37.18452397850818
+'Griffith’s\npaper is on the same tack now:'	37.27238676832216
+'Chuckingout time.'	37.68168110513503
+'Who is he if it’s a fair question?'	37.92292474073587
+'How is the concert tour getting on, Bloom?'	38.06869723918511
+'Doing the rapparee and Rory of the hill.'	38.358470570273795
+'She might be here\nwith a ribbon round her neck and do the other thing all the same on the\nsly.'	38.43695203284092
+'Never put a dress on her back like it.'	38.88468865820883
+'Once you are dead you\nare dead.'	39.48383811414454
+'But how?'	39.54358721367469
+'(Fascinated.)  I thought you were of good stock by your accent.'	39.668239809703365
+'Guesswork it\nreduced itself to eventually.'	39.84549271446631
+'A\nthird.'	39.98412937095392
+'Remember Limerick and the\nbroken treatystone.'	40.242864402654746
+'I was a strapping young gossoon at that time, I tell\nyou.'	40.39975148019795
+'If still?'	40.907997820894224
+'Pal to pal.'	41.268806851205596
+'Because their wombs.'	41.268806851205596
+'The dewdrops pearl ...'	41.268806851205596
+'In a rosery of Fetter lane of Gerard, herbalist,\nhe walks, greyedauburn.'	42.77267481574362
+'He was in Mr\nCohen’s.'	42.787283429042226
+'If Socrates leave his house today he will find the sage seated\non his doorstep.'	42.844648872878736
+'He’s in\nhis sanctum with Lenehan.'	43.77039293573449
+'And they like dressing\none another for the sacrifice.'	44.07624487748219
+'Occasionally he ate without having previously removed his hat.'	44.18506377792943
+'Did you read that report by a man\nwhat’s this his name is?'	44.276960134932445
+'His wives in a row to watch\nthe effect.'	44.78441017476589
+'You are a tribe of nomad herdsmen:'	45.018579686812295
+'Betting 5\nto 4 on  Zinfandel , 20 to 1  Throwaway  (off).'	45.20103225984292
+'Blackbird I heard in the hawthorn valley.'	45.83286300198744
+'God bless all here is my\nprayer.'	45.969542164420275
+'Shove him a joey\nand grahamise.'	46.028774307777795
+'Round the Kish in eighty days.'	46.135213366169104
+'Look at the\nwoebegone walk of him.'	46.40872252802866
+'Fourbottle men.'	46.504094112570016
+'He’s looking.'	46.86599913583407
+'The son\nunborn mars beauty:'	46.9088129671461
+'Well, says the citizen, what’s the latest from the scene of action?'	46.96292569473019
+'(Points to the navvy.)  A spy.'	47.003363584266395
+'Walsingham way:'	47.615902737933965
+'(Rocking to and fro.)  Ireland’s sweetheart, the\nking of Spain’s daughter, alanna.'	47.61678134209429
+'You know yourself, councillor, just what he wants.'	47.63673018116107
+'Sure\nthing.'	48.402995775055096
+'I’m melting, he said, as the candle remarked when...'	48.43059213161974
+'(He worries his butt.)  Prrrrrht!'	48.7182628741927
+'its weight and volume and density:'	49.2467929324863
+'During dark nights I heard your praise.'	49.414359379642725
+'Bought it at the governor’s auction.'	49.54821590840679
+'Pupil of Michael Balfe’s, wasn’t she?'	49.58460091002363
+'Respectable woman.'	49.660425841275696
+'Thick feet that woman has in the white stockings.'	49.715624366263036
+'of\nhis sister Dilly (Delia) in his father’s house in Cabra.'	50.353049996430116
+'Bent down double with his\nshears clipping.'	51.268271517277825
+'His face got all grey instead of being red like it was and there was a\nfly walking over it up to his eye.'	51.28105774388307
+'Walking\nMackintosh of lonely canyon.'	51.60354553082817
+'Stephen haled his upended valise to the table and\nsat down to wait.'	51.743896363373516
+'Nothing else mattered.'	51.99543845587967
+'Scarlatina, influenza epidemics.'	51.99543845587967
+'Off his chump.'	51.99543845587967
+'The others are putting on their hats, MrKernan said.'	52.14249146039888
+'(To the privates, softly.)  He doesn’t know what he’s saying.'	52.23603093026824
+'Cremation better.'	53.56114186952467
+'And the day I went to Drimmie’s without a necktie.'	53.7539521372895
+'the\ninterdependent gyrations of double suns:'	53.79700518500522
+'I\nlike to break a lance with you, old as I am.'	53.968540240629004
+'Too far for me to lay a hand there once or\nlightly.'	55.0550872800647
+'Expresses nothing.'	55.28011671792877
+'Filling\nmy belly with husks of swine.'	55.584356628827926
+'I won’t have my leg pulled.'	55.93838175690451
+'His\nerrors are volitional and are the portals of discovery.'	56.02351126878936
+'Though they stink yet they sting.'	56.10820672471251
+'What final visual impression was communicated to him by the mirror?'	56.420626559591945
+'Look\ndown at her ring to find an excuse.'	56.445476965389965
+'Soft word.'	57.17598292339026
+'(He recorks himself.)  Yes,\nby Jingo, sixteen three quarters.'	57.64359988074383
+'Then they’ll all see it in the paper and read my name printed and pa’s\nname.'	58.316373748764974
+'He set off again to walk by Stephen’s side.'	58.34460595888419
+'I found him over in the\nmuseum where I went to hail the foamborn Aphrodite.'	58.44211247800091
+'Well, you can do that\nand just a little par calling attention.'	59.70022459553725
+'Lovely air.'	60.03652734281535
+'No. My cockle hat and staff and\nhismy sandal shoon.'	60.29709499443286
+'The rage of Caliban at not seeing his face in a mirror, he said.'	60.592313750458835
+'How can\npeople aim guns at each other.'	61.15484183274412
+'No book.'	61.637782375878984
+'There would be a fall and the greatest\nfall in history.'	61.955451499262566
+'Some of that old sacred music splendid.'	62.11214026523051
+'Name and\nmemory solace thee not.'	62.34055800701276
+'Opening her handbag, chipped leather.'	62.943703808900885
+'A few broken biscuits were all the\nresult of his investigation.'	63.021446007356694
+'From the curbstone he darted a keen glance\nthrough the door of the postoffice.'	63.07554170272884
+'Or bad?'	63.37439771480502
+'My literary efforts have had the good\nfortune to meet with the approval of the eminent poet A. E. (MrGeo.'	63.46446841510477
+'That\na man’s soul after he dies.'	64.027129106701
+'MrDeasy told me to write them out all again, he said, and show them\nto you, sir.'	64.05294488355297
+'(He eats.) \nInfluence taste too, mauve.'	64.1305033750186
+'Beggar somewhere.'	64.29962034468468
+'They always build\none door opposite another for the wind to.'	65.21777304647905
+'Looked enough.'	65.26658618870202
+'And a call, pure, long and throbbing.'	66.34281991283086
+'4 pence, rose, blue\npaper, perforate, Great Britain, 1855:'	67.36062925535086
+'Still, having eunuchs in their choir that was coming it a bit thick.'	67.58087628042077
+'MrBest asked with slight concern.'	67.59781941502952
+'He wasn’t in the\nchapel, that I’ll swear.'	67.91043247369174
+'Want to keep her mind off it to conceive at\nall.'	68.37502950555135
+'Visually, Stephen’s:'	68.45217308457053
+'I was, Stephen said with energy and growing fear.'	69.13154366817936
+'And he\ncited the Moses of Michelangelo in the vatican.'	69.30595094041713
+'Or broken bottles in the furze act\nas a burning glass in the sun.'	69.71472337537394
+'They went forth to battle, MrO’Madden Burke said greyly, but they\nalways fell.'	70.35731948691749
+'She would try to understand him because men\nwere so different.'	70.99982949721814
+'She took a folded postcard from her handbag.'	71.46580005501423
+'In terror the poor girl flees away\nthrough the murk.'	71.50463538053346
+'Sudden bent.'	72.1549259117722
+'There is another world after death named hell.'	73.37577751417881
+'Don’t you play the giddy ox with me!'	73.48649117878092
+'Carriage probably.'	73.529428959274
+'What’s bred in the bone cannot fail me to fly\nAnd Olivet’s breezy...'	74.3840581725478
+'it curves:'	74.61691985339066
+'(Gloomily.)  ’Twas I sent you that valentine of\nthe dear gazelle.'	74.6762737471621
+'(Throws up his hands.)  O, this is too monotonous!'	75.98038347608308
+'the posited influence of celestial on human bodies:'	76.12753383531377
+'After an interval MrDedalus raised his grog and\n\n That must have been highly diverting, said he.'	76.19927675752437
+'Cheerio, boys.'	76.53185611234056
+'Solemnly he came forward and mounted the round gunrest.'	76.67014061122146
+'O, look what I found in professor Goodwin’s hat!'	76.76400272200328
+'I suppose he’d turn up his nose\nat that stuff I drank.'	76.96655977619885
+'It\nhas the prophetic vision.'	77.64950396343104
+'Then he looked up and saw the eyes that said or\ndidn’t say the words the voice he heard said, if you work.'	77.73539185439886
+'Certainly, I\nsort of believe strong in you, MrPresident.'	78.10056284308864
+'But O, oblige me by taking away that\nknife.'	78.30529471964898
+'And once I played marbles when I went to that old dame’s\nschool.'	78.65792823524912
+'Twenty\nyears he lived in London and, during part of that time, he drew a\nsalary equal to that of the lord chancellor of Ireland.'	78.75601528397141
+'Bits all khrrrrklak in place clack back.'	78.81804910559919
+'Whilst speaking he produced a dangerouslooking claspknife quite in\nkeeping with his character and held it in the striking position.'	78.84097938460437
+'What system had proved more effective?'	79.00668598351018
+'She stood\noutside the shop in sunlight and sauntered lazily to the right.'	80.30420503505304
+'The chestnuts that shaded us were in bloom:'	80.44449793993897
+'Droop shoulders.'	81.81599564178845
+'For that are you\npining, the bark of their applause?'	82.94163876532853
+'Well cocks and\nlions do the same and stags.'	83.64620341587984
+'They\nbelieve in chance because like themselves.'	83.74066542301173
+'He told me about, hold on, Swinburne, was it, no?'	84.43780438469533
+'Off he sails with a scapular or a medal on him for luck.'	84.47742842793168
+'(He stands aside at the\nthreshold.)  After you is good manners.'	84.84348389289458
+'Her hair is scant and\nlank.'	85.29794746889011
+'There was a right royal old nigger.'	85.76373295885253
+'And Xenophon looked upon Marathon, MrDedalus said, looking again on\nthe fireplace and to the window, and Marathon looked on the sea.'	85.80743222974768
+'Canv.) regarding the future\ndetermination of sex.'	86.66370095954139
+'Come what might she would be\nwild, untrammelled, free.'	86.72122317994754
+'You see the idea is to tour the\nchief towns.'	86.97257198938219
+'Sips of his\nwine soothed his palate.'	87.3687494215835
+'That’s how that\nwise man what’s his name with the burning glass.'	89.08225884409809
+'Dogs licking the blood off the street when the lord lieutenant’s wife\ndrove by in her noddy.'	89.68847494741897
+'Won’t wash here for nuts nohow.'	90.44023956446692
+'Every\njolt the bloody car gave I had her bumping up against me.'	90.64474869970539
+'LINKS WITH BYGONE DAYS OF YORE\n\n\n Grattan and Flood wrote for this very paper, the editor cried in his\nface.'	91.07952171742429
+'THE YEWS:'	92.35371998917786
+'THE YEWS:'	92.35371998917786
+'Francis was reminding Stephen of years before when they had been at\nschool together in Conmee’s time.'	93.05732387011902
+'Five months.'	93.73199827166815
+'So anyhow Terry brought the three pints Joe was standing and begob the\nsight nearly left my eyes when I saw him land out a quid.'	94.15898869544948
+'I, I and I. I.\n\nA.E.I.O.U.\n\n Do you mean to fly in the face of the tradition of three centuries?'	94.934363260371
+'You’re the essence of vulgarity, she in gliding said.'	95.09646627303627
+'For a guinea, Stephen said, you can publish this interview.'	96.02462727120052
+'He\ntoured the wide world with Hengler’s Royal Circus.'	96.86024755741109
+'Rathmines’\nblue dome, Adam and Eve’s, saint Laurence O’Toole’s.'	97.36006617912875
+'The request being complied with he clawed them up with a scrape.'	97.50070810493543
+'Carefully avoiding a book in his pocket  Sweets of , which reminded him\nby the by of that Capel street library book out of date, he took out\nhis pocketbook and, turning over the various contents it contained\nrapidly finally he.'	97.9745414156683
+'Ah then indeed, he said, poor little Paddy wouldn’t grudge us a laugh.'	98.22247193055026
+'He went towards the window and, taking up the pettycash book, scanned\nits pages.'	99.98590830102215
+'The keys of Dublin, crossed on a crimson cushion, are given to him.'	100.287777333879
+'And for ourselves give us of your best for ifaith we need it.'	100.70579783649426
+'At Annesley bridge the tram halted and, when it was about to go, an old\nwoman rose suddenly from her place to alight.'	101.48994641143257
+'The Story of the Heavens  by Sir Robert Ball (blue cloth).'	102.63724441884014
+'The Germans and the Japs were going to have their\nlittle lookin, he affirmed.'	102.64548708600596
+'Jay, look at the\ndrunken minister coming out of the maternity hospal!'	103.69528946310841
+'THE GRANDEUR THAT WAS ROME\n\n\n Wait a moment, professor MacHugh said, raising two quiet claws.'	103.74870495308629
+'General Terms of Use and Redistributing Project\nGutenberg-tm electronic works\n\n1.A. By reading or using any part of this Project Gutenberg-tm\nelectronic work, you indicate that you have read, understand, agree to\nand accept all the terms of this license and intellectual property\n(trademark/copyright) agreement.'	106.44444853719752
+'You suspect, Stephen retorted with a sort of a half laugh, that I may\nbe important because I belong to the  faubourg Saint Patrice  called\nIreland for short.'	106.4699138167199
+'(Raises the royal standard.)  Illustrious Bloom!'	106.72223021791328
+'A blade of grass, shell of her hands, then blow.'	107.07218353472584
+'You think me an old fogey and an old tory, his thoughtful voice said.'	108.07270380572953
+'Hoho begob says I to myself says I. That explains the milk in the\ncocoanut and absence of hair on the animal’s chest.'	108.53570895301893
+'Then he carried the dish and a large teapot over to the table, set\nthem down heavily and sighed with relief.'	109.96664346785772
+'I saw him a few times in the Bleeding Horse\nin Camden street with Boylan, the billsticker.'	110.15267726407868
+'There’s hair, Joe, says I. Get a queer old tailend of corned beef off\nof that one, what?'	110.4535448231438
+'And Jacky Caffrey shouted to look, there was another and she leaned\nback and the garters were blue to match on account of the transparent\nand they all saw it and they all shouted to look, look, there it was\nand she leaned back ever so far to see the fireworks and something\nqueer was flying through the air, a soft thing, to and fro, dark.'	110.49644152473387
+'Then get a hogo you could hang your hat on.'	110.98128521804648
+'Got up as a young bride, man, veil,\norangeblossoms, drove out the road to Malahide.'	111.32609728588541
+'The night of the party long ago in Stoer’s\n(he was still in short trousers) when they were alone and he stole an\narm round her waist she went white to the very lips.'	113.07872739071944
+'Fellowcountrymen,  sgenl\ninn ban bata coisde gan capall.'	113.40720326557864
+'Makes them feel more important to be prayed over in Latin.'	113.69022240798807
+'It had better be stated here and now at the outset that the perverted\ntranscendentalism to which MrS. Dedalus’ (Div.'	114.42848113054721
+'Bloom starts forward\ninvoluntarily and, half closing the door as he passes, takes the\nchocolate from his pocket and offers it nervously to Zoe.) \n\nZOE:'	115.11799659695689
+'Phial of cachous, kissing comfits,\nin her satchel.'	115.65226924962388
+'Body of white\nwoman, a flute alive.'	115.8972132382011
+'Why did absence of light disturb him less than presence of noise?'	116.60580018286643
+'Joking apart and,\ngetting down to bedrock, A. J. Christ Dowie and the harmonial\nphilosophy, have you got that?'	117.45089641922202
+'Something in all those superstitions because when\nyou go out never know what dangers.'	118.00134609575109
+'The gravediggers bore the coffin\nand set its nose on the brink, looping the bands round it.'	118.41777205255563
+'Bohee brothers.'	118.56264167097495
+'Veribest (Boot Blacking).'	118.56264167097495
+'The night she threw the soup in the\nwaiter’s face in the Star and Garter.'	118.8130870521565
+'Demesne situate in the townland of\nRosenallis, barony of Tinnahinch.'	119.4606011313097
+'Agendath is a waste land, a home\nof screechowls and the sandblind upupa.'	120.232865845346
+'Added\nto which of course would be the pecuniary emolument by no means to be\nsneezed at, going hand in hand with his tuition fees.'	120.27162686297977
+'All that are in favour\nsay ay, Lenehan announced.'	121.12610127755921
+'A man I know on the turf named Charles Alberta\nMarsh (I was in bed with him just now and another gentleman out of the\nHanaper and Petty Bag office) is on the lookout for a maid of all work\nat a short knock.'	121.82047273302226
+'MrBloom walked towards Dawson street, his tongue brushing his teeth\nsmooth.'	124.825013458144
+'The powderpuff.'	124.97599769555754
+'Jack Sohan.'	124.97599769555754
+'(Plaintively.)  Hugeness!'	124.97599769555754
+'Ice cones.'	124.97599769555754
+'Well, tolloll.'	124.97599769555754
+'It\nrestores.'	124.97599769555754
+'Pas seul!'	124.97599769555754
+'And there sat with him the\nhigh sinhedrim of the twelve tribes of Iar, for every tribe one man, of\nthe tribe of Patrick and of the tribe of Hugh and of the tribe of Owen\nand of the tribe of Conn and of the tribe of Oscar and of the tribe of\nFergus and of the tribe of Finn and of the tribe of Dermot and of the\ntribe of Cormac and of the tribe of Kevin and of the tribe of Caolte\nand of the tribe of Ossian, there being in all twelve good men and\ntrue.'	126.31148290196367
+'(He turns gravely to\nthe first watch.)  Still, of course, you do get your Waterloo\nsometimes.'	127.52271165635712
+'The finest display of oratory I\never heard was a speech made by John F Taylor at the college historical\nsociety.'	127.60505033705118
+'Spattered with size and lime of their\nlodges they frisk limblessly about him.) \n\nBLOOM:'	127.97507357499181
+'Jingling on supple rubbers it jaunted from the bridge to Ormond quay.'	128.6539582580737
+'A gifted man, MrBloom said of MrDedalus senior, in more respects\nthan one and a born  raconteur  if ever there was one.'	129.60827904585116
+'Pallbearers, gold reins, requiem mass, firing a volley.'	130.10653426954553
+'Then feel all like one\nfamily party, same in the theatre, all in the same swim.'	130.27871872364204
+'Tiresome shapers scraping fiddles, eye on the\nbowend, sawing the cello, remind you of toothache.'	130.7662688421199
+'Ay, and done says I. Gob, he’ll come home by weeping\ncross one of those days, I’m thinking.'	131.1347977201914
+'Cadges ads.'	132.5570631841246
+'It’s\nlike one of our skipper’s bricks disguised.'	133.0724548899797
+'Union of all, jew, moslem and\ngentile.'	133.40455997704643
+'of\nArcturus:'	133.9970339331187
+'She gets you a\njob on the paper and then you go and slate her drivel to Jaysus.'	137.3406584112324
+'Pawning his gold watch in Cummins of Francis street where\nno-one would know him in the private office when I was there with\nPisser releasing his boots out of the pop.'	137.73242603282634
+'Daughter engaged\nto that chap in the inland revenue office with the motor.'	139.1869307351127
+'the bookhunt along\nBedford row, Merchants’ Arch, Wellington Quay (Simchath Torah):'	139.4101151722738
+'ITALIA, MAGISTRA ARTIUM\n\n\n He spoke on the law of evidence, J. J. O’Molloy said, of Roman justice\nas contrasted with the earlier Mosaic code, the  lex talionis .'	140.7613594395424
+'Might be the fellow balked\nme this morning with that horsey woman.'	140.81632407575398
+'Bob Cowley lent him\nhis for the Wicklow regatta concert last year and never heard tidings\nof it from that good day to this.'	141.46707046554053
+'Before him the\ngunwale of a boat, sunk in sand.'	141.95551148205817
+'But we have it on high authority that a man’s\nworst enemies shall be those of his own house and family.'	142.11531394746876
+'Must be the focus where the rays cross.'	142.1579823529666
+'1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the\ntrademark owner, any agent or employee of the Foundation, anyone\nproviding copies of Project Gutenberg-tm electronic works in\naccordance with this agreement, and any volunteers associated with the\nproduction, promotion and distribution of Project Gutenberg-tm\nelectronic works, harmless from all liability, costs and expenses,\nincluding legal fees, that arise directly or indirectly from any of\nthe following which you do or cause to occur:'	145.00059125642053
+'The father of scare journalism, Lenehan confirmed, and the\nbrother-in-law of Chris Callinan.'	145.6508534441587
+'Henry Menton, solr, Martin Cunningham, John\nPower, eatondph 1/8 ador dorador douradora  (must be where he called\nMonks the dayfather about Keyes’s ad)  Thomas Kernan, Simon Dedalus,\nStephen Dedalus B. A., Edw.'	146.17193902538116
+'Strike me silly, said Costello, a low fellow who was fuddled.'	146.92862392304116
+'Now dearest Gerald uses pinky greasepaint\nand gilds his eyelids.'	147.74831017158075
+'And whiles they spake the door of the castle was opened and there\nnighed them a mickle noise as of many that sat there at meat.'	149.4448846374367
+'Forth from the skirt of his coat MrDedalus brought\npouch and pipe.'	150.29467153347335
+'He waited till she had laid the card aside and curled herself back\nslowly with a snug sigh.'	150.54458327541255
+'When, lo, there came about them all a great brightness and they beheld\nthe chariot wherein He stood ascend to heaven.'	151.90789727130692
+'Gaily miss Douce polished a tumbler, trilling:'	152.0062355918731
+'His slim hand with a wave graced echo and fall.'	152.08477357212053
+'To ourselves...'	153.06371222468113
+'What did the first drawer unlocked contain?'	153.6511817181558
+'(He turns on his left side, sighing, doubling himself together.) \n\nBLOOM:'	154.21913772944941
+'A hater of his\nkind ran from them to the wood of madness, his mane foaming in the\nmoon, his eyeballs stars.'	154.9465451818751
+'At the risk\nof her own, was the telling rejoinder of his interlocutor, none the\nless effective for the moderate and measured tone in which it was\ndelivered.'	156.00809767338663
+'Like those rhapsodies of Liszt’s, Hungarian,\ngipsyeyed.'	157.7519874273823
+'Don’t be all\nnight before the polis in plain clothes sees us.'	159.51819761077508
+'They drove on past Brian Boroimhe house.'	159.85077630246496
+'He clasped his hands between his knees and, satisfied, sent his vacant\nglance over their faces.'	166.15649366826864
+'Handsome building.'	167.67289584187426
+'My subjects!'	167.67289584187426
+'Broad\ndaylight.'	167.67289584187426
+'MrBloom ejaculated, professing not the least surprise at the\nintelligence, I can quite credit the assertion and I guarantee he\ninvariably does.'	168.5090547414966
+'He ate off the crescent of water biscuit he had been nibbling and,\nhungered, made ready to nibble the biscuit in his other hand.'	170.39828150326667
+'Then said Dixon junior to Punch Costello wist he what ends.'	174.26680712149
+'He skipped off the gunrest and looked gravely at his watcher, gathering\nabout his legs the loose folds of his gown.'	175.35993799512275
+'Slowly, note by\nnote, oriental music is played.'	175.71001966838244
+'Possibly perceiving an expression of dubiosity on their faces the\nglobetrotter went on, adhering to his adventures.'	176.65903409079567
+'He believed then that human life was infinitely perfectible,\neliminating these conditions?'	176.74475511287895
+'Why, as he reflected, Irishtown strand, a locality he had not\nbeen in for quite a number of years looked different somehow since, as\nit happened, he went to reside on the north side.'	179.16466383015248
+'My literary agent MrJ. B. Pinker is in attendance.'	179.50365620969214
+'So far as he could see he\nwas rather pale in the face so that it occurred to him as highly\nadvisable to get a conveyance of some description which would answer in\ntheir then condition, both of them being e.d.ed, particularly Stephen,\nalways assuming that there was such a thing to be found.'	180.9046290303945
+'But I suspect, Stephen interrupted, that Ireland must be important\nbecause it belongs to me.'	182.377615188625
+'He held his caved hands a cubit from him, frowning:'	182.460764169206
+'Peace of the druid priests of Cymbeline:'	182.86513681570702
+'The morn.'	185.58878088787395
+'Between the\ncurtains Professor Maginni inserts a leg on the toepoint of which spins\na silk hat.'	186.01844865027962
+'(Carelessly.)  I was just\nchatting this afternoon at the viceregal lodge to my old pals, sir\nRobert and lady Ball, astronomer royal, at the levee.'	186.0986046175763
+'But\ncould he not have endeavoured to have found again as in his youth the\nbottle Holiness that then he lived withal?'	186.67009456660136
+'Naked\nnymphs:'	187.4639965433363
+'Field seventeen.'	187.4639965433363
+'The sewage.'	187.4639965433363
+'I’m stony.'	187.4639965433363
+'Paris rawly waking, crude sunlight on her lemon streets.'	188.24944193279853
+'J. J. O’Molloy turned the files crackingly over, murmuring, seeking:'	188.3980877795497
+'Still, supposing he had his father’s gift as he more than suspected, it\nopened up new vistas in his mind such as Lady Fingall’s Irish\nindustries, concert on the preceding Monday, and aristocracy in\ngeneral.'	190.89286370437964
+'He was a rich country gentleman, Stephen said, with a coat of arms and\nlanded estate at Stratford and a house in Ireland yard, a capitalist\nshareholder, a bill promoter, a tithefarmer.'	193.64135864356177
+'A strip of torn envelope peeped from under the dimpled pillow.'	194.10913370405856
+'How had he attempted to remedy this state of comparative ignorance?'	195.45270233893015
+'A shut door of a silent tower, entombing their blind\nbodies, the panthersahib and his pointer.'	196.47461425564708
+'Once, in 1887, after a protracted performance of charades in the house\nof Luke Doyle, Kimmage, he had awaited with patience the apparition of\nthe diurnal phenomenon, seated on a wall, his gaze turned in the\ndirection of Mizrach, the east.'	196.78542005422048
+'The keeper of the shelter in the middle of this  tête-à-tête  put a\nboiling swimming cup of a choice concoction labelled coffee on the\ntable and a rather antediluvian specimen of a bun, or so it seemed.'	197.62132762303517
+'The mourners moved away slowly without aim, by devious paths, staying\nat whiles to read a name on a tomb.'	200.04043706656
+'(Her lucky hand instantly saving him.)  Hoopsa!'	200.24957034529163
+'He went over to it, held it in his hands awhile, feeling its coolness,\nsmelling the clammy slaver of the lather in which the brush was stuck.'	205.48322131787435
+'Poor man O’Connor wife and five children\npoisoned by mussels here.'	206.23904140024908
+'As it so happened a Dublin United Tramways Company’s\nsandstrewer happened to be returning and the elder man recounted to his\ncompanion  à propos  of the incident his own truly miraculous escape of\nsome little while back.'	206.6382830329916
+'A frowsy whore with black straw sailor hat askew came glazily in the\nday along the quay towards MrBloom.'	206.70398479418608
+'(His lip upcurled, smiles superciliously on the court.)  You\nfunny ass, you!'	208.0493897023885
+'Or?'	211.06756756756755
+'His questioner perceiving that he was not\nlikely to get a great deal of change out of such a wily old customer,\nfell to woolgathering on the enormous dimensions of the water about the\nglobe, suffice it to say that, as a casual glance at the map revealed,\nit covered fully three fourths of it and he fully realised accordingly\nwhat it meant to rule the waves.'	214.09053710830457
+'Where is now that gratitude which loyalty should have\ncounselled?'	214.78051602310524
+'Can real\nlove, supposing there happens to be another chap in the case, exist\nbetween married folk?'	217.611241585134
+'Was the knowledge possessed by both of each of these languages, the\nextinct and the revived, theoretical or practical?'	219.32366105481572
+'Edy Boardman was noticing it too because she was squinting at Gerty,\nhalf smiling, with her specs like an old maid, pretending to nurse the\nbaby.'	221.20758016840404
+'The ceremony which went off with great  éclat  was\ncharacterised by the most affecting cordiality.'	222.88785034755375
+'A charming  soubrette,  great\nMarie Kendall, with dauby cheeks and lifted skirt smiled daubily from\nher poster upon William Humble, earl of Dudley, and upon\nlieutenantcolonel H. G. Heseltine, and also upon the honourable Gerald\nWard A. D. C. From the window of the D. B. C. Buck Mulligan gaily, and\nHaines gravely, gazed down on the viceregal equipage over the shoulders\nof eager guests, whose mass of forms darkened the chessboard whereon\nJohn Howard Parnell looked intently.'	227.5016650598214
+'(a) distribution of this\nor any Project Gutenberg-tm work, (b) alteration, modification, or\nadditions or deletions to any Project Gutenberg-tm work, and (c) any\nDefect you cause.'	228.14625059640701
+'The voice of the mournful chanter called to\ndolorous prayer.'	228.28146371326275
+'An instant after,\nunder its screen, his eyes looked quickly, ghostbright, at his foe and\nfell once more upon a working corner.'	231.51295320661026
+'How young she was and radiant (Lalage were scarce fair\nbeside her) in her yellow shoes and frock of muslin, I do not know the\nright name of it.'	232.0555930375385
+'Miss Kennedy sauntered sadly from bright light, twining a loose hair\nbehind an ear.'	233.65738200858507
+'An eagle gules volant in a field argent\ndisplayed.'	235.8458057006812
+'The marquee umbrella sways drunkenly, the children run\naside.'	236.67701375324094
+'That’ll be two pounds ten about\ntwo pounds eight.'	243.58761394045538
+'The poisoning and the\nbeast with two backs that urged it King Hamlet’s ghost could not know\nof were he not endowed with knowledge by his creator.'	255.30356153437097
+'No glance of Kennedy rewarding him he yet made overtures.'	257.46303523131496
+'The heaventree of stars hung with humid nightblue fruit.'	260.1527733933266
+'Cissy wiped his little mouth with the dribbling bib and wanted him to\nsit up properly and say pa pa pa but when she undid the strap she cried\nout, holy saint Denis, that he was possing wet and to double the half\nblanket the other way under him.'	260.4839243797747
+'Come out here, Geraghty, you\nnotorious bloody hill and dale robber!'	261.27555620605557
+'In any case\nthat was very ancient history by now and as for our friend, the pseudo\nSkin-the-etcetera, he had transparently outlived his welcome.'	263.7722678725177
+'In a moment they will laugh\nmore loudly, aware of my lack of rule and of the fees their papas pay.'	263.7869762152628
+'And humanely his driver waited till he (or she)\nhad ended, patient in his scythed car.'	264.02061415402756
+'halfmasticated gristle:'	265.114126368249
+'(Laughing.)  Encore!'	265.114126368249
+'Bronze whiteness.'	265.114126368249
+'Haines stopped to take out a smooth silver case in which twinkled a\ngreen stone.'	266.29341887282953
+'And all the tiny tiny fernfoils trembled of\nmaidenhair.'	268.3066301609965
+'Under the sandwichbell lay on a bier of bread one last, one lonely,\nlast sardine of summer.'	268.5789044453355
+'They both, it seems, had been overtaken\nby the rain and for all their mending their pace had taken water, as\nmight be observed by MrMulligan’s smallclothes of a hodden grey which\nwas now somewhat piebald.'	271.0604246473094
+'The gulls swooped silently, two, then all\nfrom their heights, pouncing on prey.'	272.1331683562183
+'All that surgical skill could do was done and the brave\nwoman had manfully helped.'	274.86995844706195
+'From infancy to maturity he had resembled his maternal procreatrix.'	276.2919177700224
+'Walking by Doran’s publichouse he slid his hand between his waistcoat\nand trousers and, pulling aside his shirt gently, felt a slack fold of\nhis belly.'	279.2351368209663
+'Where Pat Kinsella had his Harp theatre before Whitbred ran the\nQueen’s.'	281.3310244593177
+'(He thrusts out a figged fist and foul cigar.)  Here,\nkiss that.'	282.20147724217065
+'their many forms\nclosed round him, the garish sunshine bleaching the honey of his\nilldyed head.'	283.9776538383979
+'He began to mazurka in swift caricature across the floor on sliding\nfeet past the fireplace to J. J. O’Molloy who placed the tissues in his\nreceiving hands.'	285.8567448090853
+'What does MrSidney Lee, or MrSimon Lazarus as some aver his\nname is, say of it?'	287.26594727244344
+'The ferreteyed porkbutcher folded the sausages he had snipped off with\nblotchy fingers, sausagepink.'	289.04729620542554
+'A wise tabby, a blinking sphinx, watched from her warm sill.'	293.7172848120252
+'(The\nwolfdog sprawls on his back, wriggling obscenely with begging paws, his\nlong black tongue lolling out.)  Influence of his surroundings.'	293.95275066358425
+'After him freshfound the hue and cry zigzag\ngallops in hot pursuit of follow my leader:'	294.65432505097334
+'The horses he passed started nervously under their slack harness.'	295.40080833002406
+'And sir Leopold that was the goodliest guest that ever sat\nin scholars’ hall and that was the meekest man and the kindest that\never laid husbandly hand under hen and that was the very truest knight\nof the world one that ever did minion service to lady gentle pledged\nhim courtly in the cup.'	296.2047858673804
+'She leads him towards\nthe steps, drawing him by the odour of her armpits, the vice of her\npainted eyes, the rustle of her slip in whose sinuous folds lurks the\nlion reek of all the male brutes that have possessed her.) \n\nTHE MALE BRUTES:'	300.65586706623174
+'Lenehan still drank and grinned at his tilted ale and at miss Douce’s\nlips that all but hummed, not shut, the oceansong her lips had trilled.'	303.87423058189677
+'Harsh gargoyle face that warred against me over our mess of hash of\nlights in rue Saint-André-des-Arts.'	306.89579214173654
+'Chap in the mortuary, coffin or coffey,\n corpusnomine.'	307.69824937420475
+'Among gumheavy serpentplants,\nmilkoozing fruits, where on the tawny waters leaves lie wide.'	308.2003064443583
+'And she tickled tiny tot’s two cheeks to make him forget and played\nhere’s the lord mayor, here’s his two horses, here’s his gingerbread\ncarriage and here he walks in, chinchopper, chinchopper, chinchopper\nchin.'	308.4288344261619
+'His articles\non Shakespeare in the  Saturday Review  were surely brilliant.'	309.8350593652455
+'Mulveys was the first when I was in bed that morning and MrRubio\nbrought it in with the coffee she stood there standing when I asked her\nto hand me and I pointing at them I couldnt think of the word a hairpin\nto open it with ah horquilla disobliging old thing and it staring her\nin the face with her switch of false hair on her and vain about her\nappearance ugly as she was near 80 or a 100 her face a mass of wrinkles\nwith all her religion domineering because she never could get over the\nAtlantic fleet coming in half the ships of the world and the Union Jack\nflying with all her carabineros because 4 drunken English sailors took\nall the rock from them and because I didnt run into mass often enough\nin Santa Maria to please her with her shawl up on her except when there\nwas a marriage on with all her miracles of the saints and her black\nblessed virgin with the silver dress and the sun dancing 3 times on\nEaster Sunday morning and when the priest was going by with the bell\nbringing the vatican to the dying blessing herself for his Majestad an\nadmirer he signed it I near jumped out of my skin I wanted to pick him\nup when I saw him following me along the Calle Real in the shop window\nthen he tipped me just in passing but I never thought hed write making\nan appointment I had it inside my petticoat bodice all day reading it\nup in every hole and corner while father was up at the drill\ninstructing to find out by the handwriting or the language of stamps\nsinging I remember shall I wear a white rose and I wanted to put on the\nold stupid clock to near the time he was the first man kissed me under\nthe Moorish wall my sweetheart when a boy it never entered my head what\nkissing meant till he put his tongue in my mouth his mouth was\nsweetlike young I put my knee up to him a few times to learn the way\nwhat did I tell him I was engaged for for fun to the son of a Spanish\nnobleman named Don Miguel de la Flora and he believed me that I was to\nbe married to him in 3 years time theres many a true word spoken in\njest there is a flower that bloometh a few things I told him true about\nmyself just for him to be imagining the Spanish girls he didnt like I\nsuppose one of them wouldnt have him I got him excited he crushed all\nthe flowers on my bosom he brought me he couldnt count the pesetas and\nthe perragordas till I taught him Cappoquin he came from he said on the\nblack water but it was too short then the day before he left May yes it\nwas May when the infant king of Spain was born Im always like that in\nthe spring Id like a new fellow every year up on the tiptop under the\nrockgun near OHaras tower I told him it was struck by lightning and all\nabout the old Barbary apes they sent to Clapham without a tail\ncareering all over the show on each others back MrRubio said she was\na regular old rock scorpion robbing the chickens out of Inces farm and\nthrow stones at you if you went anear he was looking at me I had that\nwhite blouse on open in the front to encourage him as much as I could\nwithout too openly they were just beginning to be plump I said I was\ntired we lay over the firtree cove a wild place I suppose it must be\nthe highest rock in existence the galleries and casemates and those\nfrightful rocks and Saint Michaels cave with the icicles or whatever\nthey call them hanging down and ladders all the mud plotching my boots\nIm sure thats the way down the monkeys go under the sea to Africa when\nthey die the ships out far like chips that was the Malta boat passing\nyes the sea and the sky you could do what you liked lie there for ever\nhe caressed them outside they love doing that its the roundness there I\nwas leaning over him with my white ricestraw hat to take the newness\nout of it the left side of my face the best my blouse open for his last\nday transparent kind of shirt he had I could see his chest pink he\nwanted to touch mine with his for a moment but I wouldnt let him he was\nawfully put out first for fear you never know consumption or leave me\nwith a child embarazada that old servant Ines told me that one drop\neven if it got into you at all after I tried with the Banana but I was\nafraid it might break and get lost up in me somewhere because they once\ntook something down out of a woman that was up there for years covered\nwith limesalts theyre all mad to get in there where they come out of\nyoud think they could never go far enough up and then theyre done with\nyou in a way till the next time yes because theres a wonderful feeling\nthere so tender all the time how did we finish it off yes O yes I\npulled him off into my handkerchief pretending not to be excited but I\nopened my legs I wouldnt let him touch me inside my petticoat because I\nhad a skirt opening up the side I tormented the life out of him first\ntickling him I loved rousing that dog in the hotel rrrsssstt\nawokwokawok his eyes shut and a bird flying below us he was shy all the\nsame I liked him like that moaning I made him blush a little when I got\nover him that way when I unbuttoned him and took his out and drew back\nthe skin it had a kind of eye in it theyre all Buttons men down the\nmiddle on the wrong side of them Molly darling he called me what was\nhis name Jack Joe Harry Mulvey was it yes I think a lieutenant he was\nrather fair he had a laughing kind of a voice so I went round to the\nwhatyoucallit everything was whatyoucallit moustache had he he said hed\ncome back Lord its just like yesterday to me and if I was married hed\ndo it to me and I promised him yes faithfully Id let him block me now\nflying perhaps hes dead or killed or a captain or admiral its nearly 20\nyears if I said firtree cove he would if he came up behind me and put\nhis hands over my eyes to guess who I might recognise him hes young\nstill about 40 perhaps hes married some girl on the black water and is\nquite changed they all do they havent half the character a woman has\nshe little knows what I did with her beloved husband before he ever\ndreamt of her in broad daylight too in the sight of the whole world you\nmight say they could have put an article about it in the Chronicle I\nwas a bit wild after when I blew out the old bag the biscuits were in\nfrom Benady Bros and exploded it Lord what a bang all the woodcocks and\npigeons screaming coming back the same way that we went over middle\nhill round by the old guardhouse and the jews burialplace pretending to\nread out the Hebrew on them I wanted to fire his pistol he said he\nhadnt one he didnt know what to make of me with his peak cap on that he\nalways wore crooked as often as I settled it straight H M S Calypso\nswinging my hat that old Bishop that spoke off the altar his long\npreach about womans higher functions about girls now riding the bicycle\nand wearing peak caps and the new woman bloomers God send him sense and\nme more money I suppose theyre called after him I never thought that\nwould be my name Bloom when I used to write it in print to see how it\nlooked on a visiting card or practising for the butcher and oblige M\nBloom youre looking blooming Josie used to say after I married him well\nits better than Breen or Briggs does brig or those awful names with\nbottom in them MrRamsbottom or some other kind of a bottom Mulvey I\nwouldnt go mad about either or suppose I divorced him MrBoylan my\nmother whoever she was might have given me a nicer name the Lord knows\nafter the lovely one she had Lunita Laredo the fun we had running along\nWilliss road to Europa point twisting in and out all round the other\nside of Jersey they were shaking and dancing about in my blouse like\nMillys little ones now when she runs up the stairs I loved looking down\nat them I was jumping up at the pepper trees and the white poplars\npulling the leaves off and throwing them at him he went to India he was\nto write the voyages those men have to make to the ends of the world\nand back its the least they might get a squeeze or two at a woman while\nthey can going out to be drowned or blown up somewhere I went up\nWindmill hill to the flats that Sunday morning with captain Rubios that\nwas dead spyglass like the sentry had he said hed have one or two from\non board I wore that frock from the B Marche paris and the coral\nnecklace the straits shining I could see over to Morocco almost the bay\nof Tangier white and the Atlas mountain with snow on it and the straits\nlike a river so clear Harry Molly darling I was thinking of him on the\nsea all the time after at mass when my petticoat began to slip down at\nthe elevation weeks and weeks I kept the handkerchief under my pillow\nfor the smell of him there was no decent perfume to be got in that\nGibraltar only that cheap peau dEspagne that faded and left a stink on\nyou more than anything else I wanted to give him a memento he gave me\nthat clumsy Claddagh ring for luck that I gave Gardner going to south\nAfrica where those Boers killed him with their war and fever but they\nwere well beaten all the same as if it brought its bad luck with it\nlike an opal or pearl still it must have been pure 18 carrot gold\nbecause it was very heavy but what could you get in a place like that\nthe sandfrog shower from Africa and that derelict ship that came up to\nthe harbour Marie the Marie whatyoucallit no he hadnt a moustache that\nwas Gardner yes I can see his face cleanshaven\nFrseeeeeeeeeeeeeeeeeeeefrong that train again weeping tone once in the\ndear deaead days beyondre call close my eyes breath my lips forward\nkiss sad look eyes open piano ere oer the world the mists began I hate\nthat istsbeg comes loves sweet sooooooooooong Ill let that out full\nwhen I get in front of the footlights again Kathleen Kearney and her\nlot of squealers Miss This Miss That Miss Theother lot of sparrowfarts\nskitting around talking about politics they know as much about as my\nbackside anything in the world to make themselves someway interesting\nIrish homemade beauties soldiers daughter am I ay and whose are you\nbootmakers and publicans I beg your pardon coach I thought you were a\nwheelbarrow theyd die down dead off their feet if ever they got a\nchance of walking down the Alameda on an officers arm like me on the\nbandnight my eyes flash my bust that they havent passion God help their\npoor head I knew more about men and life when I was 15 than theyll all\nknow at 50 they dont know how to sing a song like that Gardner said no\nman could look at my mouth and teeth smiling like that and not think of\nit I was afraid he mightnt like my accent first he so English all\nfather left me in spite of his stamps Ive my mothers eyes and figure\nanyhow he always said theyre so snotty about themselves some of those\ncads he wasnt a bit like that he was dead gone on my lips let them get\na husband first thats fit to be looked at and a daughter like mine or\nsee if they can excite a swell with money that can pick and choose\nwhoever he wants like Boylan to do it 4 or 5 times locked in each\nothers arms or the voice either I could have been a prima donna only I\nmarried him comes looooves old deep down chin back not too much make it\ndouble My Ladys Bower is too long for an encore about the moated grange\nat twilight and vaunted rooms yes Ill sing Winds that blow from the\nsouth that he gave after the choirstairs performance Ill change that\nlace on my black dress to show off my bubs and Ill yes by God Ill get\nthat big fan mended make them burst with envy my hole is itching me\nalways when I think of him I feel I want to I feel some wind in me\nbetter go easy not wake him have him at it again slobbering after\nwashing every bit of myself back belly and sides if we had even a bath\nitself or my own room anyway I wish hed sleep in some bed by himself\nwith his cold feet on me give us room even to let a fart God or do the\nleast thing better yes hold them like that a bit on my side piano\nquietly sweeeee theres that train far away pianissimo eeeee one more\nsong\n\nthat was a relief wherever you be let your wind go free who knows if\nthat pork chop I took with my cup of tea after was quite good with the\nheat I couldnt smell anything off it Im sure that queerlooking man in\nthe porkbutchers is a great rogue I hope that lamp is not smoking fill\nmy nose up with smuts better than having him leaving the gas on all\nnight I couldnt rest easy in my bed in Gibraltar even getting up to see\nwhy am I so damned nervous about that though I like it in the winter\nits more company O Lord it was rotten cold too that winter when I was\nonly about ten was I yes I had the big doll with all the funny clothes\ndressing her up and undressing that icy wind skeeting across from those\nmountains the something Nevada sierra nevada standing at the fire with\nthe little bit of a short shift I had up to heat myself I loved dancing\nabout in it then make a race back into bed Im sure that fellow opposite\nused to be there the whole time watching with the lights out in the\nsummer and I in my skin hopping around I used to love myself then\nstripped at the washstand dabbing and creaming only when it came to the\nchamber performance I put out the light too so then there were 2 of us\ngoodbye to my sleep for this night anyhow I hope hes not going to get\nin with those medicals leading him astray to imagine hes young again\ncoming in at 4 in the morning it must be if not more still he had the\nmanners not to wake me what do they find to gabber about all night\nsquandering money and getting drunker and drunker couldnt they drink\nwater then he starts giving us his orders for eggs and tea and Findon\nhaddy and hot buttered toast I suppose well have him sitting up like\nthe king of the country pumping the wrong end of the spoon up and down\nin his egg wherever he learned that from and I love to hear him falling\nup the stairs of a morning with the cups rattling on the tray and then\nplay with the cat she rubs up against you for her own sake I wonder has\nshe fleas shes as bad as a woman always licking and lecking but I hate\ntheir claws I wonder do they see anything that we cant staring like\nthat when she sits at the top of the stairs so long and listening as I\nwait always what a robber too that lovely fresh plaice I bought I think\nIll get a bit of fish tomorrow or today is it Friday yes I will with\nsome blancmange with black currant jam like long ago not those 2 lb\npots of mixed plum and apple from the London and Newcastle Williams and\nWoods goes twice as far only for the bones I hate those eels cod yes\nIll get a nice piece of cod Im always getting enough for 3 forgetting\nanyway Im sick of that everlasting butchers meat from Buckleys loin\nchops and leg beef and rib steak and scrag of mutton and calfs pluck\nthe very name is enough or a picnic suppose we all gave 5/- each and or\nlet him pay it and invite some other woman for him who MrFleming and\ndrove out to the furry glen or the strawberry beds wed have him\nexamining all the horses toenails first like he does with the letters\nno not with Boylan there yes with some cold veal and ham mixed\nsandwiches there are little houses down at the bottom of the banks\nthere on purpose but its as hot as blazes he says not a bank holiday\nanyhow I hate those ruck of Mary Ann coalboxes out for the day Whit\nMonday is a cursed day too no wonder that bee bit him better the\nseaside but Id never again in this life get into a boat with him after\nhim at Bray telling the boatman he knew how to row if anyone asked\ncould he ride the steeplechase for the gold cup hed say yes then it\ncame on to get rough the old thing crookeding about and the weight all\ndown my side telling me pull the right reins now pull the left and the\ntide all swamping in floods in through the bottom and his oar slipping\nout of the stirrup its a mercy we werent all drowned he can swim of\ncourse me no theres no danger whatsoever keep yourself calm in his\nflannel trousers Id like to have tattered them down off him before all\nthe people and give him what that one calls flagellate till he was\nblack and blue do him all the good in the world only for that longnosed\nchap I dont know who he is with that other beauty Burke out of the City\nArms hotel was there spying around as usual on the slip always where he\nwasnt wanted if there was a row on youd vomit a better face there was\nno love lost between us thats 1 consolation I wonder what kind is that\nbook he brought me Sweets of Sin by a gentleman of fashion some other\nMrde Kock I suppose the people gave him that nickname going about with\nhis tube from one woman to another I couldnt even change my new white\nshoes all ruined with the saltwater and the hat I had with that feather\nall blowy and tossed on me how annoying and provoking because the smell\nof the sea excited me of course the sardines and the bream in Catalan\nbay round the back of the rock they were fine all silver in the\nfishermens baskets old Luigi near a hundred they said came from Genoa\nand the tall old chap with the earrings I dont like a man you have to\nclimb up to to get at I suppose theyre all dead and rotten long ago\nbesides I dont like being alone in this big barracks of a place at\nnight I suppose Ill have to put up with it I never brought a bit of\nsalt in even when we moved in the confusion musical academy he was\ngoing to make on the first floor drawingroom with a brassplate or\nBlooms private hotel he suggested go and ruin himself altogether the\nway his father did down in Ennis like all the things he told father he\nwas going to do and me but I saw through him telling me all the lovely\nplaces we could go for the honeymoon Venice by moonlight with the\ngondolas and the lake of Como he had a picture cut out of some paper of\nand mandolines and lanterns O how nice I said whatever I liked he was\ngoing to do immediately if not sooner will you be my man will you carry\nmy can he ought to get a leather medal with a putty rim for all the\nplans he invents then leaving us here all day youd never know what old\nbeggar at the door for a crust with his long story might be a tramp and\nput his foot in the way to prevent me shutting it like that picture of\nthat hardened criminal he was called in Lloyds Weekly news 20 years in\njail then he comes out and murders an old woman for her money imagine\nhis poor wife or mother or whoever she is such a face youd run miles\naway from I couldnt rest easy till I bolted all the doors and windows\nto make sure but its worse again being locked up like in a prison or a\nmadhouse they ought to be all shot or the cat of nine tails a big brute\nlike that that would attack a poor old woman to murder her in her bed\nId cut them off him so I would not that hed be much use still better\nthan nothing the night I was sure I heard burglars in the kitchen and\nhe went down in his shirt with a candle and a poker as if he was\nlooking for a mouse as white as a sheet frightened out of his wits\nmaking as much noise as he possibly could for the burglars benefit\nthere isnt much to steal indeed the Lord knows still its the feeling\nespecially now with Milly away such an idea for him to send the girl\ndown there to learn to take photographs on account of his grandfather\ninstead of sending her to Skerrys academy where shed have to learn not\nlike me getting all at school only hed do a thing like that all the\nsame on account of me and Boylan thats why he did it Im certain the way\nhe plots and plans everything out I couldnt turn round with her in the\nplace lately unless I bolted the door first gave me the fidgets coming\nin without knocking first when I put the chair against the door just as\nI was washing myself there below with the glove get on your nerves then\ndoing the loglady all day put her in a glasscase with two at a time to\nlook at her if he knew she broke off the hand off that little gimcrack\nstatue with her roughness and carelessness before she left that I got\nthat little Italian boy to mend so that you cant see the join for 2\nshillings wouldnt even teem the potatoes for you of course shes right\nnot to ruin her hands I noticed he was always talking to her lately at\nthe table explaining things in the paper and she pretending to\nunderstand sly of course that comes from his side of the house he cant\nsay I pretend things can he Im too honest as a matter of fact and\nhelping her into her coat but if there was anything wrong with her its\nme shed tell not him I suppose he thinks Im finished out and laid on\nthe shelf well Im not no nor anything like it well see well see now\nshes well on for flirting too with Tom Devans two sons imitating me\nwhistling with those romps of Murray girls calling for her can Milly\ncome out please shes in great demand to pick what they can out of her\nround in Nelson street riding Harry Devans bicycle at night its as well\nhe sent her where she is she was just getting out of bounds wanting to\ngo on the skatingrink and smoking their cigarettes through their nose I\nsmelt it off her dress when I was biting off the thread of the button I\nsewed on to the bottom of her jacket she couldnt hide much from me I\ntell you only I oughtnt to have stitched it and it on her it brings a\nparting and the last plumpudding too split in 2 halves see it comes out\nno matter what they say her tongue is a bit too long for my taste your\nblouse is open too low she says to me the pan calling the kettle\nblackbottom and I had to tell her not to cock her legs up like that on\nshow on the windowsill before all the people passing they all look at\nher like me when I was her age of course any old rag looks well on you\nthen a great touchmenot too in her own way at the Only Way in the\nTheatre royal take your foot away out of that I hate people touching me\nafraid of her life Id crush her skirt with the pleats a lot of that\ntouching must go on in theatres in the crush in the dark theyre always\ntrying to wiggle up to you that fellow in the pit at the Gaiety for\nBeerbohm Tree in Trilby the last time Ill ever go there to be squashed\nlike that for any Trilby or her barebum every two minutes tipping me\nthere and looking away hes a bit daft I think I saw him after trying to\nget near two stylishdressed ladies outside Switzers window at the same\nlittle game I recognised him on the moment the face and everything but\nhe didnt remember me yes and she didnt even want me to kiss her at the\nBroadstone going away well I hope shell get someone to dance attendance\non her the way I did when she was down with the mumps and her glands\nswollen wheres this and wheres that of course she cant feel anything\ndeep yet I never came properly till I was what 22 or so it went into\nthe wrong place always only the usual girls nonsense and giggling that\nConny Connolly writing to her in white ink on black paper sealed with\nsealingwax though she clapped when the curtain came down because he\nlooked so handsome then we had Martin Harvey for breakfast dinner and\nsupper I thought to myself afterwards it must be real love if a man\ngives up his life for her that way for nothing I suppose there are a\nfew men like that left its hard to believe in it though unless it\nreally happened to me the majority of them with not a particle of love\nin their natures to find two people like that nowadays full up of each\nother that would feel the same way as you do theyre usually a bit\nfoolish in the head his father must have been a bit queer to go and\npoison himself after her still poor old man I suppose he felt lost shes\nalways making love to my things too the few old rags I have wanting to\nput her hair up at 15 my powder too only ruin her skin on her shes time\nenough for that all her life after of course shes restless knowing shes\npretty with her lips so red a pity they wont stay that way I was too\nbut theres no use going to the fair with the thing answering me like a\nfishwoman when I asked to go for a half a stone of potatoes the day we\nmet MrJoe Gallaher at the trottingmatches and she pretended not to\nsee us in her trap with Friery the solicitor we werent grand enough\ntill I gave her 2 damn fine cracks across the ear for herself take that\nnow for answering me like that and that for your impudence she had me\nthat exasperated of course contradicting I was badtempered too because\nhow was it there was a weed in the tea or I didnt sleep the night\nbefore cheese I ate was it and I told her over and over again not to\nleave knives crossed like that because she has nobody to command her as\nshe said herself well if he doesnt correct her faith I will that was\nthe last time she turned on the teartap I was just like that myself\nthey darent order me about the place its his fault of course having the\ntwo of us slaving here instead of getting in a woman long ago am I ever\ngoing to have a proper servant again of course then shed see him coming\nId have to let her know or shed revenge it arent they a nuisance that\nold MrFleming you have to be walking round after her putting the\nthings into her hands sneezing and farting into the pots well of course\nshes old she cant help it a good job I found that rotten old smelly\ndishcloth that got lost behind the dresser I knew there was something\nand opened the area window to let out the smell bringing in his friends\nto entertain them like the night he walked home with a dog if you\nplease that might have been mad especially Simon Dedalus son his father\nsuch a criticiser with his glasses up with his tall hat on him at the\ncricket match and a great big hole in his sock one thing laughing at\nthe other and his son that got all those prizes for whatever he won\nthem in the intermediate imagine climbing over the railings if anybody\nsaw him that knew us I wonder he didnt tear a big hole in his grand\nfuneral trousers as if the one nature gave wasnt enough for anybody\nhawking him down into the dirty old kitchen now is he right in his head\nI ask pity it wasnt washing day my old pair of drawers might have been\nhanging up too on the line on exhibition for all hed ever care with the\nironmould mark the stupid old bundle burned on them he might think was\nsomething else and she never even rendered down the fat I told her and\nnow shes going such as she was on account of her paralysed husband\ngetting worse theres always something wrong with them disease or they\nhave to go under an operation or if its not that its drink and he beats\nher Ill have to hunt around again for someone every day I get up theres\nsome new thing on sweet God sweet God well when Im stretched out dead\nin my grave I suppose Ill have some peace I want to get up a minute if\nIm let wait O Jesus wait yes that thing has come on me yes now wouldnt\nthat afflict you of course all the poking and rooting and ploughing he\nhad up in me now what am I to do Friday Saturday Sunday wouldnt that\npester the soul out of a body unless he likes it some men do God knows\ntheres always something wrong with us 5 days every 3 or 4 weeks usual\nmonthly auction isnt it simply sickening that night it came on me like\nthat the one and only time we were in a box that Michael Gunn gave him\nto see MrKendal and her husband at the Gaiety something he did about\ninsurance for him in Drimmies I was fit to be tied though I wouldnt\ngive in with that gentleman of fashion staring down at me with his\nglasses and him the other side of me talking about Spinoza and his soul\nthats dead I suppose millions of years ago I smiled the best I could\nall in a swamp leaning forward as if I was interested having to sit it\nout then to the last tag I wont forget that wife of Scarli in a hurry\nsupposed to be a fast play about adultery that idiot in the gallery\nhissing the woman adulteress he shouted I suppose he went and had a\nwoman in the next lane running round all the back ways after to make up\nfor it I wish he had what I had then hed boo I bet the cat itself is\nbetter off than us have we too much blood up in us or what O patience\nabove its pouring out of me like the sea anyhow he didnt make me\npregnant as big as he is I dont want to ruin the clean sheets I just\nput on I suppose the clean linen I wore brought it on too damn it damn\nit and they always want to see a stain on the bed to know youre a\nvirgin for them all thats troubling them theyre such fools too you\ncould be a widow or divorced 40 times over a daub of red ink would do\nor blackberry juice no thats too purply O Jamesy let me up out of this\npooh sweets of sin whoever suggested that business for women what\nbetween clothes and cooking and children this damned old bed too\njingling like the dickens I suppose they could hear us away over the\nother side of the park till I suggested to put the quilt on the floor\nwith the pillow under my bottom I wonder is it nicer in the day I think\nit is easy I think Ill cut all this hair off me there scalding me I\nmight look like a young girl wouldnt he get the great suckin the next\ntime he turned up my clothes on me Id give anything to see his face\nwheres the chamber gone easy Ive a holy horror of its breaking under me\nafter that old commode I wonder was I too heavy sitting on his knee I\nmade him sit on the easychair purposely when I took off only my blouse\nand skirt first in the other room he was so busy where he oughtnt to be\nhe never felt me I hope my breath was sweet after those kissing comfits\neasy God I remember one time I could scout it out straight whistling\nlike a man almost easy O Lord how noisy I hope theyre bubbles on it for\na wad of money from some fellow Ill have to perfume it in the morning\ndont forget I bet he never saw a better pair of thighs than that look\nhow white they are the smoothest place is right there between this bit\nhere how soft like a peach easy God I wouldnt mind being a man and get\nup on a lovely woman O Lord what a row youre making like the jersey\nlily easy easy O how the waters come down at Lahore\n\nwho knows is there anything the matter with my insides or have I\nsomething growing in me getting that thing like that every week when\nwas it last I Whit Monday yes its only about 3 weeks I ought to go to\nthe doctor only it would be like before I married him when I had that\nwhite thing coming from me and Floey made me go to that dry old stick\nDr Collins for womens diseases on Pembroke road your vagina he called\nit I suppose thats how he got all the gilt mirrors and carpets getting\nround those rich ones off Stephens green running up to him for every\nlittle fiddlefaddle her vagina and her cochinchina theyve money of\ncourse so theyre all right I wouldnt marry him not if he was the last\nman in the world besides theres something queer about their children\nalways smelling around those filthy bitches all sides asking me if what\nI did had an offensive odour what did he want me to do but the one\nthing gold maybe what a question if I smathered it all over his wrinkly\nold face for him with all my compriments I suppose hed know then and\ncould you pass it easily pass what I thought he was talking about the\nrock of Gibraltar the way he put it thats a very nice invention too by\nthe way only I like letting myself down after in the hole as far as I\ncan squeeze and pull the chain then to flush it nice cool pins and\nneedles still theres something in it I suppose I always used to know by\nMillys when she was a child whether she had worms or not still all the\nsame paying him for that how much is that doctor one guinea please and\nasking me had I frequent omissions where do those old fellows get all\nthe words they have omissions with his shortsighted eyes on me cocked\nsideways I wouldnt trust him too far to give me chloroform or God knows\nwhat else still I liked him when he sat down to write the thing out\nfrowning so severe his nose intelligent like that you be damned you\nlying strap O anything no matter who except an idiot he was clever\nenough to spot that of course that was all thinking of him and his mad\ncrazy letters my Precious one everything connected with your glorious\nBody everything underlined that comes from it is a thing of beauty and\nof joy for ever something he got out of some nonsensical book that he\nhad me always at myself 4 and 5 times a day sometimes and I said I\nhadnt are you sure O yes I said I am quite sure in a way that shut him\nup I knew what was coming next only natural weakness it was he excited\nme I dont know how the first night ever we met when I was living in\nRehoboth terrace we stood staring at one another for about 10 minutes\nas if we met somewhere I suppose on account of my being jewess looking\nafter my mother he used to amuse me the things he said with the half\nsloothering smile on him and all the Doyles said he was going to stand\nfor a member of Parliament O wasnt I the born fool to believe all his\nblather about home rule and the land league sending me that long strool\nof a song out of the Huguenots to sing in French to be more classy O\nbeau pays de la Touraine that I never even sang once explaining and\nrigmaroling about religion and persecution he wont let you enjoy\nanything naturally then might he as a great favour the very 1st\nopportunity he got a chance in Brighton square running into my bedroom\npretending the ink got on his hands to wash it off with the Albion milk\nand sulphur soap I used to use and the gelatine still round it O I\nlaughed myself sick at him that day I better not make an alnight\nsitting on this affair they ought to make chambers a natural size so\nthat a woman could sit on it properly he kneels down to do it I suppose\nthere isnt in all creation another man with the habits he has look at\nthe way hes sleeping at the foot of the bed how can he without a hard\nbolster its well he doesnt kick or he might knock out all my teeth\nbreathing with his hand on his nose like that Indian god he took me to\nshow one wet Sunday in the museum in Kildare street all yellow in a\npinafore lying on his side on his hand with his ten toes sticking out\nthat he said was a bigger religion than the jews and Our Lords both put\ntogether all over Asia imitating him as hes always imitating everybody\nI suppose he used to sleep at the foot of the bed too with his big\nsquare feet up in his wifes mouth damn this stinking thing anyway\nwheres this those napkins are ah yes I know I hope the old press doesnt\ncreak ah I knew it would hes sleeping hard had a good time somewhere\nstill she must have given him great value for his money of course he\nhas to pay for it from her O this nuisance of a thing I hope theyll\nhave something better for us in the other world tying ourselves up God\nhelp us thats all right for tonight now the lumpy old jingly bed always\nreminds me of old Cohen I suppose he scratched himself in it often\nenough and he thinks father bought it from Lord Napier that I used to\nadmire when I was a little girl because I told him easy piano O I like\nmy bed God here we are as bad as ever after 16 years how many houses\nwere we in at all Raymond terrace and Ontario terrace and Lombard\nstreet and Holles street and he goes about whistling every time were on\nthe run again his huguenots or the frogs march pretending to help the\nmen with our 4 sticks of furniture and then the City Arms hotel worse\nand worse says Warden Daly that charming place on the landing always\nsomebody inside praying then leaving all their stinks after them always\nknow who was in there last every time were just getting on right\nsomething happens or he puts his big foot in it Thoms and Helys and Mr\nCuffes and Drimmies either hes going to be run into prison over his old\nlottery tickets that was to be all our salvations or he goes and gives\nimpudence well have him coming home with the sack soon out of the\nFreeman too like the rest on account of those Sinner Fein or the\nfreemasons then well see if the little man he showed me dribbling along\nin the wet all by himself round by Coadys lane will give him much\nconsolation that he says is so capable and sincerely Irish he is indeed\njudging by the sincerity of the trousers I saw on him wait theres\nGeorges church bells wait 3 quarters the hour wait two oclock well\nthats a nice hour of the night for him to be coming home at to anybody\nclimbing down into the area if anybody saw him Ill knock him off that\nlittle habit tomorrow first Ill look at his shirt to see or Ill see if\nhe has that French letter still in his pocketbook I suppose he thinks I\ndont know deceitful men all their 20 pockets arent enough for their\nlies then why should we tell them even if its the truth they dont\nbelieve you then tucked up in bed like those babies in the Aristocrats\nMasterpiece he brought me another time as if we hadnt enough of that in\nreal life without some old Aristocrat or whatever his name is\ndisgusting you more with those rotten pictures children with two heads\nand no legs thats the kind of villainy theyre always dreaming about\nwith not another thing in their empty heads they ought to get slow\npoison the half of them then tea and toast for him buttered on both\nsides and newlaid eggs I suppose Im nothing any more when I wouldnt let\nhim lick me in Holles street one night man man tyrant as ever for the\none thing he slept on the floor half the night naked the way the jews\nused when somebody dies belonged to them and wouldnt eat any breakfast\nor speak a word wanting to be petted so I thought I stood out enough\nfor one time and let him he does it all wrong too thinking only of his\nown pleasure his tongue is too flat or I dont know what he forgets that\nwethen I dont Ill make him do it again if he doesnt mind himself and\nlock him down to sleep in the coalcellar with the blackbeetles I wonder\nwas it her Josie off her head with my castoffs hes such a born liar too\nno hed never have the courage with a married woman thats why he wants\nme and Boylan though as for her Denis as she calls him that\nforlornlooking spectacle you couldnt call him a husband yes its some\nlittle bitch hes got in with even when I was with him with Milly at the\nCollege races that Hornblower with the childs bonnet on the top of his\nnob let us into by the back way he was throwing his sheeps eyes at\nthose two doing skirt duty up and down I tried to wink at him first no\nuse of course and thats the way his money goes this is the fruits of Mr\nPaddy Dignam yes they were all in great style at the grand funeral in\nthe paper Boylan brought in if they saw a real officers funeral thatd\nbe something reversed arms muffled drums the poor horse walking behind\nin black L Boom and Tom Kernan that drunken little barrelly man that\nbit his tongue off falling down the mens W C drunk in some place or\nother and Martin Cunningham and the two Dedaluses and Fanny MCoys\nhusband white head of cabbage skinny thing with a turn in her eye\ntrying to sing my songs shed want to be born all over again and her old\ngreen dress with the lowneck as she cant attract them any other way\nlike dabbling on a rainy day I see it all now plainly and they call\nthat friendship killing and then burying one another and they all with\ntheir wives and families at home more especially Jack Power keeping\nthat barmaid he does of course his wife is always sick or going to be\nsick or just getting better of it and hes a goodlooking man still\nthough hes getting a bit grey over the ears theyre a nice lot all of\nthem well theyre not going to get my husband again into their clutches\nif I can help it making fun of him then behind his back I know well\nwhen he goes on with his idiotics because he has sense enough not to\nsquander every penny piece he earns down their gullets and looks after\nhis wife and family goodfornothings poor Paddy Dignam all the same Im\nsorry in a way for him what are his wife and 5 children going to do\nunless he was insured comical little teetotum always stuck up in some\npub corner and her or her son waiting Bill Bailey wont you please come\nhome her widows weeds wont improve her appearance theyre awfully\nbecoming though if youre goodlooking what men wasnt he yes he was at\nthe Glencree dinner and Ben Dollard base barreltone the night he\nborrowed the swallowtail to sing out of in Holles street squeezed and\nsquashed into them and grinning all over his big Dolly face like a\nwellwhipped childs botty didnt he look a balmy ballocks sure enough\nthat must have been a spectacle on the stage imagine paying 5/- in the\npreserved seats for that to see him trotting off in his trowlers and\nSimon Dedalus too he was always turning up half screwed singing the\nsecond verse first the old love is the new was one of his so sweetly\nsang the maiden on the hawthorn bough he was always on for flirtyfying\ntoo when I sang Maritana with him at Freddy Mayers private opera he had\na delicious glorious voice Phoebe dearest goodbye sweetheart\n sweet heart he always sang it not like Bartell DArcy sweet  tart \ngoodbye of course he had the gift of the voice so there was no art in\nit all over you like a warm showerbath O Maritana wildwood flower we\nsang splendidly though it was a bit too high for my register even\ntransposed and he was married at the time to May Goulding but then hed\nsay or do something to knock the good out of it hes a widower now I\nwonder what sort is his son he says hes an author and going to be a\nuniversity professor of Italian and Im to take lessons what is he\ndriving at now showing him my photo its not good of me I ought to have\ngot it taken in drapery that never looks out of fashion still I look\nyoung in it I wonder he didnt make him a present of it altogether and\nme too after all why not I saw him driving down to the Kingsbridge\nstation with his father and mother I was in mourning thats 11 years ago\nnow yes hed be 11 though what was the good in going into mourning for\nwhat was neither one thing nor the other the first cry was enough for\nme I heard the deathwatch too ticking in the wall of course he insisted\nhed go into mourning for the cat I suppose hes a man now by this time\nhe was an innocent boy then and a darling little fellow in his lord\nFauntleroy suit and curly hair like a prince on the stage when I saw\nhim at Mat Dillons he liked me too I remember they all do wait by God\nyes wait yes hold on he was on the cards this morning when I laid out\nthe deck union with a young stranger neither dark nor fair you met\nbefore I thought it meant him but hes no chicken nor a stranger either\nbesides my face was turned the other way what was the 7th card after\nthat the 10 of spades for a journey by land then there was a letter on\nits way and scandals too the 3 queens and the 8 of diamonds for a rise\nin society yes wait it all came out and 2 red 8s for new garments look\nat that and didnt I dream something too yes there was something about\npoetry in it I hope he hasnt long greasy hair hanging into his eyes or\nstanding up like a red Indian what do they go about like that for only\ngetting themselves and their poetry laughed at I always liked poetry\nwhen I was a girl first I thought he was a poet like lord Byron and not\nan ounce of it in his composition I thought he was quite different I\nwonder is he too young hes about wait 88 I was married 88 Milly is 15\nyesterday 89 what age was he then at Dillons 5 or 6 about 88 I suppose\nhes 20 or more Im not too old for him if hes 23 or 24 I hope hes not\nthat stuckup university student sort no otherwise he wouldnt go sitting\ndown in the old kitchen with him taking Eppss cocoa and talking of\ncourse he pretended to understand it all probably he told him he was\nout of Trinity college hes very young to be a professor I hope hes not\na professor like Goodwin was he was a potent professor of John Jameson\nthey all write about some woman in their poetry well I suppose he wont\nfind many like me where softly sighs of love the light guitar where\npoetry is in the air the blue sea and the moon shining so beautifully\ncoming back on the nightboat from Tarifa the lighthouse at Europa point\nthe guitar that fellow played was so expressive will I ever go back\nthere again all new faces two glancing eyes a lattice hid Ill sing that\nfor him theyre my eyes if hes anything of a poet two eyes as darkly\nbright as loves own star arent those beautiful words as loves young\nstar itll be a change the Lord knows to have an intelligent person to\ntalk to about yourself not always listening to him and Billy Prescotts\nad and Keyess ad and Tom the Devils ad then if anything goes wrong in\ntheir business we have to suffer Im sure hes very distinguished Id like\nto meet a man like that God not those other ruck besides hes young\nthose fine young men I could see down in Margate strand bathingplace\nfrom the side of the rock standing up in the sun naked like a God or\nsomething and then plunging into the sea with them why arent all men\nlike that thered be some consolation for a woman like that lovely\nlittle statue he bought I could look at him all day long curly head and\nhis shoulders his finger up for you to listen theres real beauty and\npoetry for you I often felt I wanted to kiss him all over also his\nlovely young cock there so simple I wouldnt mind taking him in my mouth\nif nobody was looking as if it was asking you to suck it so clean and\nwhite he looks with his boyish face I would too in 1/2 a minute even if\nsome of it went down what its only like gruel or the dew theres no\ndanger besides hed be so clean compared with those pigs of men I\nsuppose never dream of washing it from 1 years end to the other the\nmost of them only thats what gives the women the moustaches Im sure\nitll be grand if I can only get in with a handsome young poet at my age\nIll throw them the 1st thing in the morning till I see if the wishcard\ncomes out or Ill try pairing the lady herself and see if he comes out\nIll read and study all I can find or learn a bit off by heart if I knew\nwho he likes so he wont think me stupid if he thinks all women are the\nsame and I can teach him the other part Ill make him feel all over him\ntill he half faints under me then hell write about me lover and\nmistress publicly too with our 2 photographs in all the papers when he\nbecomes famous O but then what am I going to do about him though\n\nno thats no way for him has he no manners nor no refinement nor no\nnothing in his nature slapping us behind like that on my bottom because\nI didnt call him Hugh the ignoramus that doesnt know poetry from a\ncabbage thats what you get for not keeping them in their proper place\npulling off his shoes and trousers there on the chair before me so\nbarefaced without even asking permission and standing out that vulgar\nway in the half of a shirt they wear to be admired like a priest or a\nbutcher or those old hypocrites in the time of Julius Caesar of course\nhes right enough in his way to pass the time as a joke sure you might\nas well be in bed with what with a lion God Im sure hed have something\nbetter to say for himself an old Lion would O well I suppose its\nbecause they were so plump and tempting in my short petticoat he\ncouldnt resist they excite myself sometimes its well for men all the\namount of pleasure they get off a womans body were so round and white\nfor them always I wished I was one myself for a change just to try with\nthat thing they have swelling up on you so hard and at the same time so\nsoft when you touch it my uncle John has a thing long I heard those\ncornerboys saying passing the comer of Marrowbone lane my aunt Mary has\na thing hairy because it was dark and they knew a girl was passing it\ndidnt make me blush why should it either its only nature and he puts\nhis thing long into my aunt Marys hairy etcetera and turns out to be\nyou put the handle in a sweepingbrush men again all over they can pick\nand choose what they please a married woman or a fast widow or a girl\nfor their different tastes like those houses round behind Irish street\nno but were to be always chained up theyre not going to be chaining me\nup no damn fear once I start I tell you for their stupid husbands\njealousy why cant we all remain friends over it instead of quarrelling\nher husband found it out what they did together well naturally and if\nhe did can he undo it hes coronado anyway whatever he does and then he\ngoing to the other mad extreme about the wife in Fair Tyrants of course\nthe man never even casts a 2nd thought on the husband or wife either\nits the woman he wants and he gets her what else were we given all\nthose desires for Id like to know I cant help it if Im young still can\nI its a wonder Im not an old shrivelled hag before my time living with\nhim so cold never embracing me except sometimes when hes asleep the\nwrong end of me not knowing I suppose who he has any man thatd kiss a\nwomans bottom Id throw my hat at him after that hed kiss anything\nunnatural where we havent 1 atom of any kind of expression in us all of\nus the same 2 lumps of lard before ever Id do that to a man pfooh the\ndirty brutes the mere thought is enough I kiss the feet of you senorita\ntheres some sense in that didnt he kiss our halldoor yes he did what a\nmadman nobody understands his cracked ideas but me still of course a\nwoman wants to be embraced 20 times a day almost to make her look young\nno matter by who so long as to be in love or loved by somebody if the\nfellow you want isnt there sometimes by the Lord God I was thinking\nwould I go around by the quays there some dark evening where nobodyd\nknow me and pick up a sailor off the sea thatd be hot on for it and not\ncare a pin whose I was only do it off up in a gate somewhere or one of\nthose wildlooking gipsies in Rathfarnham had their camp pitched near\nthe Bloomfield laundry to try and steal our things if they could I only\nsent mine there a few times for the name model laundry sending me back\nover and over some old ones odd stockings that blackguardlooking fellow\nwith the fine eyes peeling a switch attack me in the dark and ride me\nup against the wall without a word or a murderer anybody what they do\nthemselves the fine gentlemen in their silk hats that K C lives up\nsomewhere this way coming out of Hardwicke lane the night he gave us\nthe fish supper on account of winning over the boxing match of course\nit was for me he gave it I knew him by his gaiters and the walk and\nwhen I turned round a minute after just to see there was a woman after\ncoming out of it too some filthy prostitute then he goes home to his\nwife after that only I suppose the half of those sailors are rotten\nagain with disease O move over your big carcass out of that for the\nlove of Mike listen to him the winds that waft my sighs to thee so well\nhe may sleep and sigh the great Suggester Don Poldo de la Flora if he\nknew how he came out on the cards this morning hed have something to\nsigh for a dark man in some perplexity between 2 7s too in prison for\nLord knows what he does that I dont know and Im to be slooching around\ndown in the kitchen to get his lordship his breakfast while hes rolled\nup like a mummy will I indeed did you ever see me running Id just like\nto see myself at it show them attention and they treat you like dirt I\ndont care what anybody says itd be much better for the world to be\ngoverned by the women in it you wouldnt see women going and killing one\nanother and slaughtering when do you ever see women rolling around\ndrunk like they do or gambling every penny they have and losing it on\nhorses yes because a woman whatever she does she knows where to stop\nsure they wouldnt be in the world at all only for us they dont know\nwhat it is to be a woman and a mother how could they where would they\nall of them be if they hadnt all a mother to look after them what I\nnever had thats why I suppose hes running wild now out at night away\nfrom his books and studies and not living at home on account of the\nusual rowy house I suppose well its a poor case that those that have a\nfine son like that theyre not satisfied and I none was he not able to\nmake one it wasnt my fault we came together when I was watching the two\ndogs up in her behind in the middle of the naked street that\ndisheartened me altogether I suppose I oughtnt to have buried him in\nthat little woolly jacket I knitted crying as I was but give it to some\npoor child but I knew well Id never have another our 1st death too it\nwas we were never the same since O Im not going to think myself into\nthe glooms about that any more I wonder why he wouldnt stay the night I\nfelt all the time it was somebody strange he brought in instead of\nroving around the city meeting God knows who nightwalkers and\npickpockets his poor mother wouldnt like that if she was alive ruining\nhimself for life perhaps still its a lovely hour so silent I used to\nlove coming home after dances the air of the night they have friends\nthey can talk to weve none either he wants what he wont get or its some\nwoman ready to stick her knife in you I hate that in women no wonder\nthey treat us the way they do we are a dreadful lot of bitches I\nsuppose its all the troubles we have makes us so snappy Im not like\nthat he could easy have slept in there on the sofa in the other room I\nsuppose he was as shy as a boy he being so young hardly 20 of me in the\nnext room hed have heard me on the chamber arrah what harm Dedalus I\nwonder its like those names in Gibraltar Delapaz Delagracia they had\nthe devils queer names there father Vilaplana of Santa Maria that gave\nme the rosary Rosales y OReilly in the Calle las Siete Revueltas and\nPisimbo and MrOpisso in Governor street O what a name Id go and drown\nmyself in the first river if I had a name like her O my and all the\nbits of streets Paradise ramp and Bedlam ramp and Rodgers ramp and\nCrutchetts ramp and the devils gap steps well small blame to me if I am\na harumscarum I know I am a bit I declare to God I dont feel a day\nolder than then I wonder could I get my tongue round any of the Spanish\ncomo esta usted muy bien gracias y usted see I havent forgotten it all\nI thought I had only for the grammar a noun is the name of any person\nplace or thing pity I never tried to read that novel cantankerous Mr\nRubio lent me by Valera with the questions in it all upside down the\ntwo ways I always knew wed go away in the end I can tell him the\nSpanish and he tell me the Italian then hell see Im not so ignorant\nwhat a pity he didnt stay Im sure the poor fellow was dead tired and\nwanted a good sleep badly I could have brought him in his breakfast in\nbed with a bit of toast so long as I didnt do it on the knife for bad\nluck or if the woman was going her rounds with the watercress and\nsomething nice and tasty there are a few olives in the kitchen he might\nlike I never could bear the look of them in Abrines I could do the\ncriada the room looks all right since I changed it the other way you\nsee something was telling me all the time Id have to introduce myself\nnot knowing me from Adam very funny wouldnt it Im his wife or pretend\nwe were in Spain with him half awake without a Gods notion where he is\ndos huevos estrellados senor Lord the cracked things come into my head\nsometimes itd be great fun supposing he stayed with us why not theres\nthe room upstairs empty and Millys bed in the back room he could do his\nwriting and studies at the table in there for all the scribbling he\ndoes at it and if he wants to read in bed in the morning like me as hes\nmaking the breakfast for 1 he can make it for 2 Im sure Im not going to\ntake in lodgers off the street for him if he takes a gesabo of a house\nlike this Id love to have a long talk with an intelligent welleducated\nperson Id have to get a nice pair of red slippers like those Turks with\nthe fez used to sell or yellow and a nice semitransparent morning gown\nthat I badly want or a peachblossom dressing jacket like the one long\nago in Walpoles only 8/6 or 18/6 Ill just give him one more chance Ill\nget up early in the morning Im sick of Cohens old bed in any case I\nmight go over to the markets to see all the vegetables and cabbages and\ntomatoes and carrots and all kinds of splendid fruits all coming in\nlovely and fresh who knows whod be the 1st man Id meet theyre out\nlooking for it in the morning Mamy Dillon used to say they are and the\nnight too that was her massgoing Id love a big juicy pear now to melt\nin your mouth like when I used to be in the longing way then Ill throw\nhim up his eggs and tea in the moustachecup she gave him to make his\nmouth bigger I suppose hed like my nice cream too I know what Ill do\nIll go about rather gay not too much singing a bit now and then mi fa\npieta Masetto then Ill start dressing myself to go out presto non son\npiu forte Ill put on my best shift and drawers let him have a good\neyeful out of that to make his micky stand for him Ill let him know if\nthats what he wanted that his wife is fucked yes and damn well fucked\ntoo up to my neck nearly not by him 5 or 6 times handrunning theres the\nmark of his spunk on the clean sheet I wouldnt bother to even iron it\nout that ought to satisfy him if you dont believe me feel my belly\nunless I made him stand there and put him into me Ive a mind to tell\nhim every scrap and make him do it out in front of me serve him right\nits all his own fault if I am an adulteress as the thing in the gallery\nsaid O much about it if thats all the harm ever we did in this vale of\ntears God knows its not much doesnt everybody only they hide it I\nsuppose thats what a woman is supposed to be there for or He wouldnt\nhave made us the way He did so attractive to men then if he wants to\nkiss my bottom Ill drag open my drawers and bulge it right out in his\nface as large as life he can stick his tongue 7 miles up my hole as hes\nthere my brown part then Ill tell him I want £ 1 or perhaps 30/- Ill\ntell him I want to buy underclothes then if he gives me that well he\nwont be too bad I dont want to soak it all out of him like other women\ndo I could often have written out a fine cheque for myself and write\nhis name on it for a couple of pounds a few times he forgot to lock it\nup besides he wont spend it Ill let him do it off on me behind provided\nhe doesnt smear all my good drawers O I suppose that cant be helped Ill\ndo the indifferent 1 or 2 questions Ill know by the answers when hes\nlike that he cant keep a thing back I know every turn in him Ill\ntighten my bottom well and let out a few smutty words smellrump or lick\nmy shit or the first mad thing comes into my head then Ill suggest\nabout yes O wait now sonny my turn is coming Ill be quite gay and\nfriendly over it O but I was forgetting this bloody pest of a thing\npfooh you wouldnt know which to laugh or cry were such a mixture of\nplum and apple no Ill have to wear the old things so much the better\nitll be more pointed hell never know whether he did it or not there\nthats good enough for you any old thing at all then Ill wipe him off me\njust like a business his omission then Ill go out Ill have him eying up\nat the ceiling where is she gone now make him want me thats the only\nway a quarter after what an unearthly hour I suppose theyre just\ngetting up in China now combing out their pigtails for the day well\nsoon have the nuns ringing the angelus theyve nobody coming in to spoil\ntheir sleep except an odd priest or two for his night office or the\nalarmclock next door at cockshout clattering the brains out of itself\nlet me see if I can doze off 1 2 3 4 5 what kind of flowers are those\nthey invented like the stars the wallpaper in Lombard street was much\nnicer the apron he gave me was like that something only I only wore it\ntwice better lower this lamp and try again so as I can get up early Ill\ngo to Lambes there beside Findlaters and get them to send us some\nflowers to put about the place in case he brings him home tomorrow\ntoday I mean no no Fridays an unlucky day first I want to do the place\nup someway the dust grows in it I think while Im asleep then we can\nhave music and cigarettes I can accompany him first I must clean the\nkeys of the piano with milk whatll I wear shall I wear a white rose or\nthose fairy cakes in Liptons I love the smell of a rich big shop at 7\n1/2d a lb or the other ones with the cherries in them and the pinky\nsugar 11d a couple of lbs of those a nice plant for the middle of the\ntable Id get that cheaper in wait wheres this I saw them not long ago I\nlove flowers Id love to have the whole place swimming in roses God of\nheaven theres nothing like nature the wild mountains then the sea and\nthe waves rushing then the beautiful country with the fields of oats\nand wheat and all kinds of things and all the fine cattle going about\nthat would do your heart good to see rivers and lakes and flowers all\nsorts of shapes and smells and colours springing up even out of the\nditches primroses and violets nature it is as for them saying theres no\nGod I wouldnt give a snap of my two fingers for all their learning why\ndont they go and create something I often asked him atheists or\nwhatever they call themselves go and wash the cobbles off themselves\nfirst then they go howling for the priest and they dying and why why\nbecause theyre afraid of hell on account of their bad conscience ah yes\nI know them well who was the first person in the universe before there\nwas anybody that made it all who ah that they dont know neither do I so\nthere you are they might as well try to stop the sun from rising\ntomorrow the sun shines for you he said the day we were lying among the\nrhododendrons on Howth head in the grey tweed suit and his straw hat\nthe day I got him to propose to me yes first I gave him the bit of\nseedcake out of my mouth and it was leapyear like now yes 16 years ago\nmy God after that long kiss I near lost my breath yes he said I was a\nflower of the mountain yes so we are flowers all a womans body yes that\nwas one true thing he said in his life and the sun shines for you today\nyes that was why I liked him because I saw he understood or felt what a\nwoman is and I knew I could always get round him and I gave him all the\npleasure I could leading him on till he asked me to say yes and I\nwouldnt answer first only looked out over the sea and the sky I was\nthinking of so many things he didnt know of Mulvey and MrStanhope and\nHester and father and old captain Groves and the sailors playing all\nbirds fly and I say stoop and washing up dishes they called it on the\npier and the sentry in front of the governors house with the thing\nround his white helmet poor devil half roasted and the Spanish girls\nlaughing in their shawls and their tall combs and the auctions in the\nmorning the Greeks and the jews and the Arabs and the devil knows who\nelse from all the ends of Europe and Duke street and the fowl market\nall clucking outside Larby Sharons and the poor donkeys slipping half\nasleep and the vague fellows in the cloaks asleep in the shade on the\nsteps and the big wheels of the carts of the bulls and the old castle\nthousands of years old yes and those handsome Moors all in white and\nturbans like kings asking you to sit down in their little bit of a shop\nand Ronda with the old windows of the posadas 2 glancing eyes a lattice\nhid for her lover to kiss the iron and the wineshops half open at night\nand the castanets and the night we missed the boat at Algeciras the\nwatchman going about serene with his lamp and O that awful deepdown\ntorrent O and the sea the sea crimson sometimes like fire and the\nglorious sunsets and the figtrees in the Alameda gardens yes and all\nthe queer little streets and the pink and blue and yellow houses and\nthe rosegardens and the jessamine and geraniums and cactuses and\nGibraltar as a girl where I was a Flower of the mountain yes when I put\nthe rose in my hair like the Andalusian girls used or shall I wear a\nred yes and how he kissed me under the Moorish wall and I thought well\nas well him as another and then I asked him with my eyes to ask again\nyes and then he asked me would I yes to say yes my mountain flower and\nfirst I put my arms around him yes and drew him down to me so he could\nfeel my breasts all perfume yes and his heart was going like mad and\nyes I said yes I will Yes.'	311.69152576414245
+'J. J. O’Molloy took the tissues from Lenehan’s hand and read them,\nblowing them apart gently, without comment.'	311.7661466979569
+'He peered from under his shaggy brows at the manuscript by his elbow\nand, muttering, began to prod the stiff buttons of the keyboard slowly,\nsometimes blowing as he screwed up the drum to erase an error.'	313.66619219486165
+'Will\nsome pleashe pershon not now impediment so catastrophics mit agitation\nof firstclass tablenumpkin?'	319.9968362966275
+'Concluding by inspection but erroneously that his silent companion was\nengaged in mental composition he reflected on the pleasures derived\nfrom literature of instruction rather than of amusement as he himself\nhad applied to the works of William Shakespeare more than once for the\nsolution of difficult problems in imaginary or real life.'	320.3483806821679
+'There was no response forthcoming to the suggestion however, such as it\nwas, Stephen’s mind’s eye being too busily engaged in repicturing his\nfamily hearth the last time he saw it with his sister Dilly sitting by\nthe ingle, her hair hanging down, waiting for some weak Trinidad shell\ncocoa that was in the sootcoated kettle to be done so that she and he\ncould drink it with the oatmealwater for milk after the Friday herrings\nthey had eaten at two a penny with an egg apiece for Maggy, Boody and\nKatey, the cat meanwhile under the mangle devouring a mess of eggshells\nand charred fish heads and bones on a square of brown paper, in\naccordance with the third precept of the church to fast and abstain on\nthe days commanded, it being quarter tense or if not, ember days or\nsomething like that.'	320.8907477433385
+'No sir smile neighbour shall covet his ox or his wife or his\nmanservant or his maidservant or his jackass.'	334.80344010613135
+'With indirect and direct verbal allusions or affirmations:'	337.80884885189226
+'The traditional figure of hypostasis, depicted by\nJohannes Damascenus, Lentulus Romanus and Epiphanius Monachus as\nleucodermic, sesquipedalian with winedark hair.'	338.1484016934555
+'Her to forgive now he\ncraved with good ground of her allowed that that of him swiftseen face,\nhers, so young then had looked.'	338.91657486868127
+'The roses draw apart, disclose a\nsepulchre of the gold of kings and their mouldering bones.) \n\nBLOOM:'	340.3759243891121
+'MrJustice Fitzgibbon, the present lord justice of appeal, had\nspoken and the paper under debate was an essay (new for those days),\nadvocating the revival of the Irish tongue.'	345.75258912053056
+'(Simon Dedalus’ voice hilloes in answer, somewhat sleepy but ready.) \n\nSIMON:'	347.41599473880916
+'Were there obverse meditations of involution increasingly less vast?'	363.20310775935405
+'all.'	365.11948051948053
+'up.'	366.07031250000006
+'The\nsoldier got to business, leading off with a powerful left jab to which\nthe Irish gladiator retaliated by shooting out a stiff one flush to the\npoint of Bennett’s jaw.'	371.5595017496954
+'Lady Cairns  of Swansea run into by the  Mona \nwhich was on an opposite tack in rather muggyish weather and lost with\nall hands on deck.'	372.49164669720466
+'Beggar’s\nbush.'	374.92799308667236
+'bronzelid, minagold.'	374.92799308667236
+'Shiny peels:'	374.92799308667236
+'Round towers.'	374.92799308667236
+'Crape weepers.'	374.92799308667236
+'But flatter.'	374.92799308667236
+'Filthy trip.'	374.92799308667236
+'Another thing\njust struck him as a by no means bad notion was he might have a gaze\naround on the spot to see about trying to make arrangements about a\nconcert tour of summer music embracing the most prominent pleasure\nresorts, Margate with mixed bathing and firstrate hydros and spas,\nEastbourne, Scarborough, Margate and so on, beautiful Bournemouth, the\nChannel islands and similar bijou spots, which might prove highly\nremunerative.'	385.3975583770957
+'In long shaky strokes Sargent copied the data.'	386.1097823235966
+'The plays of Shakespeare’s later years which Renan\nadmired so much breathe another spirit.'	389.11354152556487
+'(She breaks off and nibbles a piece, gives a piece to Kitty Ricketts\nand then turns kittenishly to Lynch.)  No objection to French lozenges?'	391.1363447021117
+'In Clohissey’s window a faded 1860 print of Heenan\nboxing Sayers held his eye.'	392.2423550306385
+'outflings my lord Stephen, giving the cry, and a tag and\nbobtail of all them after, cockerel, jackanapes, welsher, pilldoctor,\npunctual Bloom at heels with a universal grabbing at headgear,\nashplants, bilbos, Panama hats and scabbards, Zermatt alpenstocks and\nwhat not.'	392.9497277361767
+'Quite a\nnumber of stories there were on that particular Alice Ben Bolt topic,\nEnoch Arden and Rip van Winkle and does anybody hereabouts remember\nCaoc O’Leary, a favourite and most trying declamation piece by the way\nof poor John Casey and a bit of perfect poetry in its own small way.'	404.0827815412222
+'The pink edition extra sporting of the  Telegraph  tell a graphic lie\nlay, as luck would have it, beside his elbow and as he was just\npuzzling again, far from satisfied, over a country belonging to him and\nthe preceding rebus the vessel came from Bridgwater and the postcard\nwas addressed A. Boudin find the captain’s age, his eyes went aimlessly\nover the respective captions which came under his special province the\nallembracing give us this day our daily press.'	412.60237619921156
+'Lightly he played a\nlight bright tinkling measure for tripping ladies, arch and smiling,\nand for their gallants, gentlemen friends.'	412.88115464609103
+'There\nwas an innate refinement, a languid queenly  hauteur  about Gerty which\nwas unmistakably evidenced in her delicate hands and higharched instep.'	413.24504745489185
+'To which impromptu the\nneverfailing Bloom replied without a moment’s hesitation, saying\nstraight off:'	417.33218638968987
+'The Irish\nCaruso-Garibaldi was in superlative form and his stentorian notes were\nheard to the greatest advantage in the timehonoured anthem sung as only\nour citizen can sing it.'	426.8900984617595
+'The gravest problems of obstetrics and forensic medicine\nwere examined with as much animation as the most popular beliefs on the\nstate of pregnancy such as the forbidding to a gravid woman to step\nover a countrystile lest, by her movement, the navelcord should\nstrangle her creature and the injunction upon her in the event of a\nyearning, ardently and ineffectually entertained, to place her hand\nagainst that part of her person which long usage has consecrated as the\nseat of castigation.'	433.8402244803154
+'Short but yet Plain Elements of Geometry  written in French by F.\nIgnat.'	434.7302156588184
+'What, reduced to their simplest reciprocal form, were Bloom’s thoughts\nabout Stephen’s thoughts about Bloom and about Stephen’s thoughts about\nBloom’s thoughts about Stephen?'	441.46147916804784
+'His face lengthens, grows pale and bearded, with\nsunken eyes, the blotches of phthisis and hectic cheekbones of John F.\nTaylor.'	448.7475955274786
+'To pass in repose the hours intervening between Thursday (proper) and\nFriday (normal) on an extemporised cubicle in the apartment immediately\nabove the kitchen and immediately adjacent to the sleeping apartment of\nhis host and hostess.'	456.30011303284516
+'At Duke lane a ravenous terrier choked up a sick knuckly cud on the\ncobblestones and lapped it with new zest.'	458.54623209124117
+'of the moon invisible in\nincipient lunation, approaching perigee:'	460.1211559847014
+'a box containing the remainder of a gross of gilt “J”\npennibs, obtained from same department of same firm:'	461.3877157535461
+'His look went from brooder’s beard to carper’s skull, to remind, to\nchide them not unkindly, then to the baldpink lollard costard,\nguiltless though maligned.'	499.1319398504025
+'He lauded almost\nextravagantly my nether extremities, my swelling calves in silk hose\ndrawn up to the limit, and eulogised glowingly my other hidden\ntreasures in priceless lace which, he said, he could conjure up.'	500.7899150543226
+'And in point of fact the young man named Antonio’s livid face did\nactually look like forced smiling and the curious effect excited the\nunreserved admiration of everybody including Skin-the-Goat, who this\ntime stretched over.'	506.98397831269745
+'(In papal zouave’s uniform, steel cuirasses as\nbreastplate, armplates, thighplates, legplates, large profane\nmoustaches and brown paper mitre.) Leopoldi autem generatio.'	509.112873719423
+'It is a mystical estate, an apostolic succession, from only\nbegetter to only begotten.'	515.3615359610194
+'After all there’s a lot in that vegetarian fine flavour of things from\nthe earth garlic of course it stinks after Italian organgrinders crisp\nof onions mushrooms truffles.'	526.4410788055327
+'One:'	534.490494296578
+'One:'	534.490494296578
+'(Prompts in a pig’s whisper.)  Insects of the day spend their\nbrief existence in reiterated coition, lured by the smell of the\ninferiorly pulchritudinous female possessing extendified pudendal nerve\nin dorsal region.'	541.170087342662
+'From house to\nhouse, giving his everwelcome double knock, went the nine o’clock\npostman, the glowworm’s lamp at his belt gleaming here and there\nthrough the laurel hedges.'	542.3293850805993
+'The muchtreasured and intricately embroidered ancient Irish facecloth\nattributed to Solomon of Droma and Manus Tomaltach og MacDonogh,\nauthors of the Book of Ballymote, was then carefully produced and\ncalled forth prolonged admiration.'	549.8787217224508
+'And our wool that was sold in Rome in the time of Juvenal and our flax\nand our damask from the looms of Antrim and our Limerick lace, our\ntanneries and our white flint glass down there by Ballybough and our\nHuguenot poplin that we have since Jacquard de Lyon and our woven silk\nand our Foxford tweeds and ivory raised point from the Carmelite\nconvent in New Ross, nothing like it in the whole wide world.'	555.5331782171132
+'A wandering crone, lowly\nform of an immortal serving her conqueror and her gay betrayer, their\ncommon cuckquean, a messenger from the secret morning.'	562.091429363543
+'The hoarse Dublin United\nTramway Company’s timekeeper bawled them off:'	566.0148457359192
+'Who?'	566.8185483870969
+'And as her loving eyes behold her babe she wishes only one\nblessing more, to have her dear Doady there with her to share her joy,\nto lay in his arms that mite of God’s clay, the fruit of their lawful\nembraces.'	569.897040770052
+'For regarding Believe-on-Me they said it was nought else but\nnotion and they could conceive no thought of it for, first,\nTwo-in-the-Bush whither she ticed them was the very goodliest grot and\nin it were four pillows on which were four tickets with these words\nprinted on them, Pickaback and Topsyturvy and Shameface and Cheek by\nJowl and, second, for that foul plague Allpox and the monsters they\ncared not for them for Preservative had given them a stout shield of\noxengut and, third, that they might take no hurt neither from Offspring\nthat was that wicked devil by virtue of this same shield which was\nnamed Killchild.'	570.6256329434775
+'Terence O’Ryan heard him and straightway brought him a crystal cup full\nof the foamy ebon ale which the noble twin brothers Bungiveagh and\nBungardilaun brew ever in their divine alevats, cunning as the sons of\ndeathless Leda.'	573.8337789179001
+'The plump shadowed face and\nsullen oval jowl recalled a prelate, patron of arts in the middle ages.'	578.6524482311432
+'All kinds of Utopian plans were flashing through his (B’s) busy brain,\neducation (the genuine article), literature, journalism, prize titbits,\nup to date billing, concert tours in English watering resorts packed\nwith hydros and seaside theatres, turning money away, duets in Italian\nwith the accent perfectly true to nature and a quantity of other\nthings, no necessity, of course, to tell the world and his wife from\nthe housetops about it, and a slice of luck.'	591.3243955121732
+'By Cantwell’s offices roved Greaseabloom, by Ceppi’s virgins, bright of\ntheir oils.'	593.7203081720005
+'(Black Liz, a huge rooster hatching in a chalked circle, rises,\nstretches her wings and clucks.) \n\nBLACK LIZ:'	620.0245523266176
+'an endowment\nassurance policy of £ 500 in the Scottish Widows’ Assurance Society,\nintestated Millicent (Milly) Bloom, coming into force at 25 years as\nwith profit policy of £ 430, £ 462-10-0 and £ 500 at 60 years or death,\n65 years or death and death, respectively, or with profit policy\n(paidup) of £ 299-10-0 together with cash payment of £ 133-10-0, at\noption:'	622.9116764299913
+'and saw the dark tangled curls of\nhis bush floating, floating hair of the stream around the limp father\nof thousands, a languid floating flower.'	636.1635745838909
+'MrBloom promptly did as suggested and removed the incriminated\narticle, a blunt hornhandled ordinary knife with nothing particularly\nRoman or antique about it to the lay eye, observing that the point was\nthe least conspicuous point about it.'	638.2960125378286
+'Reassuringly, their place, where none could hear them talk, being\nsecluded, reassured, the decocted beverages, allowing for subsolid\nresidual sediment of a mechanical mixture, water plus sugar plus cream\nplus cocoa, having been consumed.'	657.1011469838879
+'its properties for cleansing,\nquenching thirst and fire, nourishing vegetation:'	688.1188899521335
+'Bacc.) attributes some of these demises to\nabdominal trauma in the case of women workers subjected to heavy\nlabours in the workshop and to marital discipline in the home but by\nfar the vast majority to neglect, private or official, culminating in\nthe exposure of newborn infants, the practice of criminal abortion or\nin the atrocious crime of infanticide.'	688.7757201605762
+'He carries a large\nportfolio labelled  Matcham’s Masterstrokes.)\n\nBEAUFOY:'	699.9751812449667
+"The Foundation's business office is located at 809 North 1500 West,\nSalt Lake City, UT 84116, (801) 596-1887."	717.7221992051531
+'(He unrolls his parchment rapidly and\nreads, his glowworm’s nose running backwards over the letters which he\nclaws.)  Stay, good friend.'	726.6681597152199
+'STEPHEN:'	735.9738219895283
+'STEPHEN:'	735.9738219895283
+'STEPHEN:'	735.9738219895283
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'BLOOM:'	747.7180851063829
+'swear\nthat I will always hail, ever conceal, never reveal, any part or parts,\nart or arts...'	749.6287205651273
+'A couched spear of acuminated granite rested\nby him while at his feet reposed a savage animal of the canine tribe\nwhose stertorous gasps announced that he was sunk in uneasy slumber, a\nsupposition confirmed by hoarse growls and spasmodic movements which\nhis master repressed from time to time by tranquilising blows of a\nmighty cudgel rudely fashioned out of paleolithic stone.'	797.112804041715
+'Enter, gentleman, to see\nin mirror every positions trapezes all that machine there besides also\nif desire act awfully bestial butcher’s boy pollutes in warm veal liver\nor omlet on the belly  pièce de Shakespeare.'	803.2503170181654
+'(With bobbed hair, purple gills, fat moustache rings round his\nshaven mouth, in mountaineer’s puttees, green silverbuttoned coat,\nsport skirt and alpine hat with moorcock’s feather, his hands stuck\ndeep in his breeches pockets, places his heel on her neck and grinds it\nin.)  Footstool!'	811.9267639479617
+'Fanned by a constant updraught of\nventilation between the kitchen and the chimneyflue, ignition was\ncommunicated from the faggots of precombustible fuel to polyhedral\nmasses of bituminous coal, containing in compressed mineral form the\nfoliated fossilised decidua of primeval forests which had in turn\nderived their vegetative existence from the sun, primal source of heat\n(radiant), transmitted through omnipresent luminiferous diathermanous\nether.'	886.4556942037757
+'Where?'	912.798701298701
+'For who is there who anything of some\nsignificance has apprehended but is conscious that that exterior\nsplendour may be the surface of a downwardtending lutulent reality or\non the contrary anyone so is there unilluminated as not to perceive\nthat as no nature’s boon can contend against the bounty of increase so\nit behoves every most just citizen to become the exhortator and\nadmonisher of his semblables and to tremble lest what had in the past\nbeen by the nation excellently commenced might be in the future not\nwith similar excellence accomplished if an inverecund habit shall have\ngradually traduced the honourable by ancestors transmitted customs to\nthat thither of profundity that that one was audacious excessively who\nwould have the hardihood to rise affirming that no more odious offence\ncan for anyone be than to oblivious neglect to consign that evangel\nsimultaneously command and promise which on all mortals with prophecy\nof abundance or with diminution’s menace that exalted of reiteratedly\nprocreating function ever irrevocably enjoined?'	925.6760400911754
+'1 prospectus of The Wonderworker, the world’s greatest remedy for\nrectal complaints, direct from Wonderworker, Coventry House, South\nPlace, London E C, addressed (erroneously) to MrL. Bloom with brief\naccompanying note commencing (erroneously):'	928.9982503495747
+'Two.'	976.1875000000001
+'middleaged men, old women, children, women dead in\nchildbirth, men with beards, baldheaded businessmen, consumptive girls\nwith little sparrows’ breasts.'	1053.5425555320219
+'the inmate of Old Man’s House (Royal\nHospital), Kilmainham, the inmate of Simpson’s Hospital for reduced but\nrespectable men permanently disabled by gout or want of sight.'	1116.9279537793634
+'All the octuplets are handsome, with valuable metallic faces,\nwellmade, respectably dressed and wellconducted, speaking five modern\nlanguages fluently and interested in various arts and sciences.'	1151.1345378526405
+'away.'	1277.9181818181814
+'Sir.'	1289.642201834862
+'O!'	1351.6442307692303
+'(O!'	1351.6442307692303
+'Young!'	1714.280487804878
+'In virtue of a) acquaintance initiated in September 1903 in the\nestablishment of George Mesias, merchant tailor and outfitter, 5 Eden\nQuay, b) hospitality extended and received in kind, reciprocated and\nreappropriated in person, c) comparative youth subject to impulses of\nambition and magnanimity, colleagual altruism and amorous egoism, d)\nextraracial attraction, intraracial inhibition, supraracial\nprerogative, e) an imminent provincial musical tour, common current\nexpenses, net proceeds divided.'	2008.0192111881267
+'God!'	2098.074626865672
+'MrDedalus!'	2555.836363636363
+'Gone.'	3346.9285714285725
+'Gone.'	3346.9285714285725
+'Free!'	3699.236842105264
+'Done.'	3699.236842105264
+'Hard.'	4134.441176470589
+'Eh?'	4392.84375
+'warm.'	4685.700000000003
+'Dedalus.'	5622.839999999997
+'Written.'	5857.125000000001
+'Talk:'	6111.782608695656
+'Wait.'	6111.782608695656
+'Sister?'	7028.550000000003
+'LYNCH:'	7028.550000000003
+'Stop!'	7398.473684210528
+'Save.'	7809.500000000001
+'Save.'	7809.500000000001
+'FLORRY:'	8785.6875
+'Ready?'	9371.400000000005
+'Loud.'	10040.785714285717
+'Martha!'	10040.785714285717
+'Phenomenon!'	10813.153846153842
+'RUDOLPH:'	12779.181818181825
+'Jannock.'	15619.000000000002
+'Apart.'	15619.000000000002
+'Fifteen.'	15619.000000000002
+'Technic.'	15619.000000000002
+'Prrprr.'	15619.000000000002
